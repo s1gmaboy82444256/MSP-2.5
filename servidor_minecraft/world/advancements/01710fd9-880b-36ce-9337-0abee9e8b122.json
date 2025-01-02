@@ -1,19 +1,13 @@
 {
-  "usefulhats:recipes/combat/shulker_helmet": {
-    "criteria": {
-      "has_shulker_shell": "2024-12-31 01:44:55 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
     "criteria": {
       "has_mutton": "2024-12-31 02:53:44 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+  "securitycraft:recipes/securitycraft/reinforced_purple_stained_glass_pane_from_dye": {
     "criteria": {
-      "has_porkchop": "2024-12-31 02:33:26 +0000"
+      "has_glass": "2025-01-02 01:17:17 +0000"
     },
     "done": true
   },
@@ -41,18 +35,6 @@
     },
     "done": true
   },
-  "aquaculture:recipes/misc/tin_can_to_iron_nugget_from_blasting": {
-    "criteria": {
-      "has_items": "2024-12-31 01:44:55 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:recipes/misc/animal_dictionary": {
-    "criteria": {
-      "has_items": "2024-12-31 18:38:03 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2024-12-31 18:38:03 +0000"
@@ -65,27 +47,15 @@
     },
     "done": true
   },
-  "aquaculture:recipes/food/cooked_frog_legs": {
-    "criteria": {
-      "has_items": "2024-12-31 01:44:55 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/umbran_boat": {
-    "criteria": {
-      "in_water": "2024-12-31 02:06:03 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/transportation/willow_boat": {
     "criteria": {
       "in_water": "2024-12-31 02:06:03 +0000"
     },
     "done": true
   },
-  "biomesoplenty:recipes/transportation/palm_boat": {
+  "securitycraft:recipes/securitycraft/reinforced_green_stained_glass_pane_from_dye": {
     "criteria": {
-      "in_water": "2024-12-31 02:06:03 +0000"
+      "has_glass": "2025-01-02 01:17:17 +0000"
     },
     "done": true
   },
@@ -95,21 +65,15 @@
     },
     "done": true
   },
-  "aquaculture:recipes/aquaculture/redstone_hook": {
-    "criteria": {
-      "has_items": "2024-12-31 01:44:55 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/redwood_boat": {
-    "criteria": {
-      "in_water": "2024-12-31 02:06:03 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/securitycraft/protecto": {
     "criteria": {
       "has_ender_eye": "2024-12-31 18:38:03 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_green_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-02 01:17:17 +0000"
     },
     "done": true
   },
@@ -119,9 +83,9 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/warped_mosco_kill": {
+  "securitycraft:recipes/securitycraft/reinforced_red_stained_glass_pane_from_dye": {
     "criteria": {
-      "killed": "2024-12-31 18:30:19 +0000"
+      "has_glass": "2025-01-02 01:17:17 +0000"
     },
     "done": true
   },
@@ -131,15 +95,9 @@
     },
     "done": true
   },
-  "aquaculture:recipes/food/cooked_fish_fillet": {
+  "securitycraft:recipes/securitycraft/reinforced_light_blue_stained_glass_pane_from_dye": {
     "criteria": {
-      "has_items": "2024-12-31 01:44:55 +0000"
-    },
-    "done": true
-  },
-  "usefulhats:recipes/combat/ender_helmet": {
-    "criteria": {
-      "has_ender_pearl": "2024-12-31 01:44:55 +0000"
+      "has_glass": "2025-01-02 01:17:17 +0000"
     },
     "done": true
   },
@@ -149,9 +107,27 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_red_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-01-02 01:17:17 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_black_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-01-02 01:17:17 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/tools/golden_fishing_rod": {
     "criteria": {
       "has_vanilla_rod": "2024-12-31 01:44:55 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_orange_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-02 01:17:17 +0000"
     },
     "done": true
   },
@@ -167,15 +143,9 @@
     },
     "done": true
   },
-  "mowziesmobs:root": {
+  "securitycraft:recipes/securitycraft/reinforced_orange_stained_glass_pane_from_glass": {
     "criteria": {
-      "custom_test_name": "2024-12-31 01:44:56 +0000"
-    },
-    "done": true
-  },
-  "aquaculture:recipes/aquaculture/gold_hook": {
-    "criteria": {
-      "has_items": "2024-12-31 01:44:55 +0000"
+      "has_glass": "2025-01-02 01:17:17 +0000"
     },
     "done": true
   },
@@ -185,15 +155,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+  "securitycraft:recipes/securitycraft/reinforced_light_blue_stained_glass": {
     "criteria": {
-      "has_golden_boots": "2024-12-31 02:16:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/stone_shovel": {
-    "criteria": {
-      "has_cobblestone": "2024-12-31 02:26:26 +0000"
+      "has_glass": "2025-01-02 01:17:17 +0000"
     },
     "done": true
   },
@@ -203,9 +167,9 @@
     },
     "done": true
   },
-  "cataclysm:root": {
+  "securitycraft:recipes/securitycraft/reinforced_blue_stained_glass_pane_from_dye": {
     "criteria": {
-      "custom_test_name": "2024-12-31 01:44:56 +0000"
+      "has_glass": "2025-01-02 01:17:17 +0000"
     },
     "done": true
   },
@@ -215,21 +179,9 @@
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/reinforced_andesite": {
-    "criteria": {
-      "has_cobblestone": "2024-12-31 02:26:26 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/securitycraft/reinforced_andesite_with_vanilla_cobblestone": {
     "criteria": {
       "has_cobblestone": "2024-12-31 02:26:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bookshelf": {
-    "criteria": {
-      "has_book": "2024-12-31 18:38:03 +0000"
     },
     "done": true
   },
@@ -251,15 +203,15 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/capsid": {
+  "securitycraft:recipes/securitycraft/reinforced_light_gray_stained_glass": {
     "criteria": {
-      "capsid": "2025-01-01 23:58:26 +0000"
+      "has_glass": "2025-01-02 01:17:17 +0000"
     },
     "done": true
   },
-  "aquaculture:recipes/aquaculture/diamond_hook": {
+  "alexsmobs:alexsmobs/capsid": {
     "criteria": {
-      "has_items": "2024-12-31 01:44:55 +0000"
+      "capsid": "2025-01-01 23:58:26 +0000"
     },
     "done": true
   },
@@ -275,15 +227,9 @@
     },
     "done": true
   },
-  "biomesoplenty:biomesoplenty/root": {
+  "securitycraft:recipes/securitycraft/reinforced_white_stained_glass_pane_from_glass": {
     "criteria": {
-      "shrubland": "2024-12-31 01:44:55 +0000"
-    },
-    "done": true
-  },
-  "aquaculture:recipes/food/cooked_frog_legs_from_campfire": {
-    "criteria": {
-      "has_items": "2024-12-31 01:44:55 +0000"
+      "has_glass": "2025-01-02 01:17:17 +0000"
     },
     "done": true
   },
@@ -299,9 +245,9 @@
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/laser_block": {
+  "securitycraft:recipes/securitycraft/reinforced_light_blue_stained_glass_pane_from_glass": {
     "criteria": {
-      "has_stone": "2024-12-31 02:26:26 +0000"
+      "has_glass": "2025-01-02 01:17:17 +0000"
     },
     "done": true
   },
@@ -311,27 +257,9 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/enderiophage": {
-    "criteria": {
-      "killed_by": "2025-01-01 23:58:14 +0000"
-    },
-    "done": true
-  },
-  "usefulhats:recipes/combat/aquanaut_helmet": {
-    "criteria": {
-      "has_turtle_helmet": "2024-12-31 01:44:55 +0000"
-    },
-    "done": true
-  },
   "aquaculture:recipes/food/frog_legs": {
     "criteria": {
       "has_items": "2024-12-31 01:44:55 +0000"
-    },
-    "done": true
-  },
-  "usefulhats:recipes/combat/stocking_cap": {
-    "criteria": {
-      "has_string": "2024-12-31 01:44:55 +0000"
     },
     "done": true
   },
@@ -341,15 +269,9 @@
     },
     "done": true
   },
-  "aquaculture:recipes/misc/tin_can_to_iron_nugget": {
+  "securitycraft:recipes/securitycraft/reinforced_red_stained_glass": {
     "criteria": {
-      "has_items": "2024-12-31 01:44:55 +0000"
-    },
-    "done": true
-  },
-  "usefulhats:recipes/combat/lucky_hat": {
-    "criteria": {
-      "has_rabbit_foot": "2024-12-31 01:44:55 +0000"
+      "has_glass": "2025-01-02 01:17:17 +0000"
     },
     "done": true
   },
@@ -357,19 +279,6 @@
     "criteria": {
       "has_fishing_rod": "2024-12-31 01:44:55 +0000",
       "has_fillet_knife": "2024-12-31 01:44:55 +0000"
-    },
-    "done": true
-  },
-  "usefulhats:recipes/combat/mining_hat": {
-    "criteria": {
-      "has_gold_ingot": "2024-12-31 01:44:55 +0000",
-      "has_glowstone_dust": "2024-12-31 01:44:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/crossbow": {
-    "criteria": {
-      "has_tripwire_hook": "2024-12-31 18:38:03 +0000"
     },
     "done": true
   },
@@ -385,15 +294,15 @@
     },
     "done": true
   },
-  "aquaculture:recipes/food/cooked_fish_fillet_from_smoking": {
+  "securitycraft:recipes/securitycraft/reinforced_lime_stained_glass": {
     "criteria": {
-      "has_items": "2024-12-31 01:44:55 +0000"
+      "has_glass": "2025-01-02 01:17:17 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+  "aquaculture:recipes/food/cooked_fish_fillet_from_smoking": {
     "criteria": {
-      "has_porkchop": "2024-12-31 02:33:26 +0000"
+      "has_items": "2024-12-31 01:44:55 +0000"
     },
     "done": true
   },
@@ -409,16 +318,9 @@
     },
     "done": true
   },
-  "usefulhats:recipes/combat/postman_hat": {
+  "securitycraft:recipes/securitycraft/reinforced_blue_stained_glass_pane_from_glass": {
     "criteria": {
-      "has_lapis_lazuli": "2024-12-31 01:44:55 +0000",
-      "has_gold_nugget": "2024-12-31 01:44:55 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:recipes/misc/enderiophage_rocket": {
-    "criteria": {
-      "has_items": "2025-01-01 23:58:26 +0000"
+      "has_glass": "2025-01-02 01:17:17 +0000"
     },
     "done": true
   },
@@ -428,34 +330,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/light_blue_bed_from_white_bed": {
-    "criteria": {
-      "has_bed": "2024-12-31 02:13:34 +0000"
-    },
-    "done": true
-  },
   "usefulhats:recipes/combat/chopping_hat": {
     "criteria": {
       "has_rabbit_hide": "2024-12-31 01:44:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_nugget_from_blasting": {
-    "criteria": {
-      "has_iron_leggings": "2024-12-31 02:16:58 +0000"
-    },
-    "done": true
-  },
-  "aquaculture:recipes/food/sushi": {
-    "criteria": {
-      "has_alt_items": "2024-12-31 01:44:55 +0000",
-      "has_items": "2024-12-31 01:44:55 +0000"
-    },
-    "done": true
-  },
-  "betterdungeons:root": {
-    "criteria": {
-      "always": "2024-12-31 01:44:56 +0000"
     },
     "done": true
   },
@@ -471,21 +348,15 @@
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/reinforced_diorite": {
-    "criteria": {
-      "has_cobblestone": "2024-12-31 02:26:26 +0000"
-    },
-    "done": true
-  },
   "aquaculture:recipes/decorations/spruce_fish_mount": {
     "criteria": {
       "has_items": "2024-12-31 01:44:55 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/kill_a_mob": {
+  "securitycraft:recipes/securitycraft/reinforced_white_stained_glass_pane_from_dye": {
     "criteria": {
-      "minecraft:creeper": "2024-12-31 02:14:38 +0000"
+      "has_glass": "2025-01-02 01:17:17 +0000"
     },
     "done": true
   },
@@ -519,19 +390,6 @@
     },
     "done": true
   },
-  "aquaculture:recipes/misc/iron_nugget_from_smelting": {
-    "criteria": {
-      "has_fishing_rod": "2024-12-31 01:44:55 +0000",
-      "has_fillet_knife": "2024-12-31 01:44:55 +0000"
-    },
-    "done": true
-  },
-  "aquaculture:recipes/decorations/oak_fish_mount": {
-    "criteria": {
-      "has_items": "2024-12-31 01:44:55 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "shrubland": "2024-12-31 01:44:55 +0000",
@@ -553,21 +411,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone": {
+  "securitycraft:recipes/securitycraft/reinforced_green_stained_glass_pane_from_glass": {
     "criteria": {
-      "has_cobblestone": "2024-12-31 02:26:26 +0000"
-    },
-    "done": true
-  },
-  "majruszsdifficulty:progressive_difficulty/normal_mode": {
-    "criteria": {
-      "game_state": "2024-12-31 01:44:55 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/hellbark_boat": {
-    "criteria": {
-      "in_water": "2024-12-31 02:06:03 +0000"
+      "has_glass": "2025-01-02 01:17:17 +0000"
     },
     "done": true
   },
@@ -577,29 +423,9 @@
     },
     "done": true
   },
-  "aquaculture:recipes/decorations/dark_oak_fish_mount": {
+  "securitycraft:recipes/securitycraft/reinforced_gray_stained_glass_pane_from_glass": {
     "criteria": {
-      "has_items": "2024-12-31 01:44:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:taiga": "2024-12-31 01:58:21 +0000",
-      "minecraft:beach": "2024-12-31 01:47:55 +0000",
-      "minecraft:river": "2024-12-31 01:47:54 +0000",
-      "minecraft:stony_shore": "2024-12-31 02:04:46 +0000",
-      "minecraft:cold_ocean": "2024-12-31 02:05:40 +0000",
-      "minecraft:forest": "2024-12-31 02:06:54 +0000",
-      "minecraft:ocean": "2024-12-31 01:45:50 +0000",
-      "minecraft:savanna": "2024-12-31 02:56:46 +0000",
-      "minecraft:plains": "2024-12-31 01:56:16 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/decorations/purple_bed_from_white_bed": {
-    "criteria": {
-      "has_bed": "2024-12-31 02:13:34 +0000"
+      "has_glass": "2025-01-02 01:17:17 +0000"
     },
     "done": true
   },
@@ -615,6 +441,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_gray_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-01-02 01:17:17 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/misc/jellyfish_to_slimeball": {
     "criteria": {
       "has_items": "2024-12-31 01:44:55 +0000"
@@ -627,40 +459,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/stone_sword": {
+  "securitycraft:recipes/securitycraft/reinforced_purple_stained_glass_pane_from_glass": {
     "criteria": {
-      "has_cobblestone": "2024-12-31 02:26:26 +0000"
+      "has_glass": "2025-01-02 01:17:17 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/cobblestone_wall": {
+  "securitycraft:recipes/securitycraft/reinforced_brown_stained_glass_pane_from_dye": {
     "criteria": {
-      "has_cobblestone": "2024-12-31 02:26:26 +0000"
-    },
-    "done": true
-  },
-  "usefulhats:recipes/combat/wing_helmet": {
-    "criteria": {
-      "has_feather": "2024-12-31 01:44:55 +0000",
-      "has_phantom_membrane": "2024-12-31 01:44:55 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/cfm/stone_cabinet": {
-    "criteria": {
-      "has_planks": "2024-12-31 02:26:26 +0000"
+      "has_glass": "2025-01-02 01:17:17 +0000"
     },
     "done": true
   },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2024-12-31 02:06:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/stone_pickaxe": {
-    "criteria": {
-      "has_cobblestone": "2024-12-31 02:26:26 +0000"
     },
     "done": true
   },
@@ -719,40 +532,15 @@
     },
     "done": true
   },
-  "aquaculture:recipes/misc/bonemeal_from_fish_bones": {
+  "securitycraft:recipes/securitycraft/reinforced_magenta_stained_glass_pane_from_glass": {
     "criteria": {
-      "has_items": "2024-12-31 01:44:55 +0000"
-    },
-    "done": true
-  },
-  "ironfurnaces:coal": {
-    "criteria": {
-      "rainbowcoal": "2024-12-31 01:44:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/jungle_boat": {
-    "criteria": {
-      "in_water": "2024-12-31 02:06:03 +0000"
+      "has_glass": "2025-01-02 01:17:17 +0000"
     },
     "done": true
   },
   "aquaculture:recipes/decorations/acacia_fish_mount": {
     "criteria": {
       "has_items": "2024-12-31 01:44:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
-    "criteria": {
-      "has_cobblestone": "2024-12-31 02:26:26 +0000"
-    },
-    "done": true
-  },
-  "aquaculture:recipes/misc/gold_nugget_from_blasting": {
-    "criteria": {
-      "has_fishing_rod": "2024-12-31 01:44:55 +0000",
-      "has_fillet_knife": "2024-12-31 01:44:55 +0000"
     },
     "done": true
   },
@@ -768,21 +556,9 @@
     },
     "done": true
   },
-  "aquaculture:recipes/aquaculture/heavy_hook": {
-    "criteria": {
-      "has_items": "2024-12-31 01:44:55 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/lime_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-12-31 02:13:34 +0000"
-    },
-    "done": true
-  },
-  "aquaculture:recipes/aquaculture/iron_hook": {
-    "criteria": {
-      "has_items": "2024-12-31 01:44:55 +0000"
     },
     "done": true
   },
@@ -792,9 +568,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/dark_oak_boat": {
+  "securitycraft:recipes/securitycraft/reinforced_yellow_stained_glass": {
     "criteria": {
-      "in_water": "2024-12-31 02:06:03 +0000"
+      "has_glass": "2025-01-02 01:17:17 +0000"
     },
     "done": true
   },
@@ -824,33 +600,9 @@
     },
     "done": true
   },
-  "aquaculture:recipes/aquaculture/double_hook": {
-    "criteria": {
-      "has_items": "2024-12-31 01:44:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/brown_bed_from_white_bed": {
-    "criteria": {
-      "has_bed": "2024-12-31 02:13:34 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-12-31 02:13:34 +0000"
-    },
-    "done": true
-  },
-  "aquaculture:recipes/decorations/jungle_fish_mount": {
-    "criteria": {
-      "has_items": "2024-12-31 01:44:55 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/cfm/stone_chair": {
-    "criteria": {
-      "has_planks": "2024-12-31 02:26:26 +0000"
     },
     "done": true
   },
@@ -872,15 +624,9 @@
     },
     "done": true
   },
-  "cfm:recipes/cfm/stone_bedside_cabinet": {
+  "securitycraft:recipes/securitycraft/reinforced_cyan_stained_glass_pane_from_dye": {
     "criteria": {
-      "has_planks": "2024-12-31 02:26:26 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/jacaranda_boat": {
-    "criteria": {
-      "in_water": "2024-12-31 02:06:03 +0000"
+      "has_glass": "2025-01-02 01:17:17 +0000"
     },
     "done": true
   },
@@ -896,15 +642,598 @@
     },
     "done": true
   },
-  "aquaculture:recipes/decorations/birch_fish_mount": {
+  "create:root": {
+    "criteria": {
+      "0": "2024-12-31 01:44:55 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/aquaculture/fishing_line": {
     "criteria": {
       "has_items": "2024-12-31 01:44:55 +0000"
     },
     "done": true
   },
-  "create:root": {
+  "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
-      "0": "2024-12-31 01:44:55 +0000"
+      "in_water": "2024-12-31 02:06:03 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_light_gray_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-01-02 01:17:17 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_yellow_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-01-02 01:17:17 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/misc/neptinium_ingot_from_blasting": {
+    "criteria": {
+      "has_leggings": "2024-12-31 01:44:55 +0000",
+      "has_axe": "2024-12-31 01:44:55 +0000",
+      "has_helmet": "2024-12-31 01:44:55 +0000",
+      "has_fishing_rod": "2024-12-31 01:44:55 +0000",
+      "has_bow": "2024-12-31 01:44:55 +0000",
+      "has_chestplate": "2024-12-31 01:44:55 +0000",
+      "has_sword": "2024-12-31 01:44:55 +0000",
+      "has_fillet_knife": "2024-12-31 01:44:55 +0000",
+      "has_shovel": "2024-12-31 01:44:55 +0000",
+      "has_hoe": "2024-12-31 01:44:55 +0000",
+      "has_boots": "2024-12-31 01:44:55 +0000",
+      "has_pickaxe": "2024-12-31 01:44:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-12-31 02:13:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2024-12-31 02:33:26 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-02 01:17:17 +0000"
+    },
+    "done": true
+  },
+  "usefulhats:recipes/combat/shulker_helmet": {
+    "criteria": {
+      "has_shulker_shell": "2024-12-31 01:44:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2024-12-31 02:33:26 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/misc/tin_can_to_iron_nugget_from_blasting": {
+    "criteria": {
+      "has_items": "2024-12-31 01:44:55 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_cyan_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-02 01:17:17 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:recipes/misc/animal_dictionary": {
+    "criteria": {
+      "has_items": "2024-12-31 18:38:03 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/food/cooked_frog_legs": {
+    "criteria": {
+      "has_items": "2024-12-31 01:44:55 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/umbran_boat": {
+    "criteria": {
+      "in_water": "2024-12-31 02:06:03 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/palm_boat": {
+    "criteria": {
+      "in_water": "2024-12-31 02:06:03 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/aquaculture/redstone_hook": {
+    "criteria": {
+      "has_items": "2024-12-31 01:44:55 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/redwood_boat": {
+    "criteria": {
+      "in_water": "2024-12-31 02:06:03 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/warped_mosco_kill": {
+    "criteria": {
+      "killed": "2024-12-31 18:30:19 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/food/cooked_fish_fillet": {
+    "criteria": {
+      "has_items": "2024-12-31 01:44:55 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-01-02 01:17:17 +0000"
+    },
+    "done": true
+  },
+  "usefulhats:recipes/combat/ender_helmet": {
+    "criteria": {
+      "has_ender_pearl": "2024-12-31 01:44:55 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_brown_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-01-02 01:17:17 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_black_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-01-02 01:17:17 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2024-12-31 01:44:56 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_yellow_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-01-02 01:17:17 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/aquaculture/gold_hook": {
+    "criteria": {
+      "has_items": "2024-12-31 01:44:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_boots": "2024-12-31 02:16:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2024-12-31 02:26:26 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2024-12-31 01:44:56 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_andesite": {
+    "criteria": {
+      "has_cobblestone": "2024-12-31 02:26:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-31 18:38:03 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_black_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-02 01:17:17 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/aquaculture/diamond_hook": {
+    "criteria": {
+      "has_items": "2024-12-31 01:44:55 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "shrubland": "2024-12-31 01:44:55 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/food/cooked_frog_legs_from_campfire": {
+    "criteria": {
+      "has_items": "2024-12-31 01:44:55 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/laser_block": {
+    "criteria": {
+      "has_stone": "2024-12-31 02:26:26 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/enderiophage": {
+    "criteria": {
+      "killed_by": "2025-01-01 23:58:14 +0000"
+    },
+    "done": true
+  },
+  "usefulhats:recipes/combat/aquanaut_helmet": {
+    "criteria": {
+      "has_turtle_helmet": "2024-12-31 01:44:55 +0000"
+    },
+    "done": true
+  },
+  "usefulhats:recipes/combat/stocking_cap": {
+    "criteria": {
+      "has_string": "2024-12-31 01:44:55 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/misc/tin_can_to_iron_nugget": {
+    "criteria": {
+      "has_items": "2024-12-31 01:44:55 +0000"
+    },
+    "done": true
+  },
+  "usefulhats:recipes/combat/lucky_hat": {
+    "criteria": {
+      "has_rabbit_foot": "2024-12-31 01:44:55 +0000"
+    },
+    "done": true
+  },
+  "usefulhats:recipes/combat/mining_hat": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-31 01:44:55 +0000",
+      "has_glowstone_dust": "2024-12-31 01:44:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_tripwire_hook": "2024-12-31 18:38:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2024-12-31 02:33:26 +0000"
+    },
+    "done": true
+  },
+  "usefulhats:recipes/combat/postman_hat": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-31 01:44:55 +0000",
+      "has_gold_nugget": "2024-12-31 01:44:55 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:recipes/misc/enderiophage_rocket": {
+    "criteria": {
+      "has_items": "2025-01-01 23:58:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-12-31 02:13:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_leggings": "2024-12-31 02:16:58 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-02 01:17:17 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/food/sushi": {
+    "criteria": {
+      "has_alt_items": "2024-12-31 01:44:55 +0000",
+      "has_items": "2024-12-31 01:44:55 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2024-12-31 01:44:56 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_diorite": {
+    "criteria": {
+      "has_cobblestone": "2024-12-31 02:26:26 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_light_gray_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-01-02 01:17:17 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_brown_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-02 01:17:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:creeper": "2024-12-31 02:14:38 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_orange_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-01-02 01:17:17 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_magenta_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-02 01:17:17 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_fishing_rod": "2024-12-31 01:44:55 +0000",
+      "has_fillet_knife": "2024-12-31 01:44:55 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/decorations/oak_fish_mount": {
+    "criteria": {
+      "has_items": "2024-12-31 01:44:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2024-12-31 02:26:26 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:progressive_difficulty/normal_mode": {
+    "criteria": {
+      "game_state": "2024-12-31 01:44:55 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/hellbark_boat": {
+    "criteria": {
+      "in_water": "2024-12-31 02:06:03 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_pink_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-02 01:17:17 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/decorations/dark_oak_fish_mount": {
+    "criteria": {
+      "has_items": "2024-12-31 01:44:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:taiga": "2024-12-31 01:58:21 +0000",
+      "minecraft:beach": "2024-12-31 01:47:55 +0000",
+      "minecraft:river": "2024-12-31 01:47:54 +0000",
+      "minecraft:stony_shore": "2024-12-31 02:04:46 +0000",
+      "minecraft:cold_ocean": "2024-12-31 02:05:40 +0000",
+      "minecraft:forest": "2024-12-31 02:06:54 +0000",
+      "minecraft:ocean": "2024-12-31 01:45:50 +0000",
+      "minecraft:savanna": "2024-12-31 02:56:46 +0000",
+      "minecraft:plains": "2024-12-31 01:56:16 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/purple_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-12-31 02:13:34 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_purple_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-02 01:17:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2024-12-31 02:26:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2024-12-31 02:26:26 +0000"
+    },
+    "done": true
+  },
+  "usefulhats:recipes/combat/wing_helmet": {
+    "criteria": {
+      "has_feather": "2024-12-31 01:44:55 +0000",
+      "has_phantom_membrane": "2024-12-31 01:44:55 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stone_cabinet": {
+    "criteria": {
+      "has_planks": "2024-12-31 02:26:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2024-12-31 02:26:26 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_pink_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-01-02 01:17:17 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_lime_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-01-02 01:17:17 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/misc/bonemeal_from_fish_bones": {
+    "criteria": {
+      "has_items": "2024-12-31 01:44:55 +0000"
+    },
+    "done": true
+  },
+  "ironfurnaces:coal": {
+    "criteria": {
+      "rainbowcoal": "2024-12-31 01:44:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2024-12-31 02:06:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2024-12-31 02:26:26 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_fishing_rod": "2024-12-31 01:44:55 +0000",
+      "has_fillet_knife": "2024-12-31 01:44:55 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_magenta_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-01-02 01:17:17 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/aquaculture/heavy_hook": {
+    "criteria": {
+      "has_items": "2024-12-31 01:44:55 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/aquaculture/iron_hook": {
+    "criteria": {
+      "has_items": "2024-12-31 01:44:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2024-12-31 02:06:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-01-02 01:17:17 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/aquaculture/double_hook": {
+    "criteria": {
+      "has_items": "2024-12-31 01:44:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-12-31 02:13:34 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/decorations/jungle_fish_mount": {
+    "criteria": {
+      "has_items": "2024-12-31 01:44:55 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_white_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-02 01:17:17 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stone_chair": {
+    "criteria": {
+      "has_planks": "2024-12-31 02:26:26 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stone_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2024-12-31 02:26:26 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/jacaranda_boat": {
+    "criteria": {
+      "in_water": "2024-12-31 02:06:03 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_pink_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-01-02 01:17:17 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/decorations/birch_fish_mount": {
+    "criteria": {
+      "has_items": "2024-12-31 01:44:55 +0000"
     },
     "done": true
   },
@@ -938,32 +1267,9 @@
     },
     "done": true
   },
-  "aquaculture:recipes/aquaculture/fishing_line": {
+  "securitycraft:recipes/securitycraft/reinforced_lime_stained_glass_pane_from_glass": {
     "criteria": {
-      "has_items": "2024-12-31 01:44:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/oak_boat": {
-    "criteria": {
-      "in_water": "2024-12-31 02:06:03 +0000"
-    },
-    "done": true
-  },
-  "aquaculture:recipes/misc/neptinium_ingot_from_blasting": {
-    "criteria": {
-      "has_leggings": "2024-12-31 01:44:55 +0000",
-      "has_axe": "2024-12-31 01:44:55 +0000",
-      "has_helmet": "2024-12-31 01:44:55 +0000",
-      "has_fishing_rod": "2024-12-31 01:44:55 +0000",
-      "has_bow": "2024-12-31 01:44:55 +0000",
-      "has_chestplate": "2024-12-31 01:44:55 +0000",
-      "has_sword": "2024-12-31 01:44:55 +0000",
-      "has_fillet_knife": "2024-12-31 01:44:55 +0000",
-      "has_shovel": "2024-12-31 01:44:55 +0000",
-      "has_hoe": "2024-12-31 01:44:55 +0000",
-      "has_boots": "2024-12-31 01:44:55 +0000",
-      "has_pickaxe": "2024-12-31 01:44:55 +0000"
+      "has_glass": "2025-01-02 01:17:17 +0000"
     },
     "done": true
   },
@@ -979,15 +1285,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/blue_bed_from_white_bed": {
+  "securitycraft:recipes/securitycraft/reinforced_cyan_stained_glass_pane_from_glass": {
     "criteria": {
-      "has_bed": "2024-12-31 02:13:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_porkchop": {
-    "criteria": {
-      "has_porkchop": "2024-12-31 02:33:26 +0000"
+      "has_glass": "2025-01-02 01:17:17 +0000"
     },
     "done": true
   },

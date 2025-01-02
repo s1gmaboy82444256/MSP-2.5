@@ -12552,3 +12552,445 @@ Things may not work well.
 2025-01-02 01:07:29,911 [36mDEBUG[m [m[Server thread][m [mn.m.c.ForgeHooks.writeAdditionalLevelSaveData(1448)[m: ID Map collection complete world
 2025-01-02 01:08:40,561 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: AquilesSC issued server command: /time set day
 2025-01-02 01:08:40,563 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_6352_(656)[m: [AquilesSC: Set the time to 1000]
+2025-01-02 01:12:29,855 [36mDEBUG[m [m[Server thread][m [mn.m.c.ForgeHooks.writeAdditionalLevelSaveData(1442)[m: Gathering id map for writing to world save world
+2025-01-02 01:12:29,871 [36mDEBUG[m [m[Server thread][m [mn.m.c.ForgeHooks.writeAdditionalLevelSaveData(1448)[m: ID Map collection complete world
+2025-01-02 01:13:09,548 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: iZxry issued server command: /reload
+2025-01-02 01:13:09,550 [32mINFO [m [m[Server thread][m [mColouredConsoleSender.sendMessage(55)[m: iZxry: §cPlease note that this command is not supported and may cause issues when using some plugins.
+2025-01-02 01:13:09,551 [32mINFO [m [m[Server thread][m [mColouredConsoleSender.sendMessage(55)[m: iZxry: §cIf you encounter any issues please use the /stop command to restart your server.
+2025-01-02 01:13:09,560 [32mINFO [m [m[Server thread][m [mMinecraft.publish(36)[m: Debug logging is enabled
+2025-01-02 01:13:09,561 [32mINFO [m [m[Server thread][m [mMinecraft.publish(36)[m: Using 4 threads for Netty based IO
+2025-01-02 01:13:09,561 [32mINFO [m [m[Server thread][m [m.playerSample(274)[m: Server Ping Player Sample Count: 12
+2025-01-02 01:13:09,575 [36mDEBUG[m [m[Server thread][m [mn.m.s.ServerLifecycleHooks.serverPackFinder(219)[m: Generating PackInfo named mod:betterdungeons for mod file /workspaces/MSP-2.5/servidor_minecraft/mods/YungsBetterDungeons-1.18.2-Forge-2.1.0.jar
+2025-01-02 01:13:09,576 [36mDEBUG[m [m[Server thread][m [mn.m.s.ServerLifecycleHooks.serverPackFinder(219)[m: Generating PackInfo named mod:mowziesmobs for mod file /workspaces/MSP-2.5/servidor_minecraft/mods/mowziesmobs-1.6.3.jar
+2025-01-02 01:13:09,576 [36mDEBUG[m [m[Server thread][m [mn.m.s.ServerLifecycleHooks.serverPackFinder(219)[m: Generating PackInfo named mod:flashnpcs for mod file /workspaces/MSP-2.5/servidor_minecraft/mods/flashnpcs-1.18.2-1.2.0.jar
+2025-01-02 01:13:09,576 [36mDEBUG[m [m[Server thread][m [mn.m.s.ServerLifecycleHooks.serverPackFinder(219)[m: Generating PackInfo named mod:jei for mod file /workspaces/MSP-2.5/servidor_minecraft/mods/jei-1.18.2-forge-10.2.1.1009.jar
+2025-01-02 01:13:09,576 [36mDEBUG[m [m[Server thread][m [mn.m.s.ServerLifecycleHooks.serverPackFinder(219)[m: Generating PackInfo named mod:majruszsdifficulty for mod file /workspaces/MSP-2.5/servidor_minecraft/mods/majruszs-difficulty-1.18.2-1.8.1.jar
+2025-01-02 01:13:09,576 [36mDEBUG[m [m[Server thread][m [mn.m.s.ServerLifecycleHooks.serverPackFinder(219)[m: Generating PackInfo named mod:libraryferret for mod file /workspaces/MSP-2.5/servidor_minecraft/mods/libraryferret-forge-1.18.2-4.0.0.jar
+2025-01-02 01:13:09,576 [36mDEBUG[m [m[Server thread][m [mn.m.s.ServerLifecycleHooks.serverPackFinder(219)[m: Generating PackInfo named mod:sophisticatedcore for mod file /workspaces/MSP-2.5/servidor_minecraft/mods/sophisticatedcore-1.18.2-0.6.4.604.jar
+2025-01-02 01:13:09,576 [36mDEBUG[m [m[Server thread][m [mn.m.s.ServerLifecycleHooks.serverPackFinder(219)[m: Generating PackInfo named mod:waystones for mod file /workspaces/MSP-2.5/servidor_minecraft/mods/waystones-forge-1.18.2-10.2.2.jar
+2025-01-02 01:13:09,577 [36mDEBUG[m [m[Server thread][m [mn.m.s.ServerLifecycleHooks.serverPackFinder(219)[m: Generating PackInfo named mod:journeymap for mod file /workspaces/MSP-2.5/servidor_minecraft/mods/journeymap-1.18.2-5.9.8-forge.jar
+2025-01-02 01:13:09,577 [36mDEBUG[m [m[Server thread][m [mn.m.s.ServerLifecycleHooks.serverPackFinder(219)[m: Generating PackInfo named mod:citadel for mod file /workspaces/MSP-2.5/servidor_minecraft/mods/citadel-1.11.3-1.18.2.jar
+2025-01-02 01:13:09,577 [36mDEBUG[m [m[Server thread][m [mn.m.s.ServerLifecycleHooks.serverPackFinder(219)[m: Generating PackInfo named mod:alexsmobs for mod file /workspaces/MSP-2.5/servidor_minecraft/mods/alexsmobs-1.18.6.jar
+2025-01-02 01:13:09,577 [36mDEBUG[m [m[Server thread][m [mn.m.s.ServerLifecycleHooks.serverPackFinder(219)[m: Generating PackInfo named mod:artifacts for mod file /workspaces/MSP-2.5/servidor_minecraft/mods/artifacts-1.18.2-4.2.4.jar
+2025-01-02 01:13:09,577 [36mDEBUG[m [m[Server thread][m [mn.m.s.ServerLifecycleHooks.serverPackFinder(219)[m: Generating PackInfo named mod:yungsapi for mod file /workspaces/MSP-2.5/servidor_minecraft/mods/YungsApi-1.18.2-Forge-2.2.9.jar
+2025-01-02 01:13:09,577 [36mDEBUG[m [m[Server thread][m [mn.m.s.ServerLifecycleHooks.serverPackFinder(219)[m: Generating PackInfo named mod:feature_nbt_deadlock_be_gone for mod file /workspaces/MSP-2.5/servidor_minecraft/mods/feature_nbt_deadlock_be_gone_forge-2.0.0+1.18.2.jar
+2025-01-02 01:13:09,577 [36mDEBUG[m [m[Server thread][m [mn.m.s.ServerLifecycleHooks.serverPackFinder(219)[m: Generating PackInfo named mod:sophisticatedbackpacks for mod file /workspaces/MSP-2.5/servidor_minecraft/mods/sophisticatedbackpacks-1.18.2-3.20.3.1063.jar
+2025-01-02 01:13:09,578 [36mDEBUG[m [m[Server thread][m [mn.m.s.ServerLifecycleHooks.serverPackFinder(219)[m: Generating PackInfo named mod:guardvillagers for mod file /workspaces/MSP-2.5/servidor_minecraft/mods/guardvillagers-1.18.2.1.4.4.jar
+2025-01-02 01:13:09,578 [36mDEBUG[m [m[Server thread][m [mn.m.s.ServerLifecycleHooks.serverPackFinder(219)[m: Generating PackInfo named mod:mcwdoors for mod file /workspaces/MSP-2.5/servidor_minecraft/mods/mcw-doors-1.1.1forge-mc1.18.2.jar
+2025-01-02 01:13:09,578 [36mDEBUG[m [m[Server thread][m [mn.m.s.ServerLifecycleHooks.serverPackFinder(219)[m: Generating PackInfo named mod:balm for mod file /workspaces/MSP-2.5/servidor_minecraft/mods/balm-3.2.6.jar
+2025-01-02 01:13:09,578 [36mDEBUG[m [m[Server thread][m [mn.m.s.ServerLifecycleHooks.serverPackFinder(219)[m: Generating PackInfo named mod:carryon for mod file /workspaces/MSP-2.5/servidor_minecraft/mods/carryon-1.18.2-1.17.2.15.jar
+2025-01-02 01:13:09,578 [36mDEBUG[m [m[Server thread][m [mn.m.s.ServerLifecycleHooks.serverPackFinder(219)[m: Generating PackInfo named mod:betterfortresses for mod file /workspaces/MSP-2.5/servidor_minecraft/mods/YungsBetterNetherFortresses-1.18.2-Forge-1.0.0.jar
+2025-01-02 01:13:09,578 [36mDEBUG[m [m[Server thread][m [mn.m.s.ServerLifecycleHooks.serverPackFinder(219)[m: Generating PackInfo named mod:knight_quest for mod file /workspaces/MSP-2.5/servidor_minecraft/mods/KnightQuest1.1.7.Patch.jar
+2025-01-02 01:13:09,578 [36mDEBUG[m [m[Server thread][m [mn.m.s.ServerLifecycleHooks.serverPackFinder(219)[m: Generating PackInfo named mod:forge for mod file /workspaces/MSP-2.5/servidor_minecraft/libraries/net/minecraftforge/forge/1.18.2-40.2.21/forge-1.18.2-40.2.21-universal.jar
+2025-01-02 01:13:09,578 [36mDEBUG[m [m[Server thread][m [mn.m.s.ServerLifecycleHooks.serverPackFinder(219)[m: Generating PackInfo named mod:corpse for mod file /workspaces/MSP-2.5/servidor_minecraft/mods/corpse-1.18.2-1.0.2.jar
+2025-01-02 01:13:09,578 [36mDEBUG[m [m[Server thread][m [mn.m.s.ServerLifecycleHooks.serverPackFinder(219)[m: Generating PackInfo named mod:repurposed_structures for mod file /workspaces/MSP-2.5/servidor_minecraft/mods/repurposed_structures_forge-5.1.15+1.18.2.jar
+2025-01-02 01:13:09,579 [36mDEBUG[m [m[Server thread][m [mn.m.s.ServerLifecycleHooks.serverPackFinder(219)[m: Generating PackInfo named mod:terrablender for mod file /workspaces/MSP-2.5/servidor_minecraft/mods/TerraBlender-forge-1.18.2-1.2.0.126.jar
+2025-01-02 01:13:09,579 [36mDEBUG[m [m[Server thread][m [mn.m.s.ServerLifecycleHooks.serverPackFinder(219)[m: Generating PackInfo named mod:commonality for mod file 
+2025-01-02 01:13:09,579 [36mDEBUG[m [m[Server thread][m [mn.m.s.ServerLifecycleHooks.serverPackFinder(219)[m: Generating PackInfo named mod:biomesoplenty for mod file /workspaces/MSP-2.5/servidor_minecraft/mods/BiomesOPlenty-1.18.2-16.0.0.134.jar
+2025-01-02 01:13:09,579 [36mDEBUG[m [m[Server thread][m [mn.m.s.ServerLifecycleHooks.serverPackFinder(219)[m: Generating PackInfo named mod:jade for mod file /workspaces/MSP-2.5/servidor_minecraft/mods/Jade-1.18.2-forge-5.3.2.jar
+2025-01-02 01:13:09,579 [36mDEBUG[m [m[Server thread][m [mn.m.s.ServerLifecycleHooks.serverPackFinder(219)[m: Generating PackInfo named mod:ironfurnaces for mod file /workspaces/MSP-2.5/servidor_minecraft/mods/ironfurnaces-1.18.2-3.3.3.jar
+2025-01-02 01:13:09,579 [36mDEBUG[m [m[Server thread][m [mn.m.s.ServerLifecycleHooks.serverPackFinder(219)[m: Generating PackInfo named mod:mlib for mod file /workspaces/MSP-2.5/servidor_minecraft/mods/majrusz-library-1.18.2-5.1.2.jar
+2025-01-02 01:13:09,579 [36mDEBUG[m [m[Server thread][m [mn.m.s.ServerLifecycleHooks.serverPackFinder(219)[m: Generating PackInfo named mod:cataclysm for mod file /workspaces/MSP-2.5/servidor_minecraft/mods/L_Enders+Cataclysm-0.51-changed+Them+-1.18.2.jar
+2025-01-02 01:13:09,579 [36mDEBUG[m [m[Server thread][m [mn.m.s.ServerLifecycleHooks.serverPackFinder(219)[m: Generating PackInfo named mod:curios for mod file /workspaces/MSP-2.5/servidor_minecraft/mods/curios-forge-1.18.2-5.0.9.2.jar
+2025-01-02 01:13:09,580 [36mDEBUG[m [m[Server thread][m [mn.m.s.ServerLifecycleHooks.serverPackFinder(219)[m: Generating PackInfo named mod:flywheel for mod file 
+2025-01-02 01:13:09,580 [36mDEBUG[m [m[Server thread][m [mn.m.s.ServerLifecycleHooks.serverPackFinder(219)[m: Generating PackInfo named mod:create for mod file /workspaces/MSP-2.5/servidor_minecraft/mods/create-1.18.2-0.5.1.i.jar
+2025-01-02 01:13:09,580 [36mDEBUG[m [m[Server thread][m [mn.m.s.ServerLifecycleHooks.serverPackFinder(219)[m: Generating PackInfo named mod:securitycraft for mod file /workspaces/MSP-2.5/servidor_minecraft/mods/[1.18.2] SecurityCraft v1.9.12.jar
+2025-01-02 01:13:09,580 [36mDEBUG[m [m[Server thread][m [mn.m.s.ServerLifecycleHooks.serverPackFinder(219)[m: Generating PackInfo named mod:bettervillage for mod file /workspaces/MSP-2.5/servidor_minecraft/mods/bettervillage-forge-1.18.2-3.2.0.jar
+2025-01-02 01:13:09,580 [36mDEBUG[m [m[Server thread][m [mn.m.s.ServerLifecycleHooks.serverPackFinder(219)[m: Generating PackInfo named mod:betterstrongholds for mod file /workspaces/MSP-2.5/servidor_minecraft/mods/YungsBetterStrongholds-1.18.2-Forge-2.1.1.jar
+2025-01-02 01:13:09,580 [36mDEBUG[m [m[Server thread][m [mn.m.s.ServerLifecycleHooks.serverPackFinder(219)[m: Generating PackInfo named mod:usefulhats for mod file /workspaces/MSP-2.5/servidor_minecraft/mods/usefulhats-1.18.2-2.1.0.0.jar
+2025-01-02 01:13:09,580 [36mDEBUG[m [m[Server thread][m [mn.m.s.ServerLifecycleHooks.serverPackFinder(219)[m: Generating PackInfo named mod:cfm for mod file /workspaces/MSP-2.5/servidor_minecraft/mods/cfm-7.0.0-pre35-1.18.2.jar
+2025-01-02 01:13:09,580 [36mDEBUG[m [m[Server thread][m [mn.m.s.ServerLifecycleHooks.serverPackFinder(219)[m: Generating PackInfo named mod:appleskin for mod file /workspaces/MSP-2.5/servidor_minecraft/mods/appleskin-forge-mc1.18.2-2.5.1.jar
+2025-01-02 01:13:09,581 [36mDEBUG[m [m[Server thread][m [mn.m.s.ServerLifecycleHooks.serverPackFinder(219)[m: Generating PackInfo named mod:apexcore for mod file 
+2025-01-02 01:13:09,581 [36mDEBUG[m [m[Server thread][m [mn.m.s.ServerLifecycleHooks.serverPackFinder(219)[m: Generating PackInfo named mod:fantasyfurniture for mod file /workspaces/MSP-2.5/servidor_minecraft/mods/fantasyfurniture-1.18.2-3.14.0.jar
+2025-01-02 01:13:09,581 [36mDEBUG[m [m[Server thread][m [mn.m.s.ServerLifecycleHooks.serverPackFinder(219)[m: Generating PackInfo named mod:betterendisland for mod file /workspaces/MSP-2.5/servidor_minecraft/mods/YungsBetterEndIsland-1.18.2-Forge-1.0.jar
+2025-01-02 01:13:09,581 [36mDEBUG[m [m[Server thread][m [mn.m.s.ServerLifecycleHooks.serverPackFinder(219)[m: Generating PackInfo named mod:aquaculture for mod file /workspaces/MSP-2.5/servidor_minecraft/mods/Aquaculture-1.18.2-2.3.12.jar
+2025-01-02 01:13:09,581 [36mDEBUG[m [m[Server thread][m [mn.m.s.ServerLifecycleHooks.serverPackFinder(219)[m: Generating PackInfo named mod:framework for mod file /workspaces/MSP-2.5/servidor_minecraft/mods/framework-forge-1.18.2-0.4.3.jar
+2025-01-02 01:13:09,581 [36mDEBUG[m [m[Server thread][m [mn.m.s.ServerLifecycleHooks.serverPackFinder(219)[m: Generating PackInfo named mod:illageandspillage for mod file /workspaces/MSP-2.5/servidor_minecraft/mods/illageandspillage-1.18.2-1.1.3.jar
+2025-01-02 01:13:09,581 [36mDEBUG[m [m[Server thread][m [mn.m.s.ServerLifecycleHooks.serverPackFinder(219)[m: Generating PackInfo named mod:expandability for mod file /workspaces/MSP-2.5/servidor_minecraft/mods/expandability-6.0.0.jar
+2025-01-02 01:13:09,581 [36mDEBUG[m [m[Server thread][m [mn.m.s.ServerLifecycleHooks.serverPackFinder(219)[m: Generating PackInfo named mod:geckolib3 for mod file /workspaces/MSP-2.5/servidor_minecraft/mods/geckolib-forge-1.18-3.0.57.jar
+2025-01-02 01:13:09,599 [33mWARN [m [m[Server thread][m [mn.m.c.Commands.m_82107_(214)[m: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+2025-01-02 01:13:09,600 [33mWARN [m [m[Server thread][m [mn.m.c.Commands.m_82107_(214)[m: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+2025-01-02 01:13:09,602 [33mWARN [m [m[Server thread][m [mn.m.c.Commands.m_82107_(214)[m: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+2025-01-02 01:13:09,604 [33mWARN [m [m[Server thread][m [mn.m.c.Commands.m_82107_(214)[m: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+2025-01-02 01:13:09,605 [33mWARN [m [m[Server thread][m [mn.m.c.Commands.m_82107_(214)[m: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+2025-01-02 01:13:09,609 [33mWARN [m [m[Server thread][m [mn.m.c.Commands.m_82107_(214)[m: Ambiguity between arguments [create, coupling, add, cart1] and [create, coupling, add, carts] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+2025-01-02 01:13:09,611 [33mWARN [m [m[Server thread][m [mn.m.c.Commands.m_82107_(214)[m: Ambiguity between arguments [create, coupling, add, carts] and [create, coupling, add, cart1] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+2025-01-02 01:13:09,613 [33mWARN [m [m[Server thread][m [mn.m.c.Commands.m_82107_(214)[m: Ambiguity between arguments [create, coupling, add, cart1] and [create, coupling, add, carts] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+2025-01-02 01:13:09,614 [33mWARN [m [m[Server thread][m [mn.m.c.Commands.m_82107_(214)[m: Ambiguity between arguments [create, coupling, add, carts] and [create, coupling, add, cart1] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+2025-01-02 01:13:09,616 [33mWARN [m [m[Server thread][m [mn.m.c.Commands.m_82107_(214)[m: Ambiguity between arguments [deathhistory, player] and [deathhistory, player_uuid] with inputs: [dd12be42-52a9-4a91-a8a1-11c01849e498]
+2025-01-02 01:13:14,834 [32mINFO [m [m[Server thread][m [mn.m.w.i.c.RecipeManager.m_5787_(85)[m: Loaded 25 recipes
+2025-01-02 01:13:15,910 [33mWARN [m [m[Server thread][m [mn.m.w.l.s.l.LootTables.m_79210_(69)[m: Found validation problem in {majruszsdifficulty:undead_army/extra_mob_loot}.pools[0].functions[0]: Parameters [<parameter minecraft:killer_entity>] are not provided in this context
+2025-01-02 01:13:15,999 [36mDEBUG[m [m[Server thread][m [msophisticatedbackpacks.loadRegistry(80)[m: Started loading registry data from sophisticatedbackpacks:compat/woot/block_tools 
+2025-01-02 01:13:15,999 [36mDEBUG[m [m[Server thread][m [msophisticatedbackpacks.loadRegistry(80)[m: Started loading registry data from sophisticatedbackpacks:compat/fluxnetworks/block_tools 
+2025-01-02 01:13:15,999 [36mDEBUG[m [m[Server thread][m [msophisticatedbackpacks.loadRegistry(80)[m: Started loading registry data from sophisticatedbackpacks:compat/mob_grinding_utils/entity_tools 
+2025-01-02 01:13:16,000 [36mDEBUG[m [m[Server thread][m [msophisticatedbackpacks.loadRegistry(80)[m: Started loading registry data from sophisticatedbackpacks:compat/astralsorcery/block_tools 
+2025-01-02 01:13:16,000 [36mDEBUG[m [m[Server thread][m [msophisticatedbackpacks.loadRegistry(80)[m: Started loading registry data from sophisticatedbackpacks:compat/immersivepetroleum/block_tools 
+2025-01-02 01:13:16,000 [36mDEBUG[m [m[Server thread][m [msophisticatedbackpacks.loadRegistry(80)[m: Started loading registry data from sophisticatedbackpacks:compat/immersiveengineering/block_tools 
+2025-01-02 01:13:16,000 [36mDEBUG[m [m[Server thread][m [msophisticatedbackpacks.loadRegistry(80)[m: Started loading registry data from sophisticatedbackpacks:compat/pedestals/block_tools 
+2025-01-02 01:13:16,000 [36mDEBUG[m [m[Server thread][m [msophisticatedbackpacks.loadRegistry(80)[m: Started loading registry data from sophisticatedbackpacks:compat/platforms/block_tools 
+2025-01-02 01:13:16,000 [36mDEBUG[m [m[Server thread][m [msophisticatedbackpacks.loadRegistry(80)[m: Started loading registry data from sophisticatedbackpacks:compat/rftoolsutility/entity_tools 
+2025-01-02 01:13:16,001 [36mDEBUG[m [m[Server thread][m [msophisticatedbackpacks.loadRegistry(80)[m: Started loading registry data from sophisticatedbackpacks:compat/compactmachines/block_tools 
+2025-01-02 01:13:16,001 [36mDEBUG[m [m[Server thread][m [msophisticatedbackpacks.loadRegistry(80)[m: Started loading registry data from sophisticatedbackpacks:compat/mcwwindows/block_tools 
+2025-01-02 01:13:16,001 [36mDEBUG[m [m[Server thread][m [msophisticatedbackpacks.loadRegistry(80)[m: Started loading registry data from sophisticatedbackpacks:compat/integrateddynamics/block_tools 
+2025-01-02 01:13:16,001 [36mDEBUG[m [m[Server thread][m [msophisticatedbackpacks.loadRegistry(80)[m: Started loading registry data from sophisticatedbackpacks:entity_tools 
+2025-01-02 01:13:16,002 [36mDEBUG[m [m[Server thread][m [msophisticatedbackpacks.loadRegistry(119)[m: Finished loading registry data for sophisticatedbackpacks:entity_tools
+2025-01-02 01:13:16,002 [36mDEBUG[m [m[Server thread][m [msophisticatedbackpacks.loadRegistry(80)[m: Started loading registry data from sophisticatedbackpacks:compat/mekanism/block_tools 
+2025-01-02 01:13:16,002 [36mDEBUG[m [m[Server thread][m [msophisticatedbackpacks.loadRegistry(80)[m: Started loading registry data from sophisticatedbackpacks:compat/powah/block_tools 
+2025-01-02 01:13:16,002 [36mDEBUG[m [m[Server thread][m [msophisticatedbackpacks.loadRegistry(80)[m: Started loading registry data from sophisticatedbackpacks:compat/apotheosis/entity_tools 
+2025-01-02 01:13:16,002 [36mDEBUG[m [m[Server thread][m [msophisticatedbackpacks.loadRegistry(80)[m: Started loading registry data from sophisticatedbackpacks:compat/bloodmagic/block_tools 
+2025-01-02 01:13:16,003 [36mDEBUG[m [m[Server thread][m [msophisticatedbackpacks.loadRegistry(80)[m: Started loading registry data from sophisticatedbackpacks:compat/immersiveposts/block_tools 
+2025-01-02 01:13:16,003 [36mDEBUG[m [m[Server thread][m [msophisticatedbackpacks.loadRegistry(80)[m: Started loading registry data from sophisticatedbackpacks:compat/rats/entity_tools 
+2025-01-02 01:13:16,003 [36mDEBUG[m [m[Server thread][m [msophisticatedbackpacks.loadRegistry(80)[m: Started loading registry data from sophisticatedbackpacks:compat/framedcompactdrawers/block_tools 
+2025-01-02 01:13:16,003 [36mDEBUG[m [m[Server thread][m [msophisticatedbackpacks.loadRegistry(80)[m: Started loading registry data from sophisticatedbackpacks:compat/iceandfire/entity_tools 
+2025-01-02 01:13:16,003 [36mDEBUG[m [m[Server thread][m [msophisticatedbackpacks.loadRegistry(80)[m: Started loading registry data from sophisticatedbackpacks:compat/storagedrawers/block_tools 
+2025-01-02 01:13:16,004 [36mDEBUG[m [m[Server thread][m [msophisticatedbackpacks.loadRegistry(80)[m: Started loading registry data from sophisticatedbackpacks:compat/mcwroofs/block_tools 
+2025-01-02 01:13:16,004 [36mDEBUG[m [m[Server thread][m [msophisticatedbackpacks.loadRegistry(80)[m: Started loading registry data from sophisticatedbackpacks:compat/morphtool/block_tools 
+2025-01-02 01:13:16,004 [36mDEBUG[m [m[Server thread][m [msophisticatedbackpacks.loadRegistry(80)[m: Started loading registry data from sophisticatedbackpacks:compat/botania/block_tools 
+2025-01-02 01:13:16,004 [36mDEBUG[m [m[Server thread][m [msophisticatedbackpacks.loadRegistry(80)[m: Started loading registry data from sophisticatedbackpacks:compat/pneumaticraft/block_tools 
+2025-01-02 01:13:16,004 [36mDEBUG[m [m[Server thread][m [msophisticatedbackpacks.loadRegistry(80)[m: Started loading registry data from sophisticatedbackpacks:compat/shrink/entity_tools 
+2025-01-02 01:13:16,005 [36mDEBUG[m [m[Server thread][m [msophisticatedbackpacks.loadRegistry(80)[m: Started loading registry data from sophisticatedbackpacks:compat/blockcarpentry/block_tools 
+2025-01-02 01:13:16,005 [36mDEBUG[m [m[Server thread][m [msophisticatedbackpacks.loadRegistry(80)[m: Started loading registry data from sophisticatedbackpacks:compat/pipez/block_tools 
+2025-01-02 01:13:16,005 [36mDEBUG[m [m[Server thread][m [msophisticatedbackpacks.loadRegistry(80)[m: Started loading registry data from sophisticatedbackpacks:compat/transport/block_tools 
+2025-01-02 01:13:16,005 [36mDEBUG[m [m[Server thread][m [msophisticatedbackpacks.loadRegistry(80)[m: Started loading registry data from sophisticatedbackpacks:compat/thermal/block_tools 
+2025-01-02 01:13:16,005 [36mDEBUG[m [m[Server thread][m [msophisticatedbackpacks.loadRegistry(80)[m: Started loading registry data from sophisticatedbackpacks:block_tools 
+2025-01-02 01:13:16,006 [36mDEBUG[m [m[Server thread][m [msophisticatedbackpacks.loadRegistry(119)[m: Finished loading registry data for sophisticatedbackpacks:block_tools
+2025-01-02 01:13:16,006 [36mDEBUG[m [m[Server thread][m [msophisticatedbackpacks.loadRegistry(80)[m: Started loading registry data from sophisticatedbackpacks:compat/create/block_tools 
+2025-01-02 01:13:16,006 [36mDEBUG[m [m[Server thread][m [msophisticatedbackpacks.loadRegistry(119)[m: Finished loading registry data for sophisticatedbackpacks:compat/create/block_tools
+2025-01-02 01:13:16,006 [36mDEBUG[m [m[Server thread][m [msophisticatedbackpacks.loadRegistry(80)[m: Started loading registry data from sophisticatedbackpacks:compat/farmersdelight/entity_tools 
+2025-01-02 01:13:16,006 [36mDEBUG[m [m[Server thread][m [msophisticatedbackpacks.loadRegistry(80)[m: Started loading registry data from sophisticatedbackpacks:compat/refinedstorage/block_tools 
+2025-01-02 01:13:16,007 [36mDEBUG[m [m[Server thread][m [msophisticatedbackpacks.loadRegistry(80)[m: Started loading registry data from sophisticatedbackpacks:compat/chiselsandbits/block_tools 
+2025-01-02 01:13:16,007 [36mDEBUG[m [m[Server thread][m [msophisticatedbackpacks.loadRegistry(80)[m: Started loading registry data from sophisticatedbackpacks:compat/farmersdelight/block_tools 
+2025-01-02 01:13:16,007 [36mDEBUG[m [m[Server thread][m [msophisticatedbackpacks.loadRegistry(80)[m: Started loading registry data from sophisticatedbackpacks:compat/resourcefulbees/entity_tools 
+2025-01-02 01:13:16,007 [36mDEBUG[m [m[Server thread][m [msophisticatedbackpacks.loadRegistry(80)[m: Started loading registry data from sophisticatedbackpacks:compat/tetra/swords 
+2025-01-02 01:13:16,007 [36mDEBUG[m [m[Server thread][m [msophisticatedbackpacks.loadRegistry(80)[m: Started loading registry data from sophisticatedbackpacks:swords 
+2025-01-02 01:13:16,007 [36mDEBUG[m [m[Server thread][m [msophisticatedbackpacks.loadRegistry(119)[m: Finished loading registry data for sophisticatedbackpacks:swords
+2025-01-02 01:13:16,008 [36mDEBUG[m [m[Server thread][m [msophisticatedbackpacks.loadRegistry(80)[m: Started loading registry data from sophisticatedbackpacks:compat/mythicbotany/block_tools 
+2025-01-02 01:13:16,008 [36mDEBUG[m [m[Server thread][m [msophisticatedbackpacks.loadRegistry(80)[m: Started loading registry data from sophisticatedbackpacks:compat/resourcefulbees/block_tools 
+2025-01-02 01:13:16,008 [36mDEBUG[m [m[Server thread][m [msophisticatedbackpacks.loadRegistry(80)[m: Started loading registry data from sophisticatedbackpacks:compat/syp/entity_tools 
+2025-01-02 01:13:16,008 [36mDEBUG[m [m[Server thread][m [msophisticatedbackpacks.loadRegistry(80)[m: Started loading registry data from sophisticatedbackpacks:compat/eidolon/block_tools 
+2025-01-02 01:13:16,008 [36mDEBUG[m [m[Server thread][m [msophisticatedbackpacks.loadRegistry(80)[m: Started loading registry data from sophisticatedbackpacks:compat/rftoolsbase/block_tools 
+2025-01-02 01:13:18,750 [32mINFO [m [m[Server thread][m [mn.m.c.AdvancementLoadFix.loadVisibility(36)[m: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3780471c
+2025-01-02 01:13:18,788 [32mINFO [m [m[Server thread][m [mn.m.c.AdvancementLoadFix.loadVisibility(36)[m: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1c8e2a2a
+2025-01-02 01:13:20,819 [32mINFO [m [m[Server thread][m [mc.s.w.b.WorldEditPlugin.publish(36)[m: [WorldEdit] Loading WorldEdit v7.2.20+6667-f0f1e66
+2025-01-02 01:13:23,490 [32mINFO [m [m[Server thread][m [mc.s.w.e.p.PlatformManager.register(100)[m: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@432f198b]
+2025-01-02 01:13:23,493 [32mINFO [m [m[Server thread][m [mc.s.w.b.WorldEditPlugin.publish(36)[m: [WorldEdit] Default configuration file written: config.yml
+2025-01-02 01:13:23,655 [32mINFO [m [m[Server thread][m [mn.s.b.SRBukkitBootstrap.publish(36)[m: [SkinsRestorer] Loading SkinsRestorer v15.5.1
+2025-01-02 01:13:23,656 [32mINFO [m [m[Server thread][m [mm.f.h.p.HolographicDisplays.publish(36)[m: [HolographicDisplays] Loading HolographicDisplays v3.0.4
+2025-01-02 01:13:23,657 [32mINFO [m [m[Server thread][m [mc.e.e.Essentials.publish(36)[m: [Essentials] Loading Essentials v2.21.0-dev+154-667b0f7
+2025-01-02 01:13:23,659 [32mINFO [m [m[Server thread][m [mc.e.e.s.EssentialsSpawn.publish(36)[m: [EssentialsSpawn] Loading EssentialsSpawn v2.21.0-dev+154-667b0f7
+2025-01-02 01:13:23,659 [32mINFO [m [m[Server thread][m [mc.s.w.b.WorldGuardPlugin.publish(36)[m: [WorldGuard] Loading WorldGuard v7.0.7+216b061
+2025-01-02 01:13:23,663 [32mINFO [m [m[Server thread][m [mc.s.w.b.WorldEditPlugin.publish(36)[m: [WorldEdit] Enabling WorldEdit v7.2.20+6667-f0f1e66
+2025-01-02 01:13:23,743 [32mINFO [m [m[Server thread][m [mc.s.w.e.p.PlatformCommandManager.registerCommandsWith(427)[m: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+2025-01-02 01:13:24,191 [32mINFO [m [m[Server thread][m [mc.s.w.PermissionsResolverManager.loadConfig(267)[m: WEPIF: Updated config file
+2025-01-02 01:13:24,196 [32mINFO [m [m[Server thread][m [mc.s.w.PermissionsResolverManager.findResolver(126)[m: WEPIF: Using the Bukkit Permissions API.
+2025-01-02 01:13:24,209 [33mWARN [m [m[Server thread][m [mc.s.w.b.WorldEditPlugin.publish(34)[m: [WorldEdit] Server reload detected. This may cause various issues with WorldEdit and dependent plugins.
+2025-01-02 01:13:24,275 [36mDEBUG[m [m[Server thread][m [mc.m.MohistMC.generate(54)[m: Generated com/sk89q/worldedit/bukkit/adapter/impl/v1_17_R1_2/PaperweightAdapter$NoOpWorldLoadListener/a (Lnet/minecraft/world/level/ChunkPos;Lnet/minecraft/world/level/chunk/ChunkStatus;)V redirecting to net/minecraft/server/level/progress/ChunkProgressListener/m_5511_ (Lnet/minecraft/world/level/ChunkPos;Lnet/minecraft/world/level/chunk/ChunkStatus;)V
+2025-01-02 01:13:24,275 [36mDEBUG[m [m[Server thread][m [mc.m.MohistMC.generate(54)[m: Generated com/sk89q/worldedit/bukkit/adapter/impl/v1_17_R1_2/PaperweightAdapter$NoOpWorldLoadListener/a ()V redirecting to net/minecraft/server/level/progress/ChunkProgressListener/m_142611_ ()V
+2025-01-02 01:13:24,275 [36mDEBUG[m [m[Server thread][m [mc.m.MohistMC.generate(54)[m: Generated com/sk89q/worldedit/bukkit/adapter/impl/v1_17_R1_2/PaperweightAdapter$NoOpWorldLoadListener/b ()V redirecting to net/minecraft/server/level/progress/ChunkProgressListener/m_7646_ ()V
+2025-01-02 01:13:24,275 [36mDEBUG[m [m[Server thread][m [mc.m.MohistMC.generate(54)[m: Generated com/sk89q/worldedit/bukkit/adapter/impl/v1_17_R1_2/PaperweightAdapter$NoOpWorldLoadListener/a (Lnet/minecraft/world/level/ChunkPos;)V redirecting to net/minecraft/server/level/progress/ChunkProgressListener/m_7647_ (Lnet/minecraft/world/level/ChunkPos;)V
+2025-01-02 01:13:24,556 [36mDEBUG[m [m[Server thread][m [mn.m.c.t.CoreModBaseTransformer.runCoremod(17)[m: Transforming net/minecraft/world/item/ItemStack
+2025-01-02 01:13:25,050 [36mDEBUG[m [m[Server thread][m [mc.m.MohistMC.generate(54)[m: Generated com/sk89q/worldedit/bukkit/adapter/impl/v1_17_R1_2/PaperweightFakePlayer/a (Lnet/minecraft/network/chat/Component;Z)V redirecting to net/minecraft/server/level/ServerPlayer/m_5661_ (Lnet/minecraft/network/chat/Component;Z)V
+2025-01-02 01:13:25,050 [36mDEBUG[m [m[Server thread][m [mc.m.MohistMC.generate(54)[m: Generated com/sk89q/worldedit/bukkit/adapter/impl/v1_17_R1_2/PaperweightFakePlayer/a (Lnet/minecraft/network/protocol/game/ServerboundClientInformationPacket;)V redirecting to net/minecraft/server/level/ServerPlayer/m_9156_ (Lnet/minecraft/network/protocol/game/ServerboundClientInformationPacket;)V
+2025-01-02 01:13:25,051 [36mDEBUG[m [m[Server thread][m [mc.m.MohistMC.generate(54)[m: Generated com/sk89q/worldedit/bukkit/adapter/impl/v1_17_R1_2/PaperweightFakePlayer/a (Lnet/minecraft/stats/Stat;I)V redirecting to net/minecraft/server/level/ServerPlayer/m_6278_ (Lnet/minecraft/stats/Stat;I)V
+2025-01-02 01:13:25,051 [36mDEBUG[m [m[Server thread][m [mc.m.MohistMC.generate(54)[m: Generated com/sk89q/worldedit/bukkit/adapter/impl/v1_17_R1_2/PaperweightFakePlayer/b (Lnet/minecraft/stats/Stat;)V redirecting to net/minecraft/world/entity/player/Player/m_36246_ (Lnet/minecraft/stats/Stat;)V
+2025-01-02 01:13:25,051 [36mDEBUG[m [m[Server thread][m [mc.m.MohistMC.generate(54)[m: Generated com/sk89q/worldedit/bukkit/adapter/impl/v1_17_R1_2/PaperweightFakePlayer/a (Lnet/minecraft/network/chat/Component;Lnet/minecraft/network/chat/ChatType;Ljava/util/UUID;)V redirecting to net/minecraft/server/level/ServerPlayer/m_9146_ (Lnet/minecraft/network/chat/Component;Lnet/minecraft/network/chat/ChatType;Ljava/util/UUID;)V
+2025-01-02 01:13:26,400 [36mDEBUG[m [m[Server thread][m [mc.m.MohistMC.generate(54)[m: Generated com/sk89q/worldedit/bukkit/adapter/impl/v1_18_R2/PaperweightAdapter$NoOpWorldLoadListener/a (Lnet/minecraft/world/level/ChunkPos;Lnet/minecraft/world/level/chunk/ChunkStatus;)V redirecting to net/minecraft/server/level/progress/ChunkProgressListener/m_5511_ (Lnet/minecraft/world/level/ChunkPos;Lnet/minecraft/world/level/chunk/ChunkStatus;)V
+2025-01-02 01:13:26,400 [36mDEBUG[m [m[Server thread][m [mc.m.MohistMC.generate(54)[m: Generated com/sk89q/worldedit/bukkit/adapter/impl/v1_18_R2/PaperweightAdapter$NoOpWorldLoadListener/a ()V redirecting to net/minecraft/server/level/progress/ChunkProgressListener/m_142611_ ()V
+2025-01-02 01:13:26,400 [36mDEBUG[m [m[Server thread][m [mc.m.MohistMC.generate(54)[m: Generated com/sk89q/worldedit/bukkit/adapter/impl/v1_18_R2/PaperweightAdapter$NoOpWorldLoadListener/b ()V redirecting to net/minecraft/server/level/progress/ChunkProgressListener/m_7646_ ()V
+2025-01-02 01:13:26,401 [36mDEBUG[m [m[Server thread][m [mc.m.MohistMC.generate(54)[m: Generated com/sk89q/worldedit/bukkit/adapter/impl/v1_18_R2/PaperweightAdapter$NoOpWorldLoadListener/a (Lnet/minecraft/world/level/ChunkPos;)V redirecting to net/minecraft/server/level/progress/ChunkProgressListener/m_7647_ (Lnet/minecraft/world/level/ChunkPos;)V
+2025-01-02 01:13:26,572 [36mDEBUG[m [m[Server thread][m [mn.m.c.t.CoreModBaseTransformer.runCoremod(17)[m: Transforming net/minecraft/world/item/ItemStack
+2025-01-02 01:13:26,989 [36mDEBUG[m [m[Server thread][m [mc.m.MohistMC.generate(54)[m: Generated com/sk89q/worldedit/bukkit/adapter/impl/v1_18_R2/PaperweightFakePlayer/a (Lnet/minecraft/world/damagesource/DamageSource;)V redirecting to net/minecraft/server/level/ServerPlayer/m_6667_ (Lnet/minecraft/world/damagesource/DamageSource;)V
+2025-01-02 01:13:26,989 [36mDEBUG[m [m[Server thread][m [mc.m.MohistMC.generate(54)[m: Generated com/sk89q/worldedit/bukkit/adapter/impl/v1_18_R2/PaperweightFakePlayer/a (Lnet/minecraft/world/level/block/entity/SignBlockEntity;)V redirecting to net/minecraft/server/level/ServerPlayer/m_7739_ (Lnet/minecraft/world/level/block/entity/SignBlockEntity;)V
+2025-01-02 01:13:26,989 [36mDEBUG[m [m[Server thread][m [mc.m.MohistMC.generate(54)[m: Generated com/sk89q/worldedit/bukkit/adapter/impl/v1_18_R2/PaperweightFakePlayer/a (Lnet/minecraft/network/chat/Component;Z)V redirecting to net/minecraft/server/level/ServerPlayer/m_5661_ (Lnet/minecraft/network/chat/Component;Z)V
+2025-01-02 01:13:26,989 [36mDEBUG[m [m[Server thread][m [mc.m.MohistMC.generate(54)[m: Generated com/sk89q/worldedit/bukkit/adapter/impl/v1_18_R2/PaperweightFakePlayer/cV ()Lnet/minecraft/world/phys/Vec3; redirecting to net/minecraft/world/entity/Entity/m_20182_ ()Lnet/minecraft/world/phys/Vec3;
+2025-01-02 01:13:26,989 [36mDEBUG[m [m[Server thread][m [mc.m.MohistMC.generate(54)[m: Generated com/sk89q/worldedit/bukkit/adapter/impl/v1_18_R2/PaperweightFakePlayer/a (Lnet/minecraft/network/protocol/game/ServerboundClientInformationPacket;)V redirecting to net/minecraft/server/level/ServerPlayer/m_9156_ (Lnet/minecraft/network/protocol/game/ServerboundClientInformationPacket;)V
+2025-01-02 01:13:26,990 [36mDEBUG[m [m[Server thread][m [mc.m.MohistMC.generate(54)[m: Generated com/sk89q/worldedit/bukkit/adapter/impl/v1_18_R2/PaperweightFakePlayer/a (Lnet/minecraft/stats/Stat;I)V redirecting to net/minecraft/server/level/ServerPlayer/m_6278_ (Lnet/minecraft/stats/Stat;I)V
+2025-01-02 01:13:26,990 [36mDEBUG[m [m[Server thread][m [mc.m.MohistMC.generate(54)[m: Generated com/sk89q/worldedit/bukkit/adapter/impl/v1_18_R2/PaperweightFakePlayer/b (Lnet/minecraft/stats/Stat;)V redirecting to net/minecraft/world/entity/player/Player/m_36246_ (Lnet/minecraft/stats/Stat;)V
+2025-01-02 01:13:26,990 [36mDEBUG[m [m[Server thread][m [mc.m.MohistMC.generate(54)[m: Generated com/sk89q/worldedit/bukkit/adapter/impl/v1_18_R2/PaperweightFakePlayer/a (Lnet/minecraft/world/MenuProvider;)Ljava/util/OptionalInt; redirecting to net/minecraft/server/level/ServerPlayer/m_5893_ (Lnet/minecraft/world/MenuProvider;)Ljava/util/OptionalInt;
+2025-01-02 01:13:26,990 [36mDEBUG[m [m[Server thread][m [mc.m.MohistMC.generate(54)[m: Generated com/sk89q/worldedit/bukkit/adapter/impl/v1_18_R2/PaperweightFakePlayer/a (Lnet/minecraft/network/chat/Component;Lnet/minecraft/network/chat/ChatType;Ljava/util/UUID;)V redirecting to net/minecraft/server/level/ServerPlayer/m_9146_ (Lnet/minecraft/network/chat/Component;Lnet/minecraft/network/chat/ChatType;Ljava/util/UUID;)V
+2025-01-02 01:13:26,990 [36mDEBUG[m [m[Server thread][m [mc.m.MohistMC.generate(54)[m: Generated com/sk89q/worldedit/bukkit/adapter/impl/v1_18_R2/PaperweightFakePlayer/k ()V redirecting to net/minecraft/server/level/ServerPlayer/m_8119_ ()V
+2025-01-02 01:13:26,990 [36mDEBUG[m [m[Server thread][m [mc.m.MohistMC.generate(54)[m: Generated com/sk89q/worldedit/bukkit/adapter/impl/v1_18_R2/PaperweightFakePlayer/b (Lnet/minecraft/world/damagesource/DamageSource;)Z redirecting to net/minecraft/server/level/ServerPlayer/m_6673_ (Lnet/minecraft/world/damagesource/DamageSource;)Z
+2025-01-02 01:13:27,924 [32mINFO [m [m[Server thread][m [mc.s.w.b.WorldEditPlugin.loadAdapter(298)[m: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_18_R2.PaperweightAdapter as the Bukkit adapter
+2025-01-02 01:13:28,000 [36mDEBUG[m [m[Server thread][m [mc.s.w.w.r.BundledBlockData.loadFromResource(78)[m: Using jar:file:/workspaces/MSP-2.5/servidor_minecraft/plugins/worldedit-bukkit-7.2.20.jar!/com/sk89q/worldedit/world/registry/blocks.117.json for bundled block data.
+2025-01-02 01:13:28,029 [36mDEBUG[m [m[Server thread][m [mc.s.w.w.r.BundledItemData.loadFromResource(78)[m: Using jar:file:/workspaces/MSP-2.5/servidor_minecraft/plugins/worldedit-bukkit-7.2.20.jar!/com/sk89q/worldedit/world/registry/items.117.json for bundled item data.
+2025-01-02 01:13:30,714 [32mINFO [m [m[Server thread][m [mc.s.w.b.WorldEditPlugin.publish(36)[m: [WorldEdit] ====================================================
+2025-01-02 01:13:30,714 [32mINFO [m [m[Server thread][m [mc.s.w.b.WorldEditPlugin.publish(36)[m: [WorldEdit]  WorldEdit works better if you use Paper 
+2025-01-02 01:13:30,715 [32mINFO [m [m[Server thread][m [mc.s.w.b.WorldEditPlugin.publish(36)[m: [WorldEdit]  as your server software. 
+2025-01-02 01:13:30,715 [32mINFO [m [m[Server thread][m [mc.s.w.b.WorldEditPlugin.publish(36)[m: [WorldEdit]   
+2025-01-02 01:13:30,715 [32mINFO [m [m[Server thread][m [mc.s.w.b.WorldEditPlugin.publish(36)[m: [WorldEdit]  Paper offers significant performance improvements,
+2025-01-02 01:13:30,715 [32mINFO [m [m[Server thread][m [mc.s.w.b.WorldEditPlugin.publish(36)[m: [WorldEdit]  bug fixes, security enhancements and optional
+2025-01-02 01:13:30,715 [32mINFO [m [m[Server thread][m [mc.s.w.b.WorldEditPlugin.publish(36)[m: [WorldEdit]  features for server owners to enhance their server.
+2025-01-02 01:13:30,716 [32mINFO [m [m[Server thread][m [mc.s.w.b.WorldEditPlugin.publish(36)[m: [WorldEdit]   
+2025-01-02 01:13:30,716 [32mINFO [m [m[Server thread][m [mc.s.w.b.WorldEditPlugin.publish(36)[m: [WorldEdit]  Paper includes Timings v2, which is significantly
+2025-01-02 01:13:30,716 [32mINFO [m [m[Server thread][m [mc.s.w.b.WorldEditPlugin.publish(36)[m: [WorldEdit]  better at diagnosing lag problems over v1.
+2025-01-02 01:13:30,716 [32mINFO [m [m[Server thread][m [mc.s.w.b.WorldEditPlugin.publish(36)[m: [WorldEdit]   
+2025-01-02 01:13:30,717 [32mINFO [m [m[Server thread][m [mc.s.w.b.WorldEditPlugin.publish(36)[m: [WorldEdit]  All of your plugins should still work, and the
+2025-01-02 01:13:30,717 [32mINFO [m [m[Server thread][m [mc.s.w.b.WorldEditPlugin.publish(36)[m: [WorldEdit]  Paper community will gladly help you fix any issues.
+2025-01-02 01:13:30,717 [32mINFO [m [m[Server thread][m [mc.s.w.b.WorldEditPlugin.publish(36)[m: [WorldEdit]   
+2025-01-02 01:13:30,717 [32mINFO [m [m[Server thread][m [mc.s.w.b.WorldEditPlugin.publish(36)[m: [WorldEdit]  Join the Paper Community @ https://papermc.io
+2025-01-02 01:13:30,717 [32mINFO [m [m[Server thread][m [mc.s.w.b.WorldEditPlugin.publish(36)[m: [WorldEdit] ====================================================
+2025-01-02 01:13:30,721 [32mINFO [m [m[Server thread][m [mn.s.b.SRBukkitBootstrap.publish(36)[m: [SkinsRestorer] Enabling SkinsRestorer v15.5.1
+2025-01-02 01:13:31,637 [36mDEBUG[m [m[Server thread][m [mn.m.c.t.CoreModBaseTransformer.runCoremod(17)[m: Transforming net/minecraft/world/item/ItemStack
+2025-01-02 01:13:32,191 [33mWARN [m [m[Server thread][m [mMinecraft.publish(34)[m: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1mYou must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.[0;39m
+2025-01-02 01:13:33,825 [32mINFO [m [m[Server thread][m [mColouredConsoleSender.sendMessage(55)[m: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1mRunning on Minecraft [33;1m1.18.2[32;1m.[0;39m
+2025-01-02 01:13:35,201 [33mWARN [m [m[Server thread][m [mMinecraft.publish(34)[m: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mPlease update your Java runtime to at least Java 21 (your version is 17).[0;39m
+2025-01-02 01:13:35,205 [33mWARN [m [m[Server thread][m [mMinecraft.publish(34)[m: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mAt some point in the future, SkinsRestorer will no longer be compatible with this version of Java.[0;39m
+2025-01-02 01:13:35,238 [32mINFO [m [m[Server thread][m [mm.f.h.p.HolographicDisplays.publish(36)[m: [HolographicDisplays] Enabling HolographicDisplays v3.0.4
+2025-01-02 01:13:35,656 [32mINFO [m [m[Server thread][m [mc.e.e.Essentials.publish(36)[m: [Essentials] Enabling Essentials v2.21.0-dev+154-667b0f7
+2025-01-02 01:13:36,036 [33mWARN [m [m[Server thread][m [mEssentials.publish(34)[m: Beginning Adventure locale file conversion.
+2025-01-02 01:13:36,120 [36mDEBUG[m [m[Server thread][m [mc.m.MohistMC.handleClass(64)[m: Transforming classloader class com/earth2me/essentials/I18n$FileResClassLoader
+2025-01-02 01:13:36,120 [36mDEBUG[m [m[Server thread][m [mc.m.MohistMC.implementIntf(81)[m: Implementing RemappingClassLoader for class com/earth2me/essentials/I18n$FileResClassLoader
+2025-01-02 01:13:36,594 [1;31mERROR[m [m[Server thread][m [mEssentials.publish(32)[m: You are running a server that does not properly support Bukkit plugins. Bukkit plugins should not be used with Forge/Fabric mods! For Forge: Consider using ForgeEssentials, or SpongeForge + Nucleus.
+2025-01-02 01:13:36,616 [32mINFO [m [m[Server thread][m [mEssentials.publish(36)[m: Status determining class: brand:Mohist
+2025-01-02 01:13:36,686 [32mINFO [m [m[Server thread][m [mEssentials.publish(36)[m: Creating config from template: plugins/Essentials/config.yml
+2025-01-02 01:13:36,889 [33mWARN [m [m[Server thread][m [mEssentials.publish(34)[m: Missing userdata folder, aborting
+2025-01-02 01:13:36,932 [32mINFO [m [m[Server thread][m [mEssentials.publish(36)[m: Creating config from template: plugins/Essentials/kits.yml
+2025-01-02 01:13:36,938 [32mINFO [m [m[Server thread][m [mEssentials.publish(36)[m: Attempting to convert old kits in config.yml to new kits.yml
+2025-01-02 01:13:36,939 [32mINFO [m [m[Server thread][m [mEssentials.publish(36)[m: No kits found to migrate.
+2025-01-02 01:13:36,951 [32mINFO [m [m[Server thread][m [mEssentials.publish(36)[m: Starting Essentials ban format conversion
+2025-01-02 01:13:36,954 [32mINFO [m [m[Server thread][m [mEssentials.publish(36)[m: Attempting to migrate ignore list to UUIDs
+2025-01-02 01:13:36,956 [32mINFO [m [m[Server thread][m [mEssentials.publish(36)[m: Attempting to migrate legacy userdata keys to Configurate
+2025-01-02 01:13:36,957 [32mINFO [m [m[Server thread][m [mEssentials.publish(36)[m: Done converting random teleport config.
+2025-01-02 01:13:36,965 [32mINFO [m [m[Server thread][m [mEssentials.publish(36)[m: Creating config from template: plugins/Essentials/worth.yml
+2025-01-02 01:13:37,074 [32mINFO [m [m[Server thread][m [mEssentials.publish(36)[m: Selected Reflection Sync Commands Provider as the provider for SyncCommandsProvider
+2025-01-02 01:13:37,076 [32mINFO [m [m[Server thread][m [mEssentials.publish(36)[m: Selected Legacy 1.8 Potion Meta Provider as the provider for PotionMetaProvider
+2025-01-02 01:13:37,081 [32mINFO [m [m[Server thread][m [mEssentials.publish(36)[m: Selected Bukkit Material Tag Provider as the provider for MaterialTagProvider
+2025-01-02 01:13:37,082 [32mINFO [m [m[Server thread][m [mEssentials.publish(36)[m: Selected 1.8.3+ Spawner Item Provider as the provider for SpawnerItemProvider
+2025-01-02 01:13:37,083 [32mINFO [m [m[Server thread][m [mEssentials.publish(36)[m: Selected Reflection Formatted Command Alias Provider as the provider for FormattedCommandAliasProvider
+2025-01-02 01:13:37,088 [32mINFO [m [m[Server thread][m [mEssentials.publish(36)[m: No provider found for SerializationProvider, but it is nullable
+2025-01-02 01:13:37,090 [32mINFO [m [m[Server thread][m [mEssentials.publish(36)[m: No provider found for ContainerProvider, but it is nullable
+2025-01-02 01:13:37,091 [32mINFO [m [m[Server thread][m [mEssentials.publish(36)[m: Selected Legacy InventoryView Abstract Class ABI Provider as the provider for InventoryViewProvider
+2025-01-02 01:13:37,092 [32mINFO [m [m[Server thread][m [mEssentials.publish(36)[m: Selected 1.17.1+ World Info Provider as the provider for WorldInfoProvider
+2025-01-02 01:13:37,094 [32mINFO [m [m[Server thread][m [mEssentials.publish(36)[m: Selected 1.13+ Spawn Egg Provider as the provider for SpawnEggProvider
+2025-01-02 01:13:37,094 [32mINFO [m [m[Server thread][m [mEssentials.publish(36)[m: Selected 1.20.5+ Banner Data Provider as the provider for BannerDataProvider
+2025-01-02 01:13:37,096 [32mINFO [m [m[Server thread][m [mEssentials.publish(36)[m: Selected 1.12.2+ Player Locale Provider as the provider for PlayerLocaleProvider
+2025-01-02 01:13:37,097 [32mINFO [m [m[Server thread][m [mEssentials.publish(36)[m: Selected 1.12+ Spawner Block Provider as the provider for SpawnerBlockProvider
+2025-01-02 01:13:37,099 [32mINFO [m [m[Server thread][m [mEssentials.publish(36)[m: Selected Legacy Damage Event Provider as the provider for DamageEventProvider
+2025-01-02 01:13:37,101 [32mINFO [m [m[Server thread][m [mEssentials.publish(36)[m: Selected 1.11+ Item Unbreakable Provider as the provider for ItemUnbreakableProvider
+2025-01-02 01:13:37,101 [32mINFO [m [m[Server thread][m [mEssentials.publish(36)[m: Selected 1.14+ Sign Data Provider as the provider for SignDataProvider
+2025-01-02 01:13:37,102 [32mINFO [m [m[Server thread][m [mEssentials.publish(36)[m: No provider found for BiomeKeyProvider, but it is nullable
+2025-01-02 01:13:37,103 [32mINFO [m [m[Server thread][m [mEssentials.publish(36)[m: Selected Reflection Server State Provider as the provider for ServerStateProvider
+2025-01-02 01:13:37,128 [32mINFO [m [m[Server thread][m [mEssentials.publish(36)[m: Selected Reflection Online Mode Provider as the provider for OnlineModeProvider
+2025-01-02 01:13:37,136 [32mINFO [m [m[Server thread][m [mEssentials.publish(36)[m: Selected 1.14.4+ Persistent Data Container Provider as the provider for PersistentDataProvider
+2025-01-02 01:13:37,137 [32mINFO [m [m[Server thread][m [mEssentials.publish(36)[m: Selected Reflection Known Commands Provider as the provider for KnownCommandsProvider
+2025-01-02 01:13:37,216 [32mINFO [m [m[Server thread][m [mEssentials.publish(36)[m: Creating config from template: plugins/Essentials/tpr.yml
+2025-01-02 01:13:37,440 [32mINFO [m [m[Server thread][m [mEssentials.publish(36)[m: Loaded 43465 items from items.json.
+2025-01-02 01:13:37,441 [32mINFO [m [m[Server thread][m [mEssentials.publish(36)[m: Creating config from template: plugins/Essentials/custom_items.yml
+2025-01-02 01:13:37,443 [32mINFO [m [m[Server thread][m [mEssentials.publish(36)[m: Using locale en
+2025-01-02 01:13:37,563 [32mINFO [m [m[Server thread][m [mEssentials.publish(36)[m: ServerListPingEvent: Spigot iterator API
+2025-01-02 01:13:37,930 [32mINFO [m [m[Server thread][m [mEssentials.publish(36)[m: Starting Metrics. Opt-out using the global bStats config.
+2025-01-02 01:13:38,021 [32mINFO [m [m[Server thread][m [mEssentials.publish(36)[m: Using superperms-based permissions.
+2025-01-02 01:13:38,022 [32mINFO [m [m[Server thread][m [mc.e.e.s.EssentialsSpawn.publish(36)[m: [EssentialsSpawn] Enabling EssentialsSpawn v2.21.0-dev+154-667b0f7
+2025-01-02 01:13:38,029 [32mINFO [m [m[Server thread][m [mEssentialsSpawn.publish(36)[m: Starting Metrics. Opt-out using the global bStats config.
+2025-01-02 01:13:38,030 [32mINFO [m [m[Server thread][m [mc.s.w.b.WorldGuardPlugin.publish(36)[m: [WorldGuard] Enabling WorldGuard v7.0.7+216b061
+2025-01-02 01:13:38,277 [32mINFO [m [m[Server thread][m [mc.s.w.b.WorldGuardPlugin.publish(36)[m: [WorldGuard] Default configuration file written: config.yml
+2025-01-02 01:13:38,316 [1;31mERROR[m [m[Server thread][m [mc.s.w.WorldEdit.<clinit>(282)[m: No TreeType mapping for TreeGenerator.TreeType.MANGROVE
+2025-01-02 01:13:38,316 [1;31mERROR[m [m[Server thread][m [mc.s.w.WorldEdit.<clinit>(282)[m: No TreeType mapping for TreeGenerator.TreeType.TALL_MANGROVE
+2025-01-02 01:13:38,317 [1;31mERROR[m [m[Server thread][m [mc.s.w.WorldEdit.<clinit>(282)[m: No TreeType mapping for TreeGenerator.TreeType.CHERRY
+2025-01-02 01:13:38,418 [32mINFO [m [m[Server thread][m [mc.s.w.b.WorldGuardPlugin.publish(36)[m: [WorldGuard] Default configuration file written: config_world.yml
+2025-01-02 01:13:38,419 [32mINFO [m [m[Server thread][m [mc.s.w.b.WorldGuardPlugin.publish(36)[m: [WorldGuard] Default configuration file written: blacklist.txt
+2025-01-02 01:13:38,440 [32mINFO [m [m[Server thread][m [mc.s.w.c.WorldConfiguration.publish(36)[m: [WorldGuard] (world) TNT ignition is PERMITTED.
+2025-01-02 01:13:38,440 [32mINFO [m [m[Server thread][m [mc.s.w.c.WorldConfiguration.publish(36)[m: [WorldGuard] (world) Lighters are PERMITTED.
+2025-01-02 01:13:38,441 [32mINFO [m [m[Server thread][m [mc.s.w.c.WorldConfiguration.publish(36)[m: [WorldGuard] (world) Lava fire is PERMITTED.
+2025-01-02 01:13:38,441 [32mINFO [m [m[Server thread][m [mc.s.w.c.WorldConfiguration.publish(36)[m: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+2025-01-02 01:13:38,453 [32mINFO [m [m[Server thread][m [mc.s.w.c.WorldConfiguration.publish(36)[m: [WorldGuard] Loaded configuration for world 'world'
+2025-01-02 01:13:38,473 [32mINFO [m [m[Server thread][m [mc.s.w.WorldGuard.publish(36)[m: [WorldGuard] Loading region data...
+2025-01-02 01:13:38,607 [32mINFO [m [m[Server thread][m [mc.s.w.WorldGuard.publish(36)[m: [WorldGuard] Unloading and saving region data that is currently loaded...
+2025-01-02 01:13:38,608 [32mINFO [m [m[Server thread][m [mc.s.w.WorldGuard.publish(36)[m: [WorldGuard] Loading region data for loaded worlds...
+2025-01-02 01:13:38,608 [32mINFO [m [m[Server thread][m [mc.s.w.WorldGuard.publish(36)[m: [WorldGuard] Loading region data...
+2025-01-02 01:13:38,626 [32mINFO [m [m[Server thread][m [mc.s.w.WorldGuard.publish(36)[m: [WorldGuard] Regions saved after UUID migration! This won't happen again unless you change the relevant configuration option in WorldGuard's config.
+2025-01-02 01:13:39,134 [32mINFO [m [m[Server thread][m [mMinecraft.publish(36)[m: Server permissions file permissions.yml is empty, ignoring it
+2025-01-02 01:13:39,442 [32mINFO [m [m[Server thread][m [mColouredConsoleSender.sendMessage(55)[m: iZxry: §aReload complete.
+2025-01-02 01:13:39,449 [33mWARN [m [m[Server thread][m [mn.m.s.MinecraftServer.m_130011_(843)[m: Can't keep up! Is the server overloaded? Running 8759ms or 175 ticks behind
+2025-01-02 01:13:39,519 [32mINFO [m [m[Craft Scheduler Thread - 5][m [mEssentials.publish(36)[m: §6Fetching version information...
+2025-01-02 01:13:39,696 [32mINFO [m [m[Craft Scheduler Thread - 0][m [mColouredConsoleSender.sendMessage(55)[m: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+2025-01-02 01:13:39,697 [32mINFO [m [m[Craft Scheduler Thread - 0][m [mColouredConsoleSender.sendMessage(55)[m: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
+2025-01-02 01:13:39,697 [32mINFO [m [m[Craft Scheduler Thread - 0][m [mColouredConsoleSender.sendMessage(55)[m: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |   SkinsRestorer  |[0;39m
+2025-01-02 01:13:39,697 [32mINFO [m [m[Craft Scheduler Thread - 0][m [mColouredConsoleSender.sendMessage(55)[m: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |------------------|[0;39m
+2025-01-02 01:13:39,698 [32mINFO [m [m[Craft Scheduler Thread - 0][m [mColouredConsoleSender.sendMessage(55)[m: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |  [34;1m[4m[21mStandalone Mode[0;39m[32;1m |[0;39m
+2025-01-02 01:13:39,698 [32mINFO [m [m[Craft Scheduler Thread - 0][m [mColouredConsoleSender.sendMessage(55)[m: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
+2025-01-02 01:13:39,699 [32mINFO [m [m[Craft Scheduler Thread - 0][m [mColouredConsoleSender.sendMessage(55)[m: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+2025-01-02 01:13:39,699 [32mINFO [m [m[Craft Scheduler Thread - 0][m [mColouredConsoleSender.sendMessage(55)[m: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Version: [32;1m15.5.1[0;39m
+2025-01-02 01:13:39,700 [32mINFO [m [m[Craft Scheduler Thread - 0][m [mColouredConsoleSender.sendMessage(55)[m: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Commit: [32;1md5d8613[0;39m
+2025-01-02 01:13:39,700 [32mINFO [m [m[Craft Scheduler Thread - 0][m [mColouredConsoleSender.sendMessage(55)[m: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    This is the latest version![0;39m
+2025-01-02 01:13:39,702 [32mINFO [m [m[Craft Scheduler Thread - 0][m [mColouredConsoleSender.sendMessage(55)[m: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+2025-01-02 01:13:39,702 [32mINFO [m [m[Craft Scheduler Thread - 0][m [mColouredConsoleSender.sendMessage(55)[m: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mDo you have issues? Read our troubleshooting guide: [33;1mhttps://skinsrestorer.net/docs/troubleshooting[0;39m
+2025-01-02 01:13:39,703 [32mINFO [m [m[Craft Scheduler Thread - 0][m [mColouredConsoleSender.sendMessage(55)[m: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mWant to support SkinsRestorer? Consider donating: [33;1mhttps://skinsrestorer.net/donate[0;39m
+2025-01-02 01:13:41,407 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: iZxry issued server command: /pl
+2025-01-02 01:14:04,593 [32mINFO [m [m[Server thread][m [mn.m.w.e.n.Villager.m_6667_(568)[m: Villager Villager['Unemployed'/427, l='ServerLevel[world]', x=-260.30, y=73.44, z=120.52] died, message: 'Unemployed went up in flames'
+2025-01-02 01:14:24,708 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1tgvwnnncrha5]: started parsing
+2025-01-02 01:14:24,708 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1tgvwnnncrha5]: Consuming argument ``
+2025-01-02 01:14:24,864 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [10hn3ecs6pf5n]: started parsing
+2025-01-02 01:14:24,864 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [10hn3ecs6pf5n]: Consuming argument `r`
+2025-01-02 01:14:25,011 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0azhc1scjomza]: started parsing
+2025-01-02 01:14:25,011 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0azhc1scjomza]: Consuming argument `re`
+2025-01-02 01:14:25,265 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0lbcloubcpre2]: started parsing
+2025-01-02 01:14:25,266 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0lbcloubcpre2]: Consuming argument `rel`
+2025-01-02 01:14:25,708 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [146amzkd12xp4]: started parsing
+2025-01-02 01:14:25,708 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [146amzkd12xp4]: Consuming argument `relo`
+2025-01-02 01:14:25,709 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [19r89hpbaw3qr]: started parsing
+2025-01-02 01:14:25,709 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [19r89hpbaw3qr]: Consuming argument `reloa`
+2025-01-02 01:14:25,709 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0gix431zfrs2c]: started parsing
+2025-01-02 01:14:25,709 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0gix431zfrs2c]: Consuming argument `reload`
+2025-01-02 01:14:25,710 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0gix431zfrs2c]: Finished looking at arguments. Finalizing command.
+2025-01-02 01:14:25,863 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: iZxry issued server command: /worldedit reload
+2025-01-02 01:14:25,883 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0njft7hdi9fp9]: started parsing
+2025-01-02 01:14:25,883 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0njft7hdi9fp9]: Consuming argument `reload`
+2025-01-02 01:14:25,883 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0njft7hdi9fp9]: Finished looking at arguments. Finalizing command.
+2025-01-02 01:14:25,889 [32mINFO [m [m[Server thread][m [mc.s.w.PermissionsResolverManager.findResolver(126)[m: WEPIF: Using the Bukkit Permissions API.
+2025-01-02 01:14:28,858 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [11foi9bjhddcj]: started parsing
+2025-01-02 01:14:28,858 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [11foi9bjhddcj]: Consuming argument ``
+2025-01-02 01:14:31,568 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1ftchjhxuz8ck]: started parsing
+2025-01-02 01:14:31,568 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1ftchjhxuz8ck]: Consuming argument `load`
+2025-01-02 01:14:31,568 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1ftchjhxuz8ck]: Consuming argument ``
+2025-01-02 01:14:31,573 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1ftchjhxuz8ck]: Finished looking at arguments. Finalizing command.
+2025-01-02 01:14:32,167 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1jxzcy0695fvh]: started parsing
+2025-01-02 01:14:32,168 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1jxzcy0695fvh]: Consuming argument `load`
+2025-01-02 01:14:32,168 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1jxzcy0695fvh]: Finished looking at arguments. Finalizing command.
+2025-01-02 01:14:32,323 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [16bhmo1oo7dqy]: started parsing
+2025-01-02 01:14:32,323 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [16bhmo1oo7dqy]: Consuming argument `loa`
+2025-01-02 01:14:32,432 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [19qmyxvwpl7be]: started parsing
+2025-01-02 01:14:32,432 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [19qmyxvwpl7be]: Consuming argument `lo`
+2025-01-02 01:14:32,570 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1rayunvqzlp4n]: started parsing
+2025-01-02 01:14:32,570 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1rayunvqzlp4n]: Consuming argument `l`
+2025-01-02 01:14:32,777 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [078lji1kixpe6]: started parsing
+2025-01-02 01:14:32,777 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [078lji1kixpe6]: Consuming argument `li`
+2025-01-02 01:14:32,860 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [07jaum3w47rrq]: started parsing
+2025-01-02 01:14:32,861 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [07jaum3w47rrq]: Consuming argument `lis`
+2025-01-02 01:14:33,312 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [007y229ppz2az]: started parsing
+2025-01-02 01:14:33,313 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [007y229ppz2az]: Consuming argument `list`
+2025-01-02 01:14:33,313 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [007y229ppz2az]: Finished looking at arguments. Finalizing command.
+2025-01-02 01:14:33,313 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: iZxry issued server command: /schematic list
+2025-01-02 01:14:33,314 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0tkjxzfg7jz6s]: started parsing
+2025-01-02 01:14:33,314 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0tkjxzfg7jz6s]: Consuming argument `list`
+2025-01-02 01:14:33,314 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0tkjxzfg7jz6s]: Finished looking at arguments. Finalizing command.
+2025-01-02 01:14:33,867 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0rrqjykfu00sz]: started parsing
+2025-01-02 01:14:33,867 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0rrqjykfu00sz]: Consuming argument `list`
+2025-01-02 01:14:33,867 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0rrqjykfu00sz]: Finished looking at arguments. Finalizing command.
+2025-01-02 01:14:33,916 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1f4jw3cjeal6z]: started parsing
+2025-01-02 01:14:33,917 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1f4jw3cjeal6z]: Consuming argument `list`
+2025-01-02 01:14:33,917 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1f4jw3cjeal6z]: Finished looking at arguments. Finalizing command.
+2025-01-02 01:14:34,787 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0p0xd1wb5luee]: started parsing
+2025-01-02 01:14:34,787 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0p0xd1wb5luee]: Consuming argument `reload`
+2025-01-02 01:14:34,787 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0p0xd1wb5luee]: Finished looking at arguments. Finalizing command.
+2025-01-02 01:14:34,810 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [077wlnjfpxmkj]: started parsing
+2025-01-02 01:14:34,810 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [077wlnjfpxmkj]: Consuming argument `reload`
+2025-01-02 01:14:34,810 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [077wlnjfpxmkj]: Finished looking at arguments. Finalizing command.
+2025-01-02 01:14:35,328 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1x67u7jnvusa5]: started parsing
+2025-01-02 01:14:35,328 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1x67u7jnvusa5]: Consuming argument `list`
+2025-01-02 01:14:35,328 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1x67u7jnvusa5]: Finished looking at arguments. Finalizing command.
+2025-01-02 01:14:35,329 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1wg3241okptt1]: started parsing
+2025-01-02 01:14:35,329 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1wg3241okptt1]: Consuming argument `list`
+2025-01-02 01:14:35,329 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1wg3241okptt1]: Finished looking at arguments. Finalizing command.
+2025-01-02 01:14:35,679 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1c06y83ptzgel]: started parsing
+2025-01-02 01:14:35,679 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1c06y83ptzgel]: Consuming argument `lis`
+2025-01-02 01:14:35,907 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1udtwu4xbdljl]: started parsing
+2025-01-02 01:14:35,907 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1udtwu4xbdljl]: Consuming argument `li`
+2025-01-02 01:14:36,068 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1hgqalhsxoh6b]: started parsing
+2025-01-02 01:14:36,068 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1hgqalhsxoh6b]: Consuming argument `l`
+2025-01-02 01:14:36,338 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0acy7k5prugf9]: started parsing
+2025-01-02 01:14:36,338 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0acy7k5prugf9]: Consuming argument `lo`
+2025-01-02 01:14:36,437 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1qxxk8sllmhod]: started parsing
+2025-01-02 01:14:36,437 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1qxxk8sllmhod]: Consuming argument `loa`
+2025-01-02 01:14:36,612 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [143sa1ui1gtpu]: started parsing
+2025-01-02 01:14:36,612 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [143sa1ui1gtpu]: Consuming argument `load`
+2025-01-02 01:14:36,612 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [143sa1ui1gtpu]: Finished looking at arguments. Finalizing command.
+2025-01-02 01:14:36,770 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1234cufk6ce4k]: started parsing
+2025-01-02 01:14:36,771 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1234cufk6ce4k]: Consuming argument `load`
+2025-01-02 01:14:36,771 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1234cufk6ce4k]: Consuming argument ``
+2025-01-02 01:14:36,771 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1234cufk6ce4k]: Finished looking at arguments. Finalizing command.
+2025-01-02 01:14:38,058 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1q78lfs2tjgyw]: started parsing
+2025-01-02 01:14:38,058 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1q78lfs2tjgyw]: Consuming argument `load`
+2025-01-02 01:14:38,058 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1q78lfs2tjgyw]: Consuming argument `p`
+2025-01-02 01:14:38,058 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1q78lfs2tjgyw]: Finished looking at arguments. Finalizing command.
+2025-01-02 01:14:38,165 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [18v8ajnyhulzm]: started parsing
+2025-01-02 01:14:38,165 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [18v8ajnyhulzm]: Consuming argument `load`
+2025-01-02 01:14:38,165 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [18v8ajnyhulzm]: Consuming argument `ph`
+2025-01-02 01:14:38,165 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [18v8ajnyhulzm]: Finished looking at arguments. Finalizing command.
+2025-01-02 01:14:38,289 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [163haq8yvy4mb]: started parsing
+2025-01-02 01:14:38,289 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [163haq8yvy4mb]: Consuming argument `load`
+2025-01-02 01:14:38,289 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [163haq8yvy4mb]: Consuming argument `pho`
+2025-01-02 01:14:38,290 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [163haq8yvy4mb]: Finished looking at arguments. Finalizing command.
+2025-01-02 01:14:38,757 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0m1z590la1dqw]: started parsing
+2025-01-02 01:14:38,757 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0m1z590la1dqw]: Consuming argument `load`
+2025-01-02 01:14:38,757 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0m1z590la1dqw]: Consuming argument `phoe`
+2025-01-02 01:14:38,757 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0m1z590la1dqw]: Finished looking at arguments. Finalizing command.
+2025-01-02 01:14:38,758 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0kimiz02fnzsz]: started parsing
+2025-01-02 01:14:38,758 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0kimiz02fnzsz]: Consuming argument `load`
+2025-01-02 01:14:38,758 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0kimiz02fnzsz]: Consuming argument `phoen`
+2025-01-02 01:14:38,758 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0kimiz02fnzsz]: Finished looking at arguments. Finalizing command.
+2025-01-02 01:14:38,970 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [11u1fg0dgjclg]: started parsing
+2025-01-02 01:14:38,970 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [11u1fg0dgjclg]: Consuming argument `load`
+2025-01-02 01:14:38,970 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [11u1fg0dgjclg]: Consuming argument `phoeni`
+2025-01-02 01:14:38,970 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [11u1fg0dgjclg]: Finished looking at arguments. Finalizing command.
+2025-01-02 01:14:39,008 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1rwsjsrzq9mfs]: started parsing
+2025-01-02 01:14:39,008 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1rwsjsrzq9mfs]: Consuming argument `load`
+2025-01-02 01:14:39,008 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1rwsjsrzq9mfs]: Consuming argument `phoenix`
+2025-01-02 01:14:39,008 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1rwsjsrzq9mfs]: Finished looking at arguments. Finalizing command.
+2025-01-02 01:14:39,068 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0ysxpmy388mip]: started parsing
+2025-01-02 01:14:39,068 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0ysxpmy388mip]: Consuming argument `load`
+2025-01-02 01:14:39,068 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0ysxpmy388mip]: Consuming argument `phoenixa`
+2025-01-02 01:14:39,069 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0ysxpmy388mip]: Finished looking at arguments. Finalizing command.
+2025-01-02 01:14:39,233 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0r2xtul7k6ozx]: started parsing
+2025-01-02 01:14:39,233 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0r2xtul7k6ozx]: Consuming argument `load`
+2025-01-02 01:14:39,233 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0r2xtul7k6ozx]: Consuming argument `phoenixar`
+2025-01-02 01:14:39,233 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0r2xtul7k6ozx]: Finished looking at arguments. Finalizing command.
+2025-01-02 01:14:39,557 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0i3nj5c9kuxjg]: started parsing
+2025-01-02 01:14:39,557 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0i3nj5c9kuxjg]: Consuming argument `load`
+2025-01-02 01:14:39,557 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0i3nj5c9kuxjg]: Consuming argument `phoenixare`
+2025-01-02 01:14:39,557 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0i3nj5c9kuxjg]: Finished looking at arguments. Finalizing command.
+2025-01-02 01:14:39,626 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1a8v4h1la9dxq]: started parsing
+2025-01-02 01:14:39,626 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1a8v4h1la9dxq]: Consuming argument `load`
+2025-01-02 01:14:39,626 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1a8v4h1la9dxq]: Consuming argument `phoenixarea`
+2025-01-02 01:14:39,626 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1a8v4h1la9dxq]: Finished looking at arguments. Finalizing command.
+2025-01-02 01:14:40,034 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [06bmpqt0ync6l]: started parsing
+2025-01-02 01:14:40,035 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [06bmpqt0ync6l]: Consuming argument `load`
+2025-01-02 01:14:40,035 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [06bmpqt0ync6l]: Consuming argument `phoenixare`
+2025-01-02 01:14:40,035 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [06bmpqt0ync6l]: Finished looking at arguments. Finalizing command.
+2025-01-02 01:14:40,037 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0donez9neu5g3]: started parsing
+2025-01-02 01:14:40,037 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0donez9neu5g3]: Consuming argument `load`
+2025-01-02 01:14:40,037 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0donez9neu5g3]: Consuming argument `phoenixaren`
+2025-01-02 01:14:40,037 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0donez9neu5g3]: Finished looking at arguments. Finalizing command.
+2025-01-02 01:14:40,774 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0xa79f3ug6jyz]: started parsing
+2025-01-02 01:14:40,774 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0xa79f3ug6jyz]: Consuming argument `load`
+2025-01-02 01:14:40,774 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0xa79f3ug6jyz]: Consuming argument `phoenixarena`
+2025-01-02 01:14:40,775 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0xa79f3ug6jyz]: Finished looking at arguments. Finalizing command.
+2025-01-02 01:14:40,775 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: iZxry issued server command: /schematic load phoenixarena
+2025-01-02 01:14:40,776 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0vmifbnop05s0]: started parsing
+2025-01-02 01:14:40,777 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0vmifbnop05s0]: Consuming argument `load`
+2025-01-02 01:14:40,777 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0vmifbnop05s0]: Consuming argument `phoenixarena`
+2025-01-02 01:14:40,777 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0vmifbnop05s0]: Finished looking at arguments. Finalizing command.
+2025-01-02 01:14:40,800 [36mDEBUG[m [m[WorldEdit Task Executor - 0][m [mc.s.w.e.c.i.SpongeSchematicReader.read(118)[m: Schematic was made in an older Minecraft version (2730 < 2975), will attempt DFU.
+2025-01-02 01:14:40,896 [32mINFO [m [m[WorldEdit Task Executor - 0][m [mc.s.w.c.SchematicCommands.call(323)[m: iZxry loaded /workspaces/MSP-2.5/servidor_minecraft/plugins/WorldEdit/schematics/phoenixarena.schem
+2025-01-02 01:16:44,430 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [11kj3rm3u41fy]: started parsing
+2025-01-02 01:16:44,430 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [11kj3rm3u41fy]: Consuming argument ``
+2025-01-02 01:16:44,716 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0r8sbq66ef8hs]: started parsing
+2025-01-02 01:16:44,716 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0r8sbq66ef8hs]: Consuming argument `2`
+2025-01-02 01:16:44,716 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0r8sbq66ef8hs]: Finished looking at arguments. Finalizing command.
+2025-01-02 01:16:44,865 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0nz801rsx56n1]: started parsing
+2025-01-02 01:16:44,865 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0nz801rsx56n1]: Consuming argument `20`
+2025-01-02 01:16:44,865 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0nz801rsx56n1]: Finished looking at arguments. Finalizing command.
+2025-01-02 01:16:45,113 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: iZxry issued server command: /up 20
+2025-01-02 01:16:45,114 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0hf3l1bv3kljf]: started parsing
+2025-01-02 01:16:45,114 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0hf3l1bv3kljf]: Consuming argument `20`
+2025-01-02 01:16:45,114 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0hf3l1bv3kljf]: Finished looking at arguments. Finalizing command.
+2025-01-02 01:16:48,569 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: iZxry issued server command: //paste
+2025-01-02 01:16:48,570 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1nx6ox35eo8zg]: started parsing
+2025-01-02 01:16:48,570 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1nx6ox35eo8zg]: Finished looking at arguments. Finalizing command.
+2025-01-02 01:16:57,727 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: iZxry issued server command: /tp AquilesSC
+2025-01-02 01:17:12,120 [1;31mERROR[m [m[Server thread][m [mn.m.Util.m_143785_(408)[m: POI data mismatch: already registered at BlockPos{x=-567, y=15, z=-690}
+2025-01-02 01:17:23,586 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: iZxry issued server command: /tp AquilesSC iZxry
+2025-01-02 01:18:03,105 [36mDEBUG[m [m[Server thread][m [mn.m.c.ForgeHooks.writeAdditionalLevelSaveData(1442)[m: Gathering id map for writing to world save world
+2025-01-02 01:18:03,117 [36mDEBUG[m [m[Server thread][m [mn.m.c.ForgeHooks.writeAdditionalLevelSaveData(1448)[m: ID Map collection complete world
+2025-01-02 01:18:31,372 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_6352_(656)[m: iZxry has made the advancement [You Monster...]
+2025-01-02 01:18:39,423 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_6352_(656)[m: AquilesSC has made the advancement [Diamonds!]
+2025-01-02 01:19:03,569 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: iZxry issued server command: /gm 0
+2025-01-02 01:19:06,972 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: iZxry issued server command: /gm 1
+2025-01-02 01:19:14,285 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: iZxry issued server command: /gm 0
+2025-01-02 01:19:29,634 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_6352_(656)[m: iZxry was slain by Ferrous Wroughtnaut
+2025-01-02 01:19:33,785 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: iZxry issued server command: /tp AquilesSC
+2025-01-02 01:19:35,445 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: iZxry issued server command: /gm 1
+2025-01-02 01:20:30,084 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: iZxry issued server command: //undo
+2025-01-02 01:20:30,085 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0hgkh7mluzkcq]: started parsing
+2025-01-02 01:20:30,085 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0hgkh7mluzkcq]: Finished looking at arguments. Finalizing command.
+2025-01-02 01:20:53,311 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: iZxry issued server command: /kill @e

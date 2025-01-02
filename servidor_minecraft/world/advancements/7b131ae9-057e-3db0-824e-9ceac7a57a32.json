@@ -221,6 +221,12 @@
     },
     "done": true
   },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_monster_room": "2025-01-02 01:57:07 +0000"
+    },
+    "done": false
+  },
   "cfm:recipes/cfm/dark_oak_desk": {
     "criteria": {
       "has_planks": "2025-01-01 17:53:56 +0000"
@@ -982,6 +988,12 @@
   "minecraft:recipes/decorations/cobbled_deepslate_wall": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-31 02:58:35 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:small_dungeon": {
+    "criteria": {
+      "in_better_monster_room": "2025-01-02 01:57:07 +0000"
     },
     "done": true
   },

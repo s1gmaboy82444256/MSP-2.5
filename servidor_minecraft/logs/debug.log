@@ -12994,3 +12994,303 @@ Things may not work well.
 2025-01-02 01:20:30,085 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0hgkh7mluzkcq]: started parsing
 2025-01-02 01:20:30,085 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0hgkh7mluzkcq]: Finished looking at arguments. Finalizing command.
 2025-01-02 01:20:53,311 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: iZxry issued server command: /kill @e
+2025-01-02 01:21:59,625 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: iZxry issued server command: /entities
+2025-01-02 01:22:57,995 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: AquilesSC issued server command: /time set day
+2025-01-02 01:23:04,436 [36mDEBUG[m [m[Server thread][m [mn.m.c.ForgeHooks.writeAdditionalLevelSaveData(1442)[m: Gathering id map for writing to world save world
+2025-01-02 01:23:04,446 [36mDEBUG[m [m[Server thread][m [mn.m.c.ForgeHooks.writeAdditionalLevelSaveData(1448)[m: ID Map collection complete world
+2025-01-02 01:24:54,082 [1;31mERROR[m [m[Server thread][m [mn.m.Util.m_143785_(408)[m: POI data mismatch: already registered at BlockPos{x=-963, y=-47, z=214}
+2025-01-02 01:24:55,801 [1;31mERROR[m [m[Server thread][m [mn.m.Util.m_143785_(408)[m: POI data mismatch: already registered at BlockPos{x=-962, y=-5, z=417}
+2025-01-02 01:25:01,879 [33mWARN [m [m[Server thread][m [mn.m.w.e.EntityType.m_185999_(474)[m: Skipping Entity with id tac:projectile
+2025-01-02 01:25:01,879 [33mWARN [m [m[Server thread][m [mn.m.w.e.EntityType.m_185999_(474)[m: Skipping Entity with id tac:projectile
+2025-01-02 01:26:25,624 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: iZxry issued server command: /tp AquilesSC
+2025-01-02 01:26:41,515 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: iZxry issued server command: //paste
+2025-01-02 01:26:41,516 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [07lzoqcvpi9sk]: started parsing
+2025-01-02 01:26:41,516 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [07lzoqcvpi9sk]: Finished looking at arguments. Finalizing command.
+2025-01-02 01:26:44,264 [33mWARN [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_7185_(1104)[m: AquilesSC moved too quickly! 16.115179837610356,-9.724192743046359,6.905821725541443
+2025-01-02 01:26:49,061 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: iZxry issued server command: /tp AquilesSC
+2025-01-02 01:27:00,344 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: iZxry issued server command: //undo
+2025-01-02 01:27:00,345 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [18sdmq1ex1o0g]: started parsing
+2025-01-02 01:27:00,345 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [18sdmq1ex1o0g]: Finished looking at arguments. Finalizing command.
+2025-01-02 01:27:13,918 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: iZxry issued server command: //paste
+2025-01-02 01:27:13,919 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [04rcbhvcnvv9e]: started parsing
+2025-01-02 01:27:13,919 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [04rcbhvcnvv9e]: Finished looking at arguments. Finalizing command.
+2025-01-02 01:27:27,239 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: iZxry issued server command: /tp AquilesSC
+2025-01-02 01:28:05,969 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1xp61j626p3op]: started parsing
+2025-01-02 01:28:05,970 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1xp61j626p3op]: Consuming argument ``
+2025-01-02 01:28:06,090 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1jz7hlbgokhco]: started parsing
+2025-01-02 01:28:06,090 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1jz7hlbgokhco]: Consuming argument `1`
+2025-01-02 01:28:06,094 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1jz7hlbgokhco]: Finished looking at arguments. Finalizing command.
+2025-01-02 01:28:06,257 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: iZxry issued server command: //set 1
+2025-01-02 01:28:06,257 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1l0g9u7mr4uzi]: started parsing
+2025-01-02 01:28:06,258 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1l0g9u7mr4uzi]: Consuming argument `1`
+2025-01-02 01:28:06,258 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1l0g9u7mr4uzi]: Finished looking at arguments. Finalizing command.
+2025-01-02 01:28:07,379 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1owls0tqnktdy]: started parsing
+2025-01-02 01:28:07,379 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1owls0tqnktdy]: Consuming argument `1`
+2025-01-02 01:28:07,380 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1owls0tqnktdy]: Finished looking at arguments. Finalizing command.
+2025-01-02 01:28:07,411 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0dxranasj32aw]: started parsing
+2025-01-02 01:28:07,412 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0dxranasj32aw]: Consuming argument `1`
+2025-01-02 01:28:07,412 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0dxranasj32aw]: Finished looking at arguments. Finalizing command.
+2025-01-02 01:28:07,760 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [11trew154phq4]: started parsing
+2025-01-02 01:28:07,760 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [11trew154phq4]: Consuming argument `1`
+2025-01-02 01:28:07,761 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [11trew154phq4]: Finished looking at arguments. Finalizing command.
+2025-01-02 01:28:10,832 [36mDEBUG[m [m[Server thread][m [mn.m.c.ForgeHooks.writeAdditionalLevelSaveData(1442)[m: Gathering id map for writing to world save world
+2025-01-02 01:28:10,842 [36mDEBUG[m [m[Server thread][m [mn.m.c.ForgeHooks.writeAdditionalLevelSaveData(1448)[m: ID Map collection complete world
+2025-01-02 01:28:24,129 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: iZxry issued server command: //pos1
+2025-01-02 01:28:24,130 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [118ljo90zs1ve]: started parsing
+2025-01-02 01:28:24,130 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [118ljo90zs1ve]: Finished looking at arguments. Finalizing command.
+2025-01-02 01:28:39,739 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: iZxry issued server command: //pos2
+2025-01-02 01:28:39,740 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1e0pamfo8b8b5]: started parsing
+2025-01-02 01:28:39,740 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1e0pamfo8b8b5]: Finished looking at arguments. Finalizing command.
+2025-01-02 01:28:40,739 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1m1esms1lsnkm]: started parsing
+2025-01-02 01:28:40,739 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1m1esms1lsnkm]: Consuming argument ``
+2025-01-02 01:28:40,822 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1xonhot0ppls2]: started parsing
+2025-01-02 01:28:40,822 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1xonhot0ppls2]: Consuming argument `0`
+2025-01-02 01:28:40,822 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1xonhot0ppls2]: Finished looking at arguments. Finalizing command.
+2025-01-02 01:28:41,013 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: iZxry issued server command: //set 0
+2025-01-02 01:28:41,014 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0ftml3rwi725z]: started parsing
+2025-01-02 01:28:41,014 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0ftml3rwi725z]: Consuming argument `0`
+2025-01-02 01:28:41,014 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0ftml3rwi725z]: Finished looking at arguments. Finalizing command.
+2025-01-02 01:28:57,009 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: iZxry issued server command: //pos1
+2025-01-02 01:28:57,009 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0yxkody8utvnj]: started parsing
+2025-01-02 01:28:57,009 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0yxkody8utvnj]: Finished looking at arguments. Finalizing command.
+2025-01-02 01:29:04,595 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: iZxry issued server command: //pos2
+2025-01-02 01:29:04,596 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1mwr4y4lhuwmt]: started parsing
+2025-01-02 01:29:04,596 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1mwr4y4lhuwmt]: Finished looking at arguments. Finalizing command.
+2025-01-02 01:29:05,985 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [01eixx00w9icu]: started parsing
+2025-01-02 01:29:05,986 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [01eixx00w9icu]: Consuming argument ``
+2025-01-02 01:29:06,091 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1ljmz4i9zp095]: started parsing
+2025-01-02 01:29:06,091 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1ljmz4i9zp095]: Consuming argument `0`
+2025-01-02 01:29:06,091 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1ljmz4i9zp095]: Finished looking at arguments. Finalizing command.
+2025-01-02 01:29:06,296 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: iZxry issued server command: //set 0
+2025-01-02 01:29:06,297 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1htclbnpgtbab]: started parsing
+2025-01-02 01:29:06,297 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1htclbnpgtbab]: Consuming argument `0`
+2025-01-02 01:29:06,298 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1htclbnpgtbab]: Finished looking at arguments. Finalizing command.
+2025-01-02 01:29:23,305 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1ur8net7mpiq0]: started parsing
+2025-01-02 01:29:23,305 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1ur8net7mpiq0]: Consuming argument ``
+2025-01-02 01:29:23,450 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0eh853kkdnjhh]: started parsing
+2025-01-02 01:29:23,451 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0eh853kkdnjhh]: Consuming argument `g`
+2025-01-02 01:29:23,791 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1u056d8pc81wd]: started parsing
+2025-01-02 01:29:23,791 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1u056d8pc81wd]: Consuming argument `gr`
+2025-01-02 01:29:24,253 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0200cupx2b86l]: started parsing
+2025-01-02 01:29:24,253 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0200cupx2b86l]: Consuming argument `gra`
+2025-01-02 01:29:24,255 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0gjoqnc05q9x2]: started parsing
+2025-01-02 01:29:24,255 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0gjoqnc05q9x2]: Consuming argument `gras`
+2025-01-02 01:29:24,257 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0ae75wqo3xi01]: started parsing
+2025-01-02 01:29:24,257 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0ae75wqo3xi01]: Consuming argument `grass`
+2025-01-02 01:29:24,257 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0ae75wqo3xi01]: Finished looking at arguments. Finalizing command.
+2025-01-02 01:29:24,592 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0jwr7mawc077d]: started parsing
+2025-01-02 01:29:24,593 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0jwr7mawc077d]: Consuming argument `gras`
+2025-01-02 01:29:24,712 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [130ci0l7x0w2p]: started parsing
+2025-01-02 01:29:24,713 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [130ci0l7x0w2p]: Consuming argument `gra`
+2025-01-02 01:29:25,490 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1atqnswr4evb1]: started parsing
+2025-01-02 01:29:25,491 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1atqnswr4evb1]: Consuming argument `gras`
+2025-01-02 01:29:25,650 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1bysd3lfnlznx]: started parsing
+2025-01-02 01:29:25,651 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1bysd3lfnlznx]: Consuming argument `grass`
+2025-01-02 01:29:25,651 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1bysd3lfnlznx]: Finished looking at arguments. Finalizing command.
+2025-01-02 01:29:26,337 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1u0gw2tmh8yp8]: started parsing
+2025-01-02 01:29:26,337 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1u0gw2tmh8yp8]: Consuming argument `gras`
+2025-01-02 01:29:27,290 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: iZxry issued server command: //set grass_block
+2025-01-02 01:29:27,291 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1ast1hb8r8of6]: started parsing
+2025-01-02 01:29:27,291 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1ast1hb8r8of6]: Consuming argument `grass_block`
+2025-01-02 01:29:27,291 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1ast1hb8r8of6]: Finished looking at arguments. Finalizing command.
+2025-01-02 01:29:45,367 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1sksn70gr3hhj]: started parsing
+2025-01-02 01:29:45,368 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1sksn70gr3hhj]: Consuming argument `grass_block`
+2025-01-02 01:29:45,368 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1sksn70gr3hhj]: Finished looking at arguments. Finalizing command.
+2025-01-02 01:29:45,368 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0ekcttpkm9ri4]: started parsing
+2025-01-02 01:29:45,368 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0ekcttpkm9ri4]: Consuming argument `grass_block`
+2025-01-02 01:29:45,369 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0ekcttpkm9ri4]: Finished looking at arguments. Finalizing command.
+2025-01-02 01:29:45,518 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [06rkwofos2w94]: started parsing
+2025-01-02 01:29:45,519 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [06rkwofos2w94]: Consuming argument `0`
+2025-01-02 01:29:45,519 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [06rkwofos2w94]: Finished looking at arguments. Finalizing command.
+2025-01-02 01:29:45,566 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1hxpsy3wlkh76]: started parsing
+2025-01-02 01:29:45,566 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1hxpsy3wlkh76]: Consuming argument `0`
+2025-01-02 01:29:45,566 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1hxpsy3wlkh76]: Finished looking at arguments. Finalizing command.
+2025-01-02 01:29:45,869 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0bi6u1o29n61t]: started parsing
+2025-01-02 01:29:45,869 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0bi6u1o29n61t]: Consuming argument `grass_block`
+2025-01-02 01:29:45,869 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0bi6u1o29n61t]: Finished looking at arguments. Finalizing command.
+2025-01-02 01:29:45,870 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0af9y88jop4lz]: started parsing
+2025-01-02 01:29:45,870 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0af9y88jop4lz]: Consuming argument `grass_block`
+2025-01-02 01:29:45,870 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0af9y88jop4lz]: Finished looking at arguments. Finalizing command.
+2025-01-02 01:29:46,012 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: iZxry issued server command: //set grass_block
+2025-01-02 01:29:46,013 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [10a0xxjgeu91h]: started parsing
+2025-01-02 01:29:46,013 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [10a0xxjgeu91h]: Consuming argument `grass_block`
+2025-01-02 01:29:46,013 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [10a0xxjgeu91h]: Finished looking at arguments. Finalizing command.
+2025-01-02 01:29:50,093 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: iZxry issued server command: //pos1
+2025-01-02 01:29:50,094 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [061amlqcconl3]: started parsing
+2025-01-02 01:29:50,094 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [061amlqcconl3]: Finished looking at arguments. Finalizing command.
+2025-01-02 01:29:58,918 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: iZxry issued server command: //pos 2
+2025-01-02 01:30:00,950 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: iZxry issued server command: //pos2
+2025-01-02 01:30:00,951 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0k5nv425h45hw]: started parsing
+2025-01-02 01:30:00,951 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0k5nv425h45hw]: Finished looking at arguments. Finalizing command.
+2025-01-02 01:30:01,990 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [097p8wluxf70p]: started parsing
+2025-01-02 01:30:01,991 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [097p8wluxf70p]: Consuming argument ``
+2025-01-02 01:30:01,992 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [05rwn506ttw5f]: started parsing
+2025-01-02 01:30:01,992 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [05rwn506ttw5f]: Consuming argument `0`
+2025-01-02 01:30:01,992 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [05rwn506ttw5f]: Finished looking at arguments. Finalizing command.
+2025-01-02 01:30:02,153 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: iZxry issued server command: //set 0
+2025-01-02 01:30:02,153 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1qletsyjygfhz]: started parsing
+2025-01-02 01:30:02,154 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1qletsyjygfhz]: Consuming argument `0`
+2025-01-02 01:30:02,154 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1qletsyjygfhz]: Finished looking at arguments. Finalizing command.
+2025-01-02 01:30:10,986 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: iZxry issued server command: //undo
+2025-01-02 01:30:10,986 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1vr0d984139cd]: started parsing
+2025-01-02 01:30:10,986 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1vr0d984139cd]: Finished looking at arguments. Finalizing command.
+2025-01-02 01:30:19,377 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: iZxry issued server command: //pos 2
+2025-01-02 01:30:21,237 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: iZxry issued server command: //pos2
+2025-01-02 01:30:21,238 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1ev9sbfdhjh2d]: started parsing
+2025-01-02 01:30:21,238 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1ev9sbfdhjh2d]: Finished looking at arguments. Finalizing command.
+2025-01-02 01:30:23,546 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1cjac9ut01ipk]: started parsing
+2025-01-02 01:30:23,546 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1cjac9ut01ipk]: Consuming argument ``
+2025-01-02 01:30:23,638 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0ug4ghtfr5ykf]: started parsing
+2025-01-02 01:30:23,638 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0ug4ghtfr5ykf]: Consuming argument `0`
+2025-01-02 01:30:23,638 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0ug4ghtfr5ykf]: Finished looking at arguments. Finalizing command.
+2025-01-02 01:30:23,838 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: iZxry issued server command: //set 0
+2025-01-02 01:30:23,839 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1v822t2t2tiua]: started parsing
+2025-01-02 01:30:23,839 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1v822t2t2tiua]: Consuming argument `0`
+2025-01-02 01:30:23,840 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1v822t2t2tiua]: Finished looking at arguments. Finalizing command.
+2025-01-02 01:30:47,397 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: iZxry issued server command: //pos32
+2025-01-02 01:30:48,458 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: iZxry issued server command: //pos2
+2025-01-02 01:30:48,459 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0gee6lhmk6zym]: started parsing
+2025-01-02 01:30:48,459 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0gee6lhmk6zym]: Finished looking at arguments. Finalizing command.
+2025-01-02 01:30:50,284 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [16eeparsi0mm7]: started parsing
+2025-01-02 01:30:50,284 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [16eeparsi0mm7]: Consuming argument ``
+2025-01-02 01:30:50,338 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1j4ddp43rydkl]: started parsing
+2025-01-02 01:30:50,338 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1j4ddp43rydkl]: Consuming argument `0`
+2025-01-02 01:30:50,338 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1j4ddp43rydkl]: Finished looking at arguments. Finalizing command.
+2025-01-02 01:30:50,507 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: iZxry issued server command: //set 0
+2025-01-02 01:30:50,508 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [07qe9p8txwvzq]: started parsing
+2025-01-02 01:30:50,508 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [07qe9p8txwvzq]: Consuming argument `0`
+2025-01-02 01:30:50,508 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [07qe9p8txwvzq]: Finished looking at arguments. Finalizing command.
+2025-01-02 01:31:14,567 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1vwzs6r7yvpue]: started parsing
+2025-01-02 01:31:14,568 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1vwzs6r7yvpue]: Consuming argument ``
+2025-01-02 01:31:15,707 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: iZxry issued server command: //set2
+2025-01-02 01:31:18,213 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: iZxry issued server command: //pos2
+2025-01-02 01:31:18,213 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1ltn5crnm0eg3]: started parsing
+2025-01-02 01:31:18,214 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1ltn5crnm0eg3]: Finished looking at arguments. Finalizing command.
+2025-01-02 01:31:19,277 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0tz6cj3wehd5l]: started parsing
+2025-01-02 01:31:19,277 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0tz6cj3wehd5l]: Consuming argument ``
+2025-01-02 01:31:26,151 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1fvthaovp7yje]: started parsing
+2025-01-02 01:31:26,151 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1fvthaovp7yje]: Consuming argument `e`
+2025-01-02 01:31:30,310 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0oo5xzhnitiyy]: started parsing
+2025-01-02 01:31:30,310 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0oo5xzhnitiyy]: Consuming argument ``
+2025-01-02 01:31:30,403 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0qtyg46s6qw0u]: started parsing
+2025-01-02 01:31:30,403 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0qtyg46s6qw0u]: Consuming argument `s`
+2025-01-02 01:31:30,601 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0u2cm6n9c2ex1]: started parsing
+2025-01-02 01:31:30,601 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0u2cm6n9c2ex1]: Consuming argument `st`
+2025-01-02 01:31:30,617 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [08272umehq1m8]: started parsing
+2025-01-02 01:31:30,617 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [08272umehq1m8]: Consuming argument `sto`
+2025-01-02 01:31:30,757 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0n7xvzkuurbz2]: started parsing
+2025-01-02 01:31:30,758 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0n7xvzkuurbz2]: Consuming argument `ston`
+2025-01-02 01:31:30,851 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1vyuztgco56bc]: started parsing
+2025-01-02 01:31:30,852 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1vyuztgco56bc]: Consuming argument `stone`
+2025-01-02 01:31:30,852 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1vyuztgco56bc]: Finished looking at arguments. Finalizing command.
+2025-01-02 01:31:30,973 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: iZxry issued server command: //set stone
+2025-01-02 01:31:30,973 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0qyck4ukgkq25]: started parsing
+2025-01-02 01:31:30,973 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0qyck4ukgkq25]: Consuming argument `stone`
+2025-01-02 01:31:30,974 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0qyck4ukgkq25]: Finished looking at arguments. Finalizing command.
+2025-01-02 01:31:34,850 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: iZxry issued server command: //undo
+2025-01-02 01:31:34,851 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [04h6gw6xl93jg]: started parsing
+2025-01-02 01:31:34,851 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [04h6gw6xl93jg]: Finished looking at arguments. Finalizing command.
+2025-01-02 01:31:43,131 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1ogij9l9zeas3]: started parsing
+2025-01-02 01:31:43,131 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1ogij9l9zeas3]: Consuming argument `stone`
+2025-01-02 01:31:43,132 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1ogij9l9zeas3]: Finished looking at arguments. Finalizing command.
+2025-01-02 01:31:43,132 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0ug9b5gc7mowv]: started parsing
+2025-01-02 01:31:43,132 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0ug9b5gc7mowv]: Consuming argument `stone`
+2025-01-02 01:31:43,132 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0ug9b5gc7mowv]: Finished looking at arguments. Finalizing command.
+2025-01-02 01:31:43,620 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: iZxry issued server command: //set stone
+2025-01-02 01:31:43,621 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [11fm4hcxqow6b]: started parsing
+2025-01-02 01:31:43,621 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [11fm4hcxqow6b]: Consuming argument `stone`
+2025-01-02 01:31:43,621 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [11fm4hcxqow6b]: Finished looking at arguments. Finalizing command.
+2025-01-02 01:31:54,120 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [02vqjllh3ruep]: started parsing
+2025-01-02 01:31:54,120 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [02vqjllh3ruep]: Consuming argument `stone`
+2025-01-02 01:31:54,120 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [02vqjllh3ruep]: Finished looking at arguments. Finalizing command.
+2025-01-02 01:31:54,121 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0z4x1l2j7q5q4]: started parsing
+2025-01-02 01:31:54,121 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0z4x1l2j7q5q4]: Consuming argument `stone`
+2025-01-02 01:31:54,121 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0z4x1l2j7q5q4]: Finished looking at arguments. Finalizing command.
+2025-01-02 01:31:54,410 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0kd3iu2h6h4zu]: started parsing
+2025-01-02 01:31:54,410 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0kd3iu2h6h4zu]: Consuming argument `stone`
+2025-01-02 01:31:54,410 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0kd3iu2h6h4zu]: Finished looking at arguments. Finalizing command.
+2025-01-02 01:31:54,411 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [06bm8gs8128yj]: started parsing
+2025-01-02 01:31:54,411 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [06bm8gs8128yj]: Consuming argument `stone`
+2025-01-02 01:31:54,411 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [06bm8gs8128yj]: Finished looking at arguments. Finalizing command.
+2025-01-02 01:31:55,247 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [142r90xumptth]: started parsing
+2025-01-02 01:31:55,247 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [142r90xumptth]: Consuming argument `0`
+2025-01-02 01:31:55,247 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [142r90xumptth]: Finished looking at arguments. Finalizing command.
+2025-01-02 01:31:55,248 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [065joz6qppi16]: started parsing
+2025-01-02 01:31:55,248 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [065joz6qppi16]: Consuming argument `0`
+2025-01-02 01:31:55,248 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [065joz6qppi16]: Finished looking at arguments. Finalizing command.
+2025-01-02 01:31:56,137 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [07oe1zng73j6t]: started parsing
+2025-01-02 01:31:56,137 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [07oe1zng73j6t]: Consuming argument `0`
+2025-01-02 01:31:56,137 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [07oe1zng73j6t]: Finished looking at arguments. Finalizing command.
+2025-01-02 01:31:56,138 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1rsazfcc1eumn]: started parsing
+2025-01-02 01:31:56,138 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1rsazfcc1eumn]: Consuming argument `0`
+2025-01-02 01:31:56,138 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1rsazfcc1eumn]: Finished looking at arguments. Finalizing command.
+2025-01-02 01:31:57,437 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1p96ziu8v8rqn]: started parsing
+2025-01-02 01:31:57,437 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1p96ziu8v8rqn]: Consuming argument `0`
+2025-01-02 01:31:57,437 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1p96ziu8v8rqn]: Finished looking at arguments. Finalizing command.
+2025-01-02 01:31:57,438 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [03h2i0la8qjo1]: started parsing
+2025-01-02 01:31:57,438 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [03h2i0la8qjo1]: Consuming argument `0`
+2025-01-02 01:31:57,438 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [03h2i0la8qjo1]: Finished looking at arguments. Finalizing command.
+2025-01-02 01:31:58,212 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0j435nr2s006b]: started parsing
+2025-01-02 01:31:58,212 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0j435nr2s006b]: Consuming argument `grass_block`
+2025-01-02 01:31:58,212 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0j435nr2s006b]: Finished looking at arguments. Finalizing command.
+2025-01-02 01:31:58,212 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0w6z6s88ipaib]: started parsing
+2025-01-02 01:31:58,212 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0w6z6s88ipaib]: Consuming argument `grass_block`
+2025-01-02 01:31:58,212 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0w6z6s88ipaib]: Finished looking at arguments. Finalizing command.
+2025-01-02 01:31:58,986 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: iZxry issued server command: //set grass_block
+2025-01-02 01:31:58,987 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1azt7ws7h60c1]: started parsing
+2025-01-02 01:31:58,987 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1azt7ws7h60c1]: Consuming argument `grass_block`
+2025-01-02 01:31:58,988 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1azt7ws7h60c1]: Finished looking at arguments. Finalizing command.
+2025-01-02 01:32:32,124 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0sy66c8zpcmsf]: started parsing
+2025-01-02 01:32:32,125 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0sy66c8zpcmsf]: Consuming argument ``
+2025-01-02 01:32:32,246 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1jdkz7dbkpvgs]: started parsing
+2025-01-02 01:32:32,247 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1jdkz7dbkpvgs]: Consuming argument `s`
+2025-01-02 01:32:32,483 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0vtmnl111h9up]: started parsing
+2025-01-02 01:32:32,484 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0vtmnl111h9up]: Consuming argument `st`
+2025-01-02 01:32:32,546 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0qmjuhubg1r98]: started parsing
+2025-01-02 01:32:32,547 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0qmjuhubg1r98]: Consuming argument `sto`
+2025-01-02 01:32:32,718 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1scurefwav3co]: started parsing
+2025-01-02 01:32:32,719 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1scurefwav3co]: Consuming argument `ston`
+2025-01-02 01:32:32,775 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1r92307idc95c]: started parsing
+2025-01-02 01:32:32,775 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1r92307idc95c]: Consuming argument `stone`
+2025-01-02 01:32:32,775 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1r92307idc95c]: Finished looking at arguments. Finalizing command.
+2025-01-02 01:32:32,871 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: iZxry issued server command: //set stone
+2025-01-02 01:32:32,871 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0nln8bh0mbdg9]: started parsing
+2025-01-02 01:32:32,871 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0nln8bh0mbdg9]: Consuming argument `stone`
+2025-01-02 01:32:32,872 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0nln8bh0mbdg9]: Finished looking at arguments. Finalizing command.
+2025-01-02 01:32:53,248 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: iZxry issued server command: //pos1
+2025-01-02 01:32:53,249 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [199f9owb8lau8]: started parsing
+2025-01-02 01:32:53,249 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [199f9owb8lau8]: Finished looking at arguments. Finalizing command.
+2025-01-02 01:32:57,696 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: iZxry issued server command: //pos2
+2025-01-02 01:32:57,697 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0yjbk7z2tthq6]: started parsing
+2025-01-02 01:32:57,697 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0yjbk7z2tthq6]: Finished looking at arguments. Finalizing command.
+2025-01-02 01:32:58,957 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [052a2s2825poc]: started parsing
+2025-01-02 01:32:58,957 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [052a2s2825poc]: Consuming argument ``
+2025-01-02 01:32:58,959 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0975px3mbyv55]: started parsing
+2025-01-02 01:32:58,959 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0975px3mbyv55]: Consuming argument `0`
+2025-01-02 01:32:58,959 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0975px3mbyv55]: Finished looking at arguments. Finalizing command.
+2025-01-02 01:32:58,966 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: iZxry issued server command: //set 0
+2025-01-02 01:32:58,966 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0scvtnd93jsmh]: started parsing
+2025-01-02 01:32:58,967 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0scvtnd93jsmh]: Consuming argument `0`
+2025-01-02 01:32:58,967 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0scvtnd93jsmh]: Finished looking at arguments. Finalizing command.
+2025-01-02 01:33:11,181 [36mDEBUG[m [m[Server thread][m [mn.m.c.ForgeHooks.writeAdditionalLevelSaveData(1442)[m: Gathering id map for writing to world save world
+2025-01-02 01:33:11,192 [36mDEBUG[m [m[Server thread][m [mn.m.c.ForgeHooks.writeAdditionalLevelSaveData(1448)[m: ID Map collection complete world
+2025-01-02 01:37:44,773 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: iZxry issued server command: /tp AquilesSC
+2025-01-02 01:38:01,909 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: iZxry issued server command: //pos1
+2025-01-02 01:38:01,910 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1lbibdrib9p90]: started parsing
+2025-01-02 01:38:01,910 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1lbibdrib9p90]: Finished looking at arguments. Finalizing command.
+2025-01-02 01:38:11,172 [36mDEBUG[m [m[Server thread][m [mn.m.c.ForgeHooks.writeAdditionalLevelSaveData(1442)[m: Gathering id map for writing to world save world
+2025-01-02 01:38:11,182 [36mDEBUG[m [m[Server thread][m [mn.m.c.ForgeHooks.writeAdditionalLevelSaveData(1448)[m: ID Map collection complete world
+2025-01-02 01:38:30,156 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: iZxry issued server command: //pos2
+2025-01-02 01:38:30,157 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [130c5g3oqiyva]: started parsing
+2025-01-02 01:38:30,157 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [130c5g3oqiyva]: Finished looking at arguments. Finalizing command.
+2025-01-02 01:38:35,854 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: iZxry issued server command: /region define coliseo
+2025-01-02 01:38:38,484 [32mINFO [m [m[WorldGuard Region I/O][m [mc.s.w.p.m.RegionContainerImpl.publish(36)[m: [WorldGuard] Region data changes made in 'world' have been background saved
+2025-01-02 01:38:46,263 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: iZxry issued server command: /rg list
+2025-01-02 01:38:47,324 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: iZxry issued server command: /rg info -w "world" coliseo
+2025-01-02 01:38:49,402 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: iZxry issued server command: /rg flags -w "world" coliseo
+2025-01-02 01:39:05,178 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: iZxry issued server command: /rg flags -w "world" -p 2 coliseo
+2025-01-02 01:39:11,973 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: iZxry issued server command: /rg flags -w "world" -p 3 coliseo
+2025-01-02 01:39:13,719 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: iZxry issued server command: /rg flag -w "world" -h 3 coliseo mob-spawning DENY
+2025-01-02 01:39:38,479 [32mINFO [m [m[WorldGuard Region I/O][m [mc.s.w.p.m.RegionContainerImpl.publish(36)[m: [WorldGuard] Region data changes made in 'world' have been background saved
+2025-01-02 01:40:24,677 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: iZxry issued server command: /day
+2025-01-02 01:40:26,712 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: iZxry issued server command: /tp AquilesSC

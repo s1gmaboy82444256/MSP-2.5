@@ -295,3 +295,60 @@ Things may not work well.
 2025-01-02 01:19:35,445 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: iZxry issued server command: /gm 1
 2025-01-02 01:20:30,084 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: iZxry issued server command: //undo
 2025-01-02 01:20:53,311 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: iZxry issued server command: /kill @e
+2025-01-02 01:21:59,625 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: iZxry issued server command: /entities
+2025-01-02 01:22:57,995 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: AquilesSC issued server command: /time set day
+2025-01-02 01:24:54,082 [1;31mERROR[m [m[Server thread][m [mn.m.Util.m_143785_(408)[m: POI data mismatch: already registered at BlockPos{x=-963, y=-47, z=214}
+2025-01-02 01:24:55,801 [1;31mERROR[m [m[Server thread][m [mn.m.Util.m_143785_(408)[m: POI data mismatch: already registered at BlockPos{x=-962, y=-5, z=417}
+2025-01-02 01:25:01,879 [33mWARN [m [m[Server thread][m [mn.m.w.e.EntityType.m_185999_(474)[m: Skipping Entity with id tac:projectile
+2025-01-02 01:25:01,879 [33mWARN [m [m[Server thread][m [mn.m.w.e.EntityType.m_185999_(474)[m: Skipping Entity with id tac:projectile
+2025-01-02 01:26:25,624 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: iZxry issued server command: /tp AquilesSC
+2025-01-02 01:26:41,515 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: iZxry issued server command: //paste
+2025-01-02 01:26:44,264 [33mWARN [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_7185_(1104)[m: AquilesSC moved too quickly! 16.115179837610356,-9.724192743046359,6.905821725541443
+2025-01-02 01:26:49,061 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: iZxry issued server command: /tp AquilesSC
+2025-01-02 01:27:00,344 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: iZxry issued server command: //undo
+2025-01-02 01:27:13,918 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: iZxry issued server command: //paste
+2025-01-02 01:27:27,239 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: iZxry issued server command: /tp AquilesSC
+2025-01-02 01:28:06,257 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: iZxry issued server command: //set 1
+2025-01-02 01:28:24,129 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: iZxry issued server command: //pos1
+2025-01-02 01:28:39,739 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: iZxry issued server command: //pos2
+2025-01-02 01:28:41,013 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: iZxry issued server command: //set 0
+2025-01-02 01:28:57,009 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: iZxry issued server command: //pos1
+2025-01-02 01:29:04,595 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: iZxry issued server command: //pos2
+2025-01-02 01:29:06,296 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: iZxry issued server command: //set 0
+2025-01-02 01:29:27,290 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: iZxry issued server command: //set grass_block
+2025-01-02 01:29:46,012 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: iZxry issued server command: //set grass_block
+2025-01-02 01:29:50,093 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: iZxry issued server command: //pos1
+2025-01-02 01:29:58,918 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: iZxry issued server command: //pos 2
+2025-01-02 01:30:00,950 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: iZxry issued server command: //pos2
+2025-01-02 01:30:02,153 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: iZxry issued server command: //set 0
+2025-01-02 01:30:10,986 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: iZxry issued server command: //undo
+2025-01-02 01:30:19,377 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: iZxry issued server command: //pos 2
+2025-01-02 01:30:21,237 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: iZxry issued server command: //pos2
+2025-01-02 01:30:23,838 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: iZxry issued server command: //set 0
+2025-01-02 01:30:47,397 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: iZxry issued server command: //pos32
+2025-01-02 01:30:48,458 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: iZxry issued server command: //pos2
+2025-01-02 01:30:50,507 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: iZxry issued server command: //set 0
+2025-01-02 01:31:15,707 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: iZxry issued server command: //set2
+2025-01-02 01:31:18,213 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: iZxry issued server command: //pos2
+2025-01-02 01:31:30,973 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: iZxry issued server command: //set stone
+2025-01-02 01:31:34,850 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: iZxry issued server command: //undo
+2025-01-02 01:31:43,620 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: iZxry issued server command: //set stone
+2025-01-02 01:31:58,986 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: iZxry issued server command: //set grass_block
+2025-01-02 01:32:32,871 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: iZxry issued server command: //set stone
+2025-01-02 01:32:53,248 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: iZxry issued server command: //pos1
+2025-01-02 01:32:57,696 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: iZxry issued server command: //pos2
+2025-01-02 01:32:58,966 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: iZxry issued server command: //set 0
+2025-01-02 01:37:44,773 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: iZxry issued server command: /tp AquilesSC
+2025-01-02 01:38:01,909 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: iZxry issued server command: //pos1
+2025-01-02 01:38:30,156 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: iZxry issued server command: //pos2
+2025-01-02 01:38:35,854 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: iZxry issued server command: /region define coliseo
+2025-01-02 01:38:38,484 [32mINFO [m [m[WorldGuard Region I/O][m [mc.s.w.p.m.RegionContainerImpl.publish(36)[m: [WorldGuard] Region data changes made in 'world' have been background saved
+2025-01-02 01:38:46,263 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: iZxry issued server command: /rg list
+2025-01-02 01:38:47,324 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: iZxry issued server command: /rg info -w "world" coliseo
+2025-01-02 01:38:49,402 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: iZxry issued server command: /rg flags -w "world" coliseo
+2025-01-02 01:39:05,178 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: iZxry issued server command: /rg flags -w "world" -p 2 coliseo
+2025-01-02 01:39:11,973 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: iZxry issued server command: /rg flags -w "world" -p 3 coliseo
+2025-01-02 01:39:13,719 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: iZxry issued server command: /rg flag -w "world" -h 3 coliseo mob-spawning DENY
+2025-01-02 01:39:38,479 [32mINFO [m [m[WorldGuard Region I/O][m [mc.s.w.p.m.RegionContainerImpl.publish(36)[m: [WorldGuard] Region data changes made in 'world' have been background saved
+2025-01-02 01:40:24,677 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: iZxry issued server command: /day
+2025-01-02 01:40:26,712 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: iZxry issued server command: /tp AquilesSC

@@ -13294,3 +13294,7 @@ Things may not work well.
 2025-01-02 01:39:38,479 [32mINFO [m [m[WorldGuard Region I/O][m [mc.s.w.p.m.RegionContainerImpl.publish(36)[m: [WorldGuard] Region data changes made in 'world' have been background saved
 2025-01-02 01:40:24,677 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: iZxry issued server command: /day
 2025-01-02 01:40:26,712 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: iZxry issued server command: /tp AquilesSC
+2025-01-02 01:43:11,178 [36mDEBUG[m [m[Server thread][m [mn.m.c.ForgeHooks.writeAdditionalLevelSaveData(1442)[m: Gathering id map for writing to world save world
+2025-01-02 01:43:11,190 [36mDEBUG[m [m[Server thread][m [mn.m.c.ForgeHooks.writeAdditionalLevelSaveData(1448)[m: ID Map collection complete world
+2025-01-02 01:48:11,209 [36mDEBUG[m [m[Server thread][m [mn.m.c.ForgeHooks.writeAdditionalLevelSaveData(1442)[m: Gathering id map for writing to world save world
+2025-01-02 01:48:11,250 [36mDEBUG[m [m[Server thread][m [mn.m.c.ForgeHooks.writeAdditionalLevelSaveData(1448)[m: ID Map collection complete world

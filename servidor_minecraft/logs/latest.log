@@ -256,3 +256,5 @@
 2025-01-03 01:43:31,257 [32mINFO [m [m[Server thread][m [mn.m.w.e.n.Villager.m_6667_(568)[m: Villager Villager['Unemployed'/447, l='ServerLevel[world]', x=-254.83, y=66.00, z=118.37] died, message: 'Unemployed hit the ground too hard'
 2025-01-03 01:44:46,520 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: AquilesSC issued server command: /time set day
 2025-01-03 01:56:10,047 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: AquilesSC issued server command: /time set day
+2025-01-03 02:02:04,911 [32mINFO [m [m[Server thread][m [mn.m.c.AdvancementLoadFix.loadVisibility(36)[m: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5cd108a
+2025-01-03 02:07:32,653 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: AquilesSC issued server command: /time set day

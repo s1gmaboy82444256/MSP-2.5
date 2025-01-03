@@ -3,7 +3,7 @@ teleportauto: false
 godmode: false
 muted: false
 jailed: false
-ip-address: ''
+ip-address: 127.49.152.53
 afk: false
 socialspy: false
 npc: false
@@ -16,8 +16,8 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 0
-  login: 0
+  logout: 1735783883946
+  login: 1735864841529
 money: '0'
 lastlocation:
   world: 045629f8-f27d-4a66-8df8-95b7548b6abd
@@ -27,3 +27,12 @@ lastlocation:
   z: -1597.849395591706
   yaw: -118.68555450439453
   pitch: 39.00001907348633
+logoutlocation:
+  world: 045629f8-f27d-4a66-8df8-95b7548b6abd
+  world-name: world
+  x: -459.4110610895674
+  y: 79.98082555586772
+  z: -434.33542568238147
+  yaw: -58.833740234375
+  pitch: 27.14992904663086
+last-account-name: AquilesSC

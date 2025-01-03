@@ -223,7 +223,8 @@
   },
   "betterdungeons:all_dungeons": {
     "criteria": {
-      "in_better_monster_room": "2025-01-02 01:57:07 +0000"
+      "in_better_monster_room": "2025-01-02 01:57:07 +0000",
+      "in_better_skeleton_dungeon": "2025-01-02 02:00:32 +0000"
     },
     "done": false
   },
@@ -477,13 +478,15 @@
       "field": "2024-12-31 02:02:03 +0000",
       "mediterranean_forest": "2024-12-31 02:00:45 +0000",
       "coniferous_forest": "2024-12-31 02:02:00 +0000",
+      "spider_nest": "2025-01-02 02:02:04 +0000",
       "redwood_forest": "2024-12-31 01:48:33 +0000",
       "dune_beach": "2024-12-31 01:46:50 +0000",
       "pasture": "2024-12-31 02:00:00 +0000",
       "lavender_field": "2024-12-31 01:46:42 +0000",
       "fir_clearing": "2024-12-31 02:04:30 +0000",
       "grassland": "2024-12-31 01:51:07 +0000",
-      "prairie": "2024-12-31 02:00:16 +0000"
+      "prairie": "2024-12-31 02:00:16 +0000",
+      "crag": "2025-01-02 02:01:44 +0000"
     },
     "done": false
   },
@@ -874,6 +877,12 @@
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-31 03:07:54 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:skeleton_dungeon": {
+    "criteria": {
+      "in_better_skeleton_dungeon": "2025-01-02 02:00:32 +0000"
     },
     "done": true
   },

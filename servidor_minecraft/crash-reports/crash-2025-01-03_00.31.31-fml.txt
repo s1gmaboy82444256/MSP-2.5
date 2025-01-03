@@ -1,0 +1,141 @@
+---- Minecraft Crash Report ----
+// This is a token for 1 free hug. Redeem at your nearest Mojangsta: [~~HUG~~]
+
+Time: 1/3/25, 12:31 AM
+Description: Mod loading error has occurred
+
+java.lang.Exception: Mod Loading has failed
+	at net.minecraftforge.logging.CrashReportExtender.dumpModLoadingCrashReport(CrashReportExtender.java:55) ~[forge-1.18.2-40.2.21-universal.jar%23115!/:?] {re:classloading}
+	at net.minecraftforge.server.loading.ServerModLoader.load(ServerModLoader.java:39) ~[forge-1.18.2-40.2.21-universal.jar%23115!/:?] {re:classloading}
+	at net.minecraft.server.Main.main(Main.java:149) ~[server-1.18.2-20220404.173914-srg.jar%23110!/:?] {re:classloading,re:mixin,pl:mixin:A}
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?] {}
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?] {}
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?] {}
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?] {}
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$launchService$0(CommonServerLaunchHandler.java:32) ~[fmlloader-1.18.2-40.2.21.jar%2357!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:37) [modlauncher-9.1.3.jar%235!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) [modlauncher-9.1.3.jar%235!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) [modlauncher-9.1.3.jar%235!/:?] {}
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:106) [modlauncher-9.1.3.jar%235!/:?] {}
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:77) [modlauncher-9.1.3.jar%235!/:?] {}
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-9.1.3.jar%235!/:?] {}
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-9.1.3.jar%235!/:?] {}
+	at com.mohistmc.util.BootstrapLauncher.startServer(BootstrapLauncher.java:99) [vanilla.jar:?] {}
+	at com.mohistmc.MohistMCStart.main(MohistMCStart.java:104) [vanilla.jar:1.18.2-184] {}
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: main
+Suspected Mods: NONE
+Stacktrace:
+	at net.minecraftforge.logging.CrashReportExtender.lambda$dumpModLoadingCrashReport$7(CrashReportExtender.java:58) ~[forge-1.18.2-40.2.21-universal.jar%23115!/:?] {re:classloading}
+-- MOD fancymenu --
+Details:
+	Mod File: /workspaces/MSP-2.5/servidor_minecraft/mods/fancymenu_forge_3.3.2_MC_1.18.2.jar
+	Failure message: Mod fancymenu requires konkrete 1.6.1 or above
+		Currently, konkrete is not installed
+	Mod Version: 3.3.2
+	Mod Issue URL: NOT PROVIDED
+	Exception message: MISSING EXCEPTION MESSAGE
+Stacktrace:
+	at net.minecraftforge.logging.CrashReportExtender.lambda$dumpModLoadingCrashReport$7(CrashReportExtender.java:58) ~[forge-1.18.2-40.2.21-universal.jar%23115!/:?] {re:classloading}
+	at java.util.ArrayList.forEach(ArrayList.java:1511) ~[?:?] {re:mixin}
+	at net.minecraftforge.logging.CrashReportExtender.dumpModLoadingCrashReport(CrashReportExtender.java:56) ~[forge-1.18.2-40.2.21-universal.jar%23115!/:?] {re:classloading}
+	at net.minecraftforge.server.loading.ServerModLoader.load(ServerModLoader.java:39) ~[forge-1.18.2-40.2.21-universal.jar%23115!/:?] {re:classloading}
+	at net.minecraft.server.Main.main(Main.java:149) ~[server-1.18.2-20220404.173914-srg.jar%23110!/:?] {re:classloading,re:mixin,pl:mixin:A}
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?] {}
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?] {}
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?] {}
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?] {}
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$launchService$0(CommonServerLaunchHandler.java:32) ~[fmlloader-1.18.2-40.2.21.jar%2357!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:37) [modlauncher-9.1.3.jar%235!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) [modlauncher-9.1.3.jar%235!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) [modlauncher-9.1.3.jar%235!/:?] {}
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:106) [modlauncher-9.1.3.jar%235!/:?] {}
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:77) [modlauncher-9.1.3.jar%235!/:?] {}
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-9.1.3.jar%235!/:?] {}
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-9.1.3.jar%235!/:?] {}
+	at com.mohistmc.util.BootstrapLauncher.startServer(BootstrapLauncher.java:99) [vanilla.jar:?] {re:classloading}
+	at com.mohistmc.MohistMCStart.main(MohistMCStart.java:104) [vanilla.jar:1.18.2-184] {re:classloading}
+
+
+-- System Details --
+Details:
+	Minecraft Version: 1.18.2
+	Minecraft Version ID: 1.18.2
+	Operating System: Linux (amd64) version 6.5.0-1025-azure
+	Java Version: 17.0.13, Ubuntu
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode, sharing), Ubuntu
+	Memory: 1750446088 bytes (1669 MiB) / 2147483648 bytes (2048 MiB) up to 10737418240 bytes (10240 MiB)
+	CPUs: 2
+	Processor Vendor: GenuineIntel
+	Processor Name: Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz
+	Identifier: Intel64 Family 6 Model 106 Stepping 6
+	Microarchitecture: Ice Lake (Server)
+	Frequency (GHz): 2.80
+	Number of physical packages: 1
+	Number of physical CPUs: 1
+	Number of logical CPUs: 2
+	Graphics card #0 name: unknown
+	Graphics card #0 vendor: unknown
+	Graphics card #0 VRAM (MB): 0.00
+	Graphics card #0 deviceId: unknown
+	Graphics card #0 versionInfo: unknown
+	Virtual memory max (MB): 3964.28
+	Virtual memory used (MB): 5668.12
+	Swap memory total (MB): 0.00
+	Swap memory used (MB): 0.00
+	JVM Flags: 2 total; -Xms2G -Xmx10G
+	CraftBukkit Information: 
+   Running: 
+   Failed to handle CraftCrashReport:
+java.lang.NullPointerException: Cannot invoke "org.bukkit.Server.getName()" because "org.bukkit.Bukkit.server" is null
+	at TRANSFORMER/forge@40.2.21/org.bukkit.Bukkit.getName(Bukkit.java:102)
+	at TRANSFORMER/forge@40.2.21/org.bukkit.craftbukkit.v1_18_R2.CraftCrashReport.get(CraftCrashReport.java:23)
+	at TRANSFORMER/forge@40.2.21/org.bukkit.craftbukkit.v1_18_R2.CraftCrashReport.get(CraftCrashReport.java:17)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.SystemReport.m_143522_(SystemReport.java:65)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.CrashReport.<init>(CrashReport.java:34)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.CrashReport.m_127521_(CrashReport.java:207)
+	at TRANSFORMER/forge@40.2.21/net.minecraftforge.logging.CrashReportExtender.dumpModLoadingCrashReport(CrashReportExtender.java:55)
+	at TRANSFORMER/forge@40.2.21/net.minecraftforge.server.loading.ServerModLoader.load(ServerModLoader.java:39)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.Main.main(Main.java:149)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569)
+	at MC-BOOTSTRAP/fmlloader@1.18.2-40.2.21/net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$launchService$0(CommonServerLaunchHandler.java:32)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@9.1.3/cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:37)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@9.1.3/cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@9.1.3/cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@9.1.3/cpw.mods.modlauncher.Launcher.run(Launcher.java:106)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@9.1.3/cpw.mods.modlauncher.Launcher.main(Launcher.java:77)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@9.1.3/cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@9.1.3/cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23)
+	at com.mohistmc.util.BootstrapLauncher.startServer(BootstrapLauncher.java:99)
+	at com.mohistmc.MohistMCStart.main(MohistMCStart.java:104)
+
+	ModLauncher: 9.1.3+9.1.3+main.9b69c82a
+	ModLauncher launch target: forgeserver
+	ModLauncher naming: srg
+	ModLauncher services: 
+		 mixin PLUGINSERVICE 
+		 eventbus PLUGINSERVICE 
+		 slf4jfixer PLUGINSERVICE 
+		 object_holder_definalize PLUGINSERVICE 
+		 runtime_enum_extender PLUGINSERVICE 
+		 mohist_implementer PLUGINSERVICE 
+		 capability_token_subclass PLUGINSERVICE 
+		 accesstransformer PLUGINSERVICE 
+		 runtimedistcleaner PLUGINSERVICE 
+		 mixin TRANSFORMATIONSERVICE 
+		 fml TRANSFORMATIONSERVICE 
+	FML Language Providers: 
+		minecraft@1.0
+		lowcodefml@null
+		javafml@null
+	Mod List: 
+		server-1.18.2-20220404.173914-srg.jar             |Minecraft                     |minecraft                     |1.18.2              |NONE      |Manifest: NOSIGNATURE
+		forge-1.18.2-40.2.21-universal.jar                |Forge                         |forge                         |40.2.21             |NONE      |Manifest: NOSIGNATURE

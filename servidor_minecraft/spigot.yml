@@ -139,6 +139,8 @@ world-settings:
     item-despawn-rate: 6000
     wither-spawn-sound-radius: 0
     hanging-tick-frequency: 100
+  worldeditregentempworld:
+    verbose: false
 config-version: 12
 stats:
   disable-saving: false

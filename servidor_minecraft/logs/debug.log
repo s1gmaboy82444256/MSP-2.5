@@ -12928,3 +12928,7 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 2025-01-03 02:26:03,274 [36mDEBUG[m [m[Server thread][m [mn.m.c.ForgeHooks.writeAdditionalLevelSaveData(1442)[m: Gathering id map for writing to world save world
 2025-01-03 02:26:03,283 [36mDEBUG[m [m[Server thread][m [mn.m.c.ForgeHooks.writeAdditionalLevelSaveData(1448)[m: ID Map collection complete world
 2025-01-03 02:28:39,052 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: AquilesSC issued server command: /time set day
+2025-01-03 02:31:03,277 [36mDEBUG[m [m[Server thread][m [mn.m.c.ForgeHooks.writeAdditionalLevelSaveData(1442)[m: Gathering id map for writing to world save world
+2025-01-03 02:31:03,287 [36mDEBUG[m [m[Server thread][m [mn.m.c.ForgeHooks.writeAdditionalLevelSaveData(1448)[m: ID Map collection complete world
+2025-01-03 02:36:03,280 [36mDEBUG[m [m[Server thread][m [mn.m.c.ForgeHooks.writeAdditionalLevelSaveData(1442)[m: Gathering id map for writing to world save world
+2025-01-03 02:36:03,290 [36mDEBUG[m [m[Server thread][m [mn.m.c.ForgeHooks.writeAdditionalLevelSaveData(1448)[m: ID Map collection complete world

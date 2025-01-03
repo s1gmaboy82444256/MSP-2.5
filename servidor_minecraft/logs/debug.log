@@ -12946,3 +12946,7 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 2025-01-03 03:06:03,267 [36mDEBUG[m [m[Server thread][m [mn.m.c.ForgeHooks.writeAdditionalLevelSaveData(1448)[m: ID Map collection complete world
 2025-01-03 03:08:11,004 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_7026_(1554)[m: AquilesSC lost connection: Disconnected
 2025-01-03 03:08:11,020 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_6352_(656)[m: AquilesSC left the game
+2025-01-03 03:11:03,242 [36mDEBUG[m [m[Server thread][m [mn.m.c.ForgeHooks.writeAdditionalLevelSaveData(1442)[m: Gathering id map for writing to world save world
+2025-01-03 03:11:03,254 [36mDEBUG[m [m[Server thread][m [mn.m.c.ForgeHooks.writeAdditionalLevelSaveData(1448)[m: ID Map collection complete world
+2025-01-03 03:16:03,241 [36mDEBUG[m [m[Server thread][m [mn.m.c.ForgeHooks.writeAdditionalLevelSaveData(1442)[m: Gathering id map for writing to world save world
+2025-01-03 03:16:03,252 [36mDEBUG[m [m[Server thread][m [mn.m.c.ForgeHooks.writeAdditionalLevelSaveData(1448)[m: ID Map collection complete world

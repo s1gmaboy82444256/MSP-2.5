@@ -12899,3 +12899,11 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 2025-01-03 01:33:16,897 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: AquilesSC issued server command: /time set day
 2025-01-03 01:36:03,281 [36mDEBUG[m [m[Server thread][m [mn.m.c.ForgeHooks.writeAdditionalLevelSaveData(1442)[m: Gathering id map for writing to world save world
 2025-01-03 01:36:03,295 [36mDEBUG[m [m[Server thread][m [mn.m.c.ForgeHooks.writeAdditionalLevelSaveData(1448)[m: ID Map collection complete world
+2025-01-03 01:41:03,284 [36mDEBUG[m [m[Server thread][m [mn.m.c.ForgeHooks.writeAdditionalLevelSaveData(1442)[m: Gathering id map for writing to world save world
+2025-01-03 01:41:03,296 [36mDEBUG[m [m[Server thread][m [mn.m.c.ForgeHooks.writeAdditionalLevelSaveData(1448)[m: ID Map collection complete world
+2025-01-03 01:42:05,391 [36mDEBUG[m [m[Worker-Main-6][m [mmixin.log(107)[m: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+2025-01-03 01:42:54,520 [1;31mERROR[m [m[Server thread][m [mn.m.Util.m_143785_(408)[m: POI data mismatch: already registered at BlockPos{x=49, y=32, z=-43}
+2025-01-03 01:43:31,257 [32mINFO [m [m[Server thread][m [mn.m.w.e.n.Villager.m_6667_(568)[m: Villager Villager['Unemployed'/447, l='ServerLevel[world]', x=-254.83, y=66.00, z=118.37] died, message: 'Unemployed hit the ground too hard'
+2025-01-03 01:44:46,520 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: AquilesSC issued server command: /time set day
+2025-01-03 01:46:03,274 [36mDEBUG[m [m[Server thread][m [mn.m.c.ForgeHooks.writeAdditionalLevelSaveData(1442)[m: Gathering id map for writing to world save world
+2025-01-03 01:46:03,284 [36mDEBUG[m [m[Server thread][m [mn.m.c.ForgeHooks.writeAdditionalLevelSaveData(1448)[m: ID Map collection complete world

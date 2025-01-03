@@ -565,3 +565,5 @@
 2025-01-03 00:44:50,941 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: iZxry issued server command: /tp AquilesSC
 2025-01-03 00:44:54,213 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_7026_(1554)[m: iZxry lost connection: Disconnected
 2025-01-03 00:44:54,222 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_6352_(656)[m: iZxry left the game
+2025-01-03 00:48:20,695 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: AquilesSC issued server command: /time set day
+2025-01-03 00:59:56,727 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: AquilesSC issued server command: /time set day

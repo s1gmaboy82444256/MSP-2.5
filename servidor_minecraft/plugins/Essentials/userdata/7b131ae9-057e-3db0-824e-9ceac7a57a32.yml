@@ -16,7 +16,7 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1735783883946
+  logout: 1735873691007
   login: 1735867280343
 money: '0'
 lastlocation:
@@ -30,9 +30,9 @@ lastlocation:
 logoutlocation:
   world: 045629f8-f27d-4a66-8df8-95b7548b6abd
   world-name: world
-  x: -459.4110610895674
-  y: 79.98082555586772
-  z: -434.33542568238147
-  yaw: -58.833740234375
-  pitch: 27.14992904663086
+  x: -481.5654262795072
+  y: 83.02759827710553
+  z: -345.62587236586603
+  yaw: -172.275634765625
+  pitch: 34.199981689453125
 last-account-name: AquilesSC

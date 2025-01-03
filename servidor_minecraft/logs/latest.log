@@ -260,3 +260,5 @@
 2025-01-03 02:07:32,653 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: AquilesSC issued server command: /time set day
 2025-01-03 02:18:17,850 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: AquilesSC issued server command: /time set day
 2025-01-03 02:28:39,052 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: AquilesSC issued server command: /time set day
+2025-01-03 03:08:11,004 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_7026_(1554)[m: AquilesSC lost connection: Disconnected
+2025-01-03 03:08:11,020 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_6352_(656)[m: AquilesSC left the game

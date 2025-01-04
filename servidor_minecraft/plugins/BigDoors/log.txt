@@ -1,0 +1,9 @@
+
+
+[03-01-2025 13:59:31] Running in an invalid environment: 'Mohist'. This can be bypassed in the config if you are feeling adventurous (unsafeMode).
+
+
+[03-01-2025 14:03:24] Running in an invalid environment: 'Mohist'. This can be bypassed in the config if you are feeling adventurous (unsafeMode).
+
+
+[04-01-2025 01:22:05] Running in an invalid environment: 'Mohist'. This can be bypassed in the config if you are feeling adventurous (unsafeMode).

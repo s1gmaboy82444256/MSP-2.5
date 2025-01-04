@@ -1,264 +1,298 @@
-2025-01-03 01:18:39,888 [32mINFO [m [m[main][m [mc.m.m.Launcher.main(76)[m: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 40.2.21, --fml.mcVersion, 1.18.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220404.173914, nogui]
-2025-01-03 01:18:39,894 [32mINFO [m [m[main][m [mc.m.m.Launcher.<init>(51)[m: ModLauncher 9.1.3+9.1.3+main.9b69c82a starting: java version 17.0.13 by Ubuntu
-2025-01-03 01:18:40,288 [32mINFO [m [m[main][m [mmixin.info(97)[m: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/MSP-2.5/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2316!/ Service=ModLauncher Env=SERVER
-2025-01-03 01:18:41,023 [32mINFO [m [m[main][m [mn.m.f.l.m.JarInJarDependencyLocator.scanMods(55)[m: Found 8 dependencies adding them to mods collection
-2025-01-03 01:18:43,984 [32mINFO [m [m[main][m [mmixin.info(97)[m: Compatibility level set to JAVA_17
-2025-01-03 01:18:44,174 [32mINFO [m [m[main][m [mc.m.m.LaunchServiceHandler.launch(52)[m: Launching target 'forgeserver' with arguments [nogui]
-2025-01-03 01:18:45,482 [32mINFO [m [m[main][m [mMixinExtras|Service.info(97)[m: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
-2025-01-03 01:18:53,348 [33mWARN [m [m[main][m [mmixin.warn(132)[m: @ModifyConstant conflict. Skipping repurposed_structures.mixins.json:structures.StructurePoolMixin->@ModifyConstant::repurposedstructures_increaseWeightLimitDev(I)I with priority 1000, already redirected by yungsapi.mixins.json:IncreaseStructureWeightLimitMixin->@ModifyConstant::yungsapi_increaseWeightLimit(I)I with priority 1000
-2025-01-03 01:18:55,912 [32mINFO [m [m[modloading-worker-0][m [mc.j.l.LibraryFerret.<init>(42)[m: Initialize mod Library Ferret
-2025-01-03 01:18:55,979 [32mINFO [m [m[modloading-worker-0][m [mc.j.l.LibraryFerret.<init>(51)[m: Initialized mod Library Ferret
-2025-01-03 01:18:57,812 [32mINFO [m [m[modloading-worker-0][m [md.k.m.Melody.init(20)[m: [MELODY] Disabling Melody since it's loaded server-side.
-2025-01-03 01:18:57,943 [32mINFO [m [m[modloading-worker-0][m [md.k.k.Konkrete.<init>(62)[m: [KONKRETE] Successfully initialized!
-2025-01-03 01:18:57,944 [32mINFO [m [m[modloading-worker-0][m [md.k.k.Konkrete.<init>(63)[m: [KONKRETE] Server-side libs ready to use!
-2025-01-03 01:18:57,959 [32mINFO [m [m[modloading-worker-0][m [mn.m.c.ForgeMod.<init>(143)[m: Forge mod loading, version 40.2.21, for MC 1.18.2 with MCP 20220404.173914
-2025-01-03 01:18:57,962 [32mINFO [m [m[modloading-worker-0][m [mn.m.c.MinecraftForge.initialize(41)[m: MinecraftForge v40.2.21 Initialized
-2025-01-03 01:18:58,018 [32mINFO [m [m[modloading-worker-0][m [mTrustedSourceList.downloadTrustedSources(81)[m: Loading BlackListed sources from remote... (https://api.stopmodreposts.org/minecraft/sites.txt)
-2025-01-03 01:18:58,371 [32mINFO [m [m[modloading-worker-0][m [mc.m.MohistMC.init(17)[m: EventDispatcherRegistry initialized
-2025-01-03 01:18:58,396 [32mINFO [m [m[modloading-worker-0][m [mTrustedSourceList.downloadTrustedSources(113)[m: Loaded 564 BlackListed sources from remote
-2025-01-03 01:18:58,396 [32mINFO [m [m[modloading-worker-0][m [mTrustManager.getZoneIdentity(107)[m: Loading mod 'commonality' TrustWorthiness...
-2025-01-03 01:18:58,397 [1;31mFATAL[m [m[modloading-worker-0][m [mTrustManager.getZoneIdentity(132)[m: Could not determine mod trust worthiness, Assuming Jar was downloaded from trusted source!
-2025-01-03 01:18:58,397 [32mINFO [m [m[modloading-worker-0][m [mTrustManager.getTrustWorthiness(69)[m: Loaded mod 'commonality' TrustWorthiness: UNKNOWN
-2025-01-03 01:18:58,713 [32mINFO [m [m[modloading-worker-0][m [mi.IronFurnaces.<init>(35)[m: Initializing Update Checker...
-2025-01-03 01:18:58,735 [32mINFO [m [m[ Iron Furnaces Update Checker][m [mi.IronFurnaces.run(26)[m: Starting Update Check...
-2025-01-03 01:18:58,823 [32mINFO [m [m[ Iron Furnaces Update Checker][m [mi.IronFurnaces.run(43)[m: Update Check done!
-2025-01-03 01:18:58,823 [32mINFO [m [m[ Iron Furnaces Update Checker][m [mi.IronFurnaces.run(56)[m: Iron Furnaces is up to date!
-2025-01-03 01:18:58,869 [32mINFO [m [m[modloading-worker-0][m [mc.t.r.AbstractRegistrate.registerEventListeners(239)[m: Detected new forge version, registering events reflectively.
-2025-01-03 01:18:59,484 [32mINFO [m [m[modloading-worker-0][m [md.k.f.FancyMenu.init(45)[m: [FANCYMENU] Loading v3.3.2 in server-side mode on FORGE!
-2025-01-03 01:18:59,743 [32mINFO [m [m[modloading-worker-0][m [md.a.n.f.NetworkManagerImpl.registerC2SReceiver(169)[m: Registering C2S receiver with id architectury:sync_ids
-2025-01-03 01:18:59,766 [32mINFO [m [m[modloading-worker-0][m [mTrustManager.getZoneIdentity(107)[m: Loading mod 'apexcore' TrustWorthiness...
-2025-01-03 01:18:59,769 [1;31mFATAL[m [m[modloading-worker-0][m [mTrustManager.getZoneIdentity(132)[m: Could not determine mod trust worthiness, Assuming Jar was downloaded from trusted source!
-2025-01-03 01:18:59,770 [32mINFO [m [m[modloading-worker-0][m [mTrustManager.getTrustWorthiness(69)[m: Loaded mod 'apexcore' TrustWorthiness: UNKNOWN
-2025-01-03 01:18:59,788 [32mINFO [m [m[modloading-worker-0][m [mc.t.r.AbstractRegistrate.registerEventListeners(239)[m: Detected new forge version, registering events reflectively.
-2025-01-03 01:18:59,808 [32mINFO [m [m[modloading-worker-0][m [mTrustManager.getZoneIdentity(107)[m: Loading mod 'fantasyfurniture' TrustWorthiness...
-2025-01-03 01:18:59,809 [1;31mFATAL[m [m[modloading-worker-0][m [mTrustManager.getZoneIdentity(132)[m: Could not determine mod trust worthiness, Assuming Jar was downloaded from trusted source!
-2025-01-03 01:18:59,809 [32mINFO [m [m[modloading-worker-0][m [mTrustManager.getTrustWorthiness(69)[m: Loaded mod 'fantasyfurniture' TrustWorthiness: UNKNOWN
-2025-01-03 01:18:59,868 [32mINFO [m [m[modloading-worker-0][m [mc.t.r.AbstractRegistrate.registerEventListeners(239)[m: Detected new forge version, registering events reflectively.
-2025-01-03 01:19:00,126 [32mINFO [m [m[modloading-worker-0][m [mb.f.e.ExpandAbility.init(12)[m: ExpandAbility here, who dis?
-2025-01-03 01:19:00,146 [32mINFO [m [m[modloading-worker-0][m [mc.y.i.IllageAndSpillage.loadConfig(29)[m: Loading config: /workspaces/MSP-2.5/servidor_minecraft/config/illageandspillage-client.toml
-2025-01-03 01:19:00,146 [32mINFO [m [m[modloading-worker-0][m [mc.y.i.IllageAndSpillage.loadConfig(31)[m: Built config: /workspaces/MSP-2.5/servidor_minecraft/config/illageandspillage-client.toml
-2025-01-03 01:19:00,151 [32mINFO [m [m[modloading-worker-0][m [mc.y.i.IllageAndSpillage.loadConfig(33)[m: Loaded config: /workspaces/MSP-2.5/servidor_minecraft/config/illageandspillage-client.toml
-2025-01-03 01:19:00,169 [32mINFO [m [m[modloading-worker-0][m [mc.y.i.IllageAndSpillage.loadConfig(29)[m: Loading config: /workspaces/MSP-2.5/servidor_minecraft/config/illageandspillage-common.toml
-2025-01-03 01:19:00,170 [32mINFO [m [m[modloading-worker-0][m [mc.y.i.IllageAndSpillage.loadConfig(31)[m: Built config: /workspaces/MSP-2.5/servidor_minecraft/config/illageandspillage-common.toml
-2025-01-03 01:19:00,174 [32mINFO [m [m[modloading-worker-0][m [mc.y.i.IllageAndSpillage.loadConfig(33)[m: Loaded config: /workspaces/MSP-2.5/servidor_minecraft/config/illageandspillage-common.toml
-2025-01-03 01:19:13,067 [32mINFO [m [m[main][m [mn.m.r.GameData.checkPrefix(946)[m: Potentially Dangerous alternative prefix `minecraft` for name `milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
-2025-01-03 01:19:13,068 [32mINFO [m [m[main][m [mn.m.r.GameData.checkPrefix(946)[m: Potentially Dangerous alternative prefix `minecraft` for name `flowing_milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
-2025-01-03 01:19:14,085 [32mINFO [m [m[main][m [mn.m.r.GameData.checkPrefix(946)[m: Potentially Dangerous alternative prefix `betterfortresses` for name `fortress`, expected `yungsapi`. This could be a intended override, but in most cases indicates a broken mod.
-2025-01-03 01:19:14,404 [33mWARN [m [m[main][m [mn.m.n.s.SynchedEntityData.m_135353_(46)[m: defineId called for: class com.github.alexthe666.alexsmobs.entity.EntityLeafcutterAnt from class com.github.alexthe666.alexsmobs.entity.EntityDevilsHolePupfish
-2025-01-03 01:19:14,407 [33mWARN [m [m[main][m [mn.m.n.s.SynchedEntityData.m_135353_(46)[m: defineId called for: class com.github.alexthe666.alexsmobs.entity.EntityMantisShrimp from class com.github.alexthe666.alexsmobs.entity.EntitySkelewag
-2025-01-03 01:19:14,447 [33mWARN [m [m[main][m [mn.m.n.s.SynchedEntityData.m_135353_(46)[m: defineId called for: class nonamecrackers2.witherstormmod.common.entity.SickenedZombie from class nonamecrackers2.witherstormmod.common.entity.SickenedSkeleton
-2025-01-03 01:19:14,449 [33mWARN [m [m[main][m [mn.m.n.s.SynchedEntityData.m_135353_(46)[m: defineId called for: class nonamecrackers2.witherstormmod.common.entity.SickenedZombie from class nonamecrackers2.witherstormmod.common.entity.SickenedSpider
-2025-01-03 01:19:14,450 [33mWARN [m [m[main][m [mn.m.n.s.SynchedEntityData.m_135353_(46)[m: defineId called for: class nonamecrackers2.witherstormmod.common.entity.SickenedZombie from class nonamecrackers2.witherstormmod.common.entity.SickenedCreeper
-2025-01-03 01:19:15,233 [32mINFO [m [m[main][m [mjourneymap.lambda$commonSetupEvent$5(160)[m: Initializing Packet Registries
-2025-01-03 01:19:15,516 [32mINFO [m [m[main][m [mterrablender.register(47)[m: Registered region minecraft:overworld to index 0 for type OVERWORLD
-2025-01-03 01:19:15,517 [32mINFO [m [m[main][m [mterrablender.register(47)[m: Registered region minecraft:nether to index 0 for type NETHER
-2025-01-03 01:19:15,517 [32mINFO [m [m[main][m [mterrablender.register(47)[m: Registered region biomesoplenty:overworld_common to index 1 for type OVERWORLD
-2025-01-03 01:19:15,518 [32mINFO [m [m[main][m [mterrablender.register(47)[m: Registered region biomesoplenty:overworld_rare to index 2 for type OVERWORLD
-2025-01-03 01:19:15,539 [32mINFO [m [m[main][m [mterrablender.register(47)[m: Registered region biomesoplenty:nether_common to index 1 for type NETHER
-2025-01-03 01:19:15,539 [32mINFO [m [m[main][m [mterrablender.register(47)[m: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
-2025-01-03 01:19:15,803 [32mINFO [m [m[modloading-worker-0][m [mWaila.loadComplete(109)[m: Start loading plugin at mcp.mobius.waila.addons.core.CorePlugin
-2025-01-03 01:19:15,815 [32mINFO [m [m[modloading-worker-0][m [mWaila.loadComplete(109)[m: Start loading plugin at net.blay09.mods.waystones.compat.WailaProvider
-2025-01-03 01:19:15,818 [32mINFO [m [m[modloading-worker-0][m [mWaila.loadComplete(109)[m: Start loading plugin at de.maxhenkel.corpse.integration.waila.PluginCorpse
-2025-01-03 01:19:15,820 [32mINFO [m [m[modloading-worker-0][m [mWaila.loadComplete(109)[m: Start loading plugin at snownee.jade.VanillaPlugin
-2025-01-03 01:19:15,831 [32mINFO [m [m[modloading-worker-0][m [mWaila.loadComplete(109)[m: Start loading plugin at net.geforcemods.securitycraft.compat.hudmods.JadeDataProvider
-2025-01-03 01:19:28,061 [32mINFO [m [m[main][m [mc.m.a.y.YggdrasilAuthenticationService.<init>(72)[m: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-2025-01-03 01:19:35,274 [33mWARN [m [m[main][m [mn.m.s.p.VanillaPackResources.m_182299_(58)[m: Assets URL 'union:/workspaces/MSP-2.5/servidor_minecraft/libraries/net/minecraft/server/1.18.2-20220404.173914/server-1.18.2-20220404.173914-srg.jar%23112!/assets/.mcassetsroot' uses unexpected schema
-2025-01-03 01:19:35,275 [33mWARN [m [m[main][m [mn.m.s.p.VanillaPackResources.m_182299_(58)[m: Assets URL 'union:/workspaces/MSP-2.5/servidor_minecraft/libraries/net/minecraft/server/1.18.2-20220404.173914/server-1.18.2-20220404.173914-srg.jar%23112!/data/.mcassetsroot' uses unexpected schema
-2025-01-03 01:19:42,873 [33mWARN [m [m[main][m [mn.m.c.Commands.m_82107_(214)[m: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-2025-01-03 01:19:42,874 [33mWARN [m [m[main][m [mn.m.c.Commands.m_82107_(214)[m: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-2025-01-03 01:19:42,881 [33mWARN [m [m[main][m [mn.m.c.Commands.m_82107_(214)[m: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-2025-01-03 01:19:42,882 [33mWARN [m [m[main][m [mn.m.c.Commands.m_82107_(214)[m: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-2025-01-03 01:19:42,883 [33mWARN [m [m[main][m [mn.m.c.Commands.m_82107_(214)[m: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-2025-01-03 01:19:42,887 [33mWARN [m [m[main][m [mn.m.c.Commands.m_82107_(214)[m: Ambiguity between arguments [cam-server, get, name, insert, location] and [cam-server, get, name, insert, index] with inputs: [0 0 0]
-2025-01-03 01:19:42,888 [33mWARN [m [m[main][m [mn.m.c.Commands.m_82107_(214)[m: Ambiguity between arguments [cam-server, get, name, set, location] and [cam-server, get, name, set, index] with inputs: [0 0 0]
-2025-01-03 01:19:42,891 [33mWARN [m [m[main][m [mn.m.c.Commands.m_82107_(214)[m: Ambiguity between arguments [create, coupling, add, cart1] and [create, coupling, add, carts] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-2025-01-03 01:19:42,895 [33mWARN [m [m[main][m [mn.m.c.Commands.m_82107_(214)[m: Ambiguity between arguments [create, coupling, add, carts] and [create, coupling, add, cart1] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-2025-01-03 01:19:42,897 [33mWARN [m [m[main][m [mn.m.c.Commands.m_82107_(214)[m: Ambiguity between arguments [create, coupling, add, cart1] and [create, coupling, add, carts] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-2025-01-03 01:19:42,898 [33mWARN [m [m[main][m [mn.m.c.Commands.m_82107_(214)[m: Ambiguity between arguments [create, coupling, add, carts] and [create, coupling, add, cart1] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-2025-01-03 01:19:42,900 [33mWARN [m [m[main][m [mn.m.c.Commands.m_82107_(214)[m: Ambiguity between arguments [deathhistory, player] and [deathhistory, player_uuid] with inputs: [dd12be42-52a9-4a91-a8a1-11c01849e498]
-2025-01-03 01:19:42,904 [33mWARN [m [m[main][m [mn.m.c.Commands.m_82107_(214)[m: Ambiguity between arguments [witherstormmod, cluster, create, start] and [witherstormmod, cluster, create, pos] with inputs: [^1 ^ ^-5, 0 0 0, ~ ~ ~, ^ ^ ^, ~0.5 ~1 ~-5]
-2025-01-03 01:19:42,906 [33mWARN [m [m[main][m [mn.m.c.Commands.m_82107_(214)[m: Ambiguity between arguments [witherstormmod, cluster, create, pos] and [witherstormmod, cluster, create, start] with inputs: [^1 ^ ^-5, 0 0 0, ~ ~ ~, ^ ^ ^, ~0.5 ~1 ~-5]
-2025-01-03 01:19:42,909 [33mWARN [m [m[main][m [mn.m.c.Commands.m_82107_(214)[m: Ambiguity between arguments [witherstormmod, bowels, new] and [witherstormmod, bowels, entity] with inputs: [new]
-2025-01-03 01:19:42,911 [33mWARN [m [m[main][m [mn.m.c.Commands.m_82107_(214)[m: Ambiguity between arguments [witherstormmod, ultimateTarget, set, storm, pos] and [witherstormmod, ultimateTarget, set, storm, player] with inputs: [0 0 0]
-2025-01-03 01:19:54,898 [32mINFO [m [m[Worker-Main-5][m [mn.m.w.i.c.RecipeManager.m_5787_(85)[m: Loaded 25 recipes
-2025-01-03 01:19:57,688 [33mWARN [m [m[Worker-Main-5][m [mn.m.w.l.s.l.LootTables.m_79210_(69)[m: Found validation problem in {majruszsdifficulty:undead_army/extra_mob_loot}.pools[0].functions[0]: Parameters [<parameter minecraft:killer_entity>] are not provided in this context
-2025-01-03 01:20:05,171 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(150)[m: Starting minecraft server version 1.18.2
-2025-01-03 01:20:05,172 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(155)[m: Loading properties
-2025-01-03 01:20:05,172 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(172)[m: Default game type: SURVIVAL
-2025-01-03 01:20:05,172 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_129793_(1286)[m: Generating keypair
-2025-01-03 01:20:05,390 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(183)[m: Starting Minecraft server on *:25565
-2025-01-03 01:20:05,542 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerConnectionListener.m_9711_(79)[m: Using epoll channel type
-2025-01-03 01:20:05,776 [33mWARN [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(195)[m: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-2025-01-03 01:20:05,777 [33mWARN [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(196)[m: The server will make no attempt to authenticate usernames. Beware.
-2025-01-03 01:20:05,777 [33mWARN [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(197)[m: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-2025-01-03 01:20:05,778 [33mWARN [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(198)[m: To change this, set "online-mode" to "true" in the server.properties file.
-2025-01-03 01:20:06,116 [32mINFO [m [m[Server thread][m [mMinecraft.publish(36)[m: This server is running Mohist version 1.18.2-184 (MC: 1.18.2) (Implementing API version 1.18.2-R0.1-SNAPSHOT, Forge version 40.2.21)
-2025-01-03 01:20:09,556 [32mINFO [m [m[Server thread][m [mMinecraft.publish(36)[m: Debug logging is enabled
-2025-01-03 01:20:09,562 [32mINFO [m [m[Server thread][m [m.playerSample(274)[m: Server Ping Player Sample Count: 12
-2025-01-03 01:20:09,579 [32mINFO [m [m[Server thread][m [mMinecraft.publish(36)[m: Using 4 threads for Netty based IO
-2025-01-03 01:20:12,776 [32mINFO [m [m[Server thread][m [mc.s.w.b.WorldEditPlugin.publish(36)[m: [WorldEdit] Loading WorldEdit v7.2.20+6667-f0f1e66
-2025-01-03 01:20:16,748 [32mINFO [m [m[Server thread][m [mc.s.w.e.p.PlatformManager.register(100)[m: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@24a8abd6]
-2025-01-03 01:20:16,982 [32mINFO [m [m[Server thread][m [mn.s.b.SRBukkitBootstrap.publish(36)[m: [SkinsRestorer] Loading SkinsRestorer v15.5.1
-2025-01-03 01:20:16,983 [32mINFO [m [m[Server thread][m [mm.f.h.p.HolographicDisplays.publish(36)[m: [HolographicDisplays] Loading HolographicDisplays v3.0.4
-2025-01-03 01:20:16,983 [32mINFO [m [m[Server thread][m [mc.e.e.Essentials.publish(36)[m: [Essentials] Loading Essentials v2.21.0-dev+154-667b0f7
-2025-01-03 01:20:16,984 [32mINFO [m [m[Server thread][m [mc.e.e.s.EssentialsSpawn.publish(36)[m: [EssentialsSpawn] Loading EssentialsSpawn v2.21.0-dev+154-667b0f7
-2025-01-03 01:20:16,984 [32mINFO [m [m[Server thread][m [mc.s.w.b.WorldGuardPlugin.publish(36)[m: [WorldGuard] Loading WorldGuard v7.0.7+216b061
-2025-01-03 01:20:16,987 [32mINFO [m [m[Server thread][m [mc.s.w.b.WorldEditPlugin.publish(36)[m: [WorldEdit] Enabling WorldEdit v7.2.20+6667-f0f1e66
-2025-01-03 01:20:17,168 [32mINFO [m [m[Server thread][m [mc.s.w.e.p.PlatformCommandManager.registerCommandsWith(427)[m: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
-2025-01-03 01:20:17,879 [32mINFO [m [m[Server thread][m [mc.s.w.PermissionsResolverManager.findResolver(126)[m: WEPIF: Using the Bukkit Permissions API.
-2025-01-03 01:20:23,865 [32mINFO [m [m[Server thread][m [mc.s.w.b.WorldEditPlugin.loadAdapter(298)[m: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_18_R2.PaperweightAdapter as the Bukkit adapter
-2025-01-03 01:20:26,143 [32mINFO [m [m[Server thread][m [mc.s.w.b.WorldEditPlugin.publish(36)[m: [WorldEdit] ====================================================
-2025-01-03 01:20:26,144 [32mINFO [m [m[Server thread][m [mc.s.w.b.WorldEditPlugin.publish(36)[m: [WorldEdit]  WorldEdit works better if you use Paper 
-2025-01-03 01:20:26,144 [32mINFO [m [m[Server thread][m [mc.s.w.b.WorldEditPlugin.publish(36)[m: [WorldEdit]  as your server software. 
-2025-01-03 01:20:26,144 [32mINFO [m [m[Server thread][m [mc.s.w.b.WorldEditPlugin.publish(36)[m: [WorldEdit]   
-2025-01-03 01:20:26,145 [32mINFO [m [m[Server thread][m [mc.s.w.b.WorldEditPlugin.publish(36)[m: [WorldEdit]  Paper offers significant performance improvements,
-2025-01-03 01:20:26,145 [32mINFO [m [m[Server thread][m [mc.s.w.b.WorldEditPlugin.publish(36)[m: [WorldEdit]  bug fixes, security enhancements and optional
-2025-01-03 01:20:26,145 [32mINFO [m [m[Server thread][m [mc.s.w.b.WorldEditPlugin.publish(36)[m: [WorldEdit]  features for server owners to enhance their server.
-2025-01-03 01:20:26,146 [32mINFO [m [m[Server thread][m [mc.s.w.b.WorldEditPlugin.publish(36)[m: [WorldEdit]   
-2025-01-03 01:20:26,146 [32mINFO [m [m[Server thread][m [mc.s.w.b.WorldEditPlugin.publish(36)[m: [WorldEdit]  Paper includes Timings v2, which is significantly
-2025-01-03 01:20:26,147 [32mINFO [m [m[Server thread][m [mc.s.w.b.WorldEditPlugin.publish(36)[m: [WorldEdit]  better at diagnosing lag problems over v1.
-2025-01-03 01:20:26,147 [32mINFO [m [m[Server thread][m [mc.s.w.b.WorldEditPlugin.publish(36)[m: [WorldEdit]   
-2025-01-03 01:20:26,147 [32mINFO [m [m[Server thread][m [mc.s.w.b.WorldEditPlugin.publish(36)[m: [WorldEdit]  All of your plugins should still work, and the
-2025-01-03 01:20:26,148 [32mINFO [m [m[Server thread][m [mc.s.w.b.WorldEditPlugin.publish(36)[m: [WorldEdit]  Paper community will gladly help you fix any issues.
-2025-01-03 01:20:26,148 [32mINFO [m [m[Server thread][m [mc.s.w.b.WorldEditPlugin.publish(36)[m: [WorldEdit]   
-2025-01-03 01:20:26,148 [32mINFO [m [m[Server thread][m [mc.s.w.b.WorldEditPlugin.publish(36)[m: [WorldEdit]  Join the Paper Community @ https://papermc.io
-2025-01-03 01:20:26,149 [32mINFO [m [m[Server thread][m [mc.s.w.b.WorldEditPlugin.publish(36)[m: [WorldEdit] ====================================================
-2025-01-03 01:20:26,149 [32mINFO [m [m[Server thread][m [mn.s.b.SRBukkitBootstrap.publish(36)[m: [SkinsRestorer] Enabling SkinsRestorer v15.5.1
-2025-01-03 01:20:29,178 [33mWARN [m [m[Server thread][m [mMinecraft.publish(34)[m: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1mYou must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.[0;39m
-2025-01-03 01:20:32,426 [32mINFO [m [m[Server thread][m [mColouredConsoleSender.sendMessage(55)[m: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1mRunning on Minecraft [33;1m1.18.2[32;1m.[0;39m
-2025-01-03 01:20:35,069 [33mWARN [m [m[Server thread][m [mMinecraft.publish(34)[m: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mPlease update your Java runtime to at least Java 21 (your version is 17).[0;39m
-2025-01-03 01:20:35,070 [33mWARN [m [m[Server thread][m [mMinecraft.publish(34)[m: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mAt some point in the future, SkinsRestorer will no longer be compatible with this version of Java.[0;39m
-2025-01-03 01:20:35,136 [32mINFO [m [m[Server thread][m [mjourneymap.load(43)[m: Loading JourneyMap Forge Configs
-2025-01-03 01:20:35,137 [32mINFO [m [m[Thread-0][m [mjourneymap.load(43)[m: Loading JourneyMap Forge Configs
-2025-01-03 01:20:39,372 [32mINFO [m [m[Server thread][m [mterrablender.initializeBiomes(115)[m: Initialized TerraBlender biomes for level stem minecraft:overworld
-2025-01-03 01:20:39,373 [32mINFO [m [m[Server thread][m [mterrablender.initializeBiomes(115)[m: Initialized TerraBlender biomes for level stem minecraft:the_nether
-2025-01-03 01:20:39,373 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(224)[m: Preparing level "world"
-2025-01-03 01:20:40,121 [32mINFO [m [m[Server thread][m [m.initFeedingData(94)[m: []
-2025-01-03 01:20:40,124 [32mINFO [m [m[Server thread][m [m.initFeedingData(94)[m: [1 apple, 1 golden_apple, 1 enchanted_golden_apple, 1 banana]
-2025-01-03 01:20:40,327 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_129940_(601)[m: Preparing start region for dimension minecraft:overworld
-2025-01-03 01:20:41,438 [32mINFO [m [m[Worker-Main-6][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
-2025-01-03 01:20:41,462 [32mINFO [m [m[Worker-Main-4][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
-2025-01-03 01:20:41,493 [32mINFO [m [m[Worker-Main-6][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
-2025-01-03 01:20:42,597 [32mINFO [m [m[Worker-Main-4][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
-2025-01-03 01:20:42,602 [32mINFO [m [m[Worker-Main-4][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
-2025-01-03 01:20:42,837 [32mINFO [m [m[Worker-Main-6][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
-2025-01-03 01:20:44,910 [32mINFO [m [m[Worker-Main-4][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
-2025-01-03 01:20:44,927 [32mINFO [m [m[Worker-Main-6][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
-2025-01-03 01:20:44,930 [32mINFO [m [m[Worker-Main-4][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
-2025-01-03 01:20:44,936 [32mINFO [m [m[Worker-Main-4][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
-2025-01-03 01:20:45,331 [32mINFO [m [m[Worker-Main-6][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
-2025-01-03 01:20:45,830 [32mINFO [m [m[Worker-Main-6][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
-2025-01-03 01:20:46,330 [32mINFO [m [m[Worker-Main-4][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 2%
-2025-01-03 01:20:46,831 [32mINFO [m [m[Worker-Main-4][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 4%
-2025-01-03 01:20:47,348 [32mINFO [m [m[Worker-Main-4][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 13%
-2025-01-03 01:20:47,832 [32mINFO [m [m[Worker-Main-4][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 22%
-2025-01-03 01:20:48,332 [32mINFO [m [m[Worker-Main-4][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 24%
-2025-01-03 01:20:49,248 [32mINFO [m [m[Worker-Main-5][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 29%
-2025-01-03 01:20:49,331 [32mINFO [m [m[Worker-Main-5][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 31%
-2025-01-03 01:20:49,830 [32mINFO [m [m[Worker-Main-6][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 62%
-2025-01-03 01:20:50,330 [32mINFO [m [m[Worker-Main-6][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 82%
-2025-01-03 01:20:51,027 [32mINFO [m [m[Server thread][m [mn.m.s.l.p.LoggerChunkProgressListener.m_7646_(55)[m: Time elapsed: 10697 ms
-2025-01-03 01:20:51,136 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_129940_(601)[m: Preparing start region for dimension witherstormmod:bowels
-2025-01-03 01:20:51,783 [32mINFO [m [m[Worker-Main-4][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
-2025-01-03 01:20:51,797 [32mINFO [m [m[Worker-Main-4][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
-2025-01-03 01:20:54,008 [32mINFO [m [m[Worker-Main-4][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
-2025-01-03 01:20:54,010 [32mINFO [m [m[Worker-Main-4][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
-2025-01-03 01:20:54,012 [32mINFO [m [m[Worker-Main-4][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
-2025-01-03 01:20:54,013 [32mINFO [m [m[Worker-Main-4][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
-2025-01-03 01:20:54,138 [32mINFO [m [m[Worker-Main-6][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
-2025-01-03 01:20:54,686 [32mINFO [m [m[Worker-Main-5][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
-2025-01-03 01:20:55,138 [32mINFO [m [m[Worker-Main-5][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 33%
-2025-01-03 01:20:55,649 [32mINFO [m [m[Worker-Main-5][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 68%
-2025-01-03 01:20:56,138 [32mINFO [m [m[Worker-Main-5][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 74%
-2025-01-03 01:20:56,751 [32mINFO [m [m[Worker-Main-4][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 83%
-2025-01-03 01:20:57,141 [32mINFO [m [m[Worker-Main-5][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 84%
-2025-01-03 01:20:57,646 [32mINFO [m [m[Worker-Main-5][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 85%
-2025-01-03 01:20:58,152 [32mINFO [m [m[Worker-Main-5][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 87%
-2025-01-03 01:20:58,648 [32mINFO [m [m[Worker-Main-4][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 90%
-2025-01-03 01:20:59,147 [32mINFO [m [m[Worker-Main-4][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 93%
-2025-01-03 01:20:59,638 [32mINFO [m [m[Worker-Main-6][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 96%
-2025-01-03 01:21:00,173 [32mINFO [m [m[Worker-Main-6][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 99%
-2025-01-03 01:21:00,295 [32mINFO [m [m[Server thread][m [mn.m.s.l.p.LoggerChunkProgressListener.m_7646_(55)[m: Time elapsed: 9158 ms
-2025-01-03 01:21:00,297 [32mINFO [m [m[Server thread][m [mm.f.h.p.HolographicDisplays.publish(36)[m: [HolographicDisplays] Enabling HolographicDisplays v3.0.4
-2025-01-03 01:21:00,645 [32mINFO [m [m[Server thread][m [mc.e.e.Essentials.publish(36)[m: [Essentials] Enabling Essentials v2.21.0-dev+154-667b0f7
-2025-01-03 01:21:01,456 [1;31mERROR[m [m[Server thread][m [mEssentials.publish(32)[m: You are running a server that does not properly support Bukkit plugins. Bukkit plugins should not be used with Forge/Fabric mods! For Forge: Consider using ForgeEssentials, or SpongeForge + Nucleus.
-2025-01-03 01:21:01,467 [32mINFO [m [m[Server thread][m [mEssentials.publish(36)[m: Status determining class: brand:Mohist
-2025-01-03 01:21:01,639 [32mINFO [m [m[Server thread][m [mEssentials.publish(36)[m: Attempting to convert old kits in config.yml to new kits.yml
-2025-01-03 01:21:01,640 [32mINFO [m [m[Server thread][m [mEssentials.publish(36)[m: No kits found to migrate.
-2025-01-03 01:21:01,718 [32mINFO [m [m[Server thread][m [mEssentials.publish(36)[m: Selected 1.12.2+ Player Locale Provider as the provider for PlayerLocaleProvider
-2025-01-03 01:21:01,719 [32mINFO [m [m[Server thread][m [mEssentials.publish(36)[m: No provider found for SerializationProvider, but it is nullable
-2025-01-03 01:21:01,721 [32mINFO [m [m[Server thread][m [mEssentials.publish(36)[m: Selected Legacy Damage Event Provider as the provider for DamageEventProvider
-2025-01-03 01:21:01,722 [32mINFO [m [m[Server thread][m [mEssentials.publish(36)[m: No provider found for ContainerProvider, but it is nullable
-2025-01-03 01:21:01,722 [32mINFO [m [m[Server thread][m [mEssentials.publish(36)[m: Selected 1.17.1+ World Info Provider as the provider for WorldInfoProvider
-2025-01-03 01:21:01,723 [32mINFO [m [m[Server thread][m [mEssentials.publish(36)[m: Selected Legacy InventoryView Abstract Class ABI Provider as the provider for InventoryViewProvider
-2025-01-03 01:21:01,724 [32mINFO [m [m[Server thread][m [mEssentials.publish(36)[m: Selected Legacy 1.8 Potion Meta Provider as the provider for PotionMetaProvider
-2025-01-03 01:21:01,724 [32mINFO [m [m[Server thread][m [mEssentials.publish(36)[m: No provider found for BiomeKeyProvider, but it is nullable
-2025-01-03 01:21:01,725 [32mINFO [m [m[Server thread][m [mEssentials.publish(36)[m: Selected 1.8.3+ Spawner Item Provider as the provider for SpawnerItemProvider
-2025-01-03 01:21:01,726 [32mINFO [m [m[Server thread][m [mEssentials.publish(36)[m: Selected Reflection Online Mode Provider as the provider for OnlineModeProvider
-2025-01-03 01:21:01,728 [32mINFO [m [m[Server thread][m [mEssentials.publish(36)[m: Selected 1.20.5+ Banner Data Provider as the provider for BannerDataProvider
-2025-01-03 01:21:01,729 [32mINFO [m [m[Server thread][m [mEssentials.publish(36)[m: Selected 1.13+ Spawn Egg Provider as the provider for SpawnEggProvider
-2025-01-03 01:21:01,731 [32mINFO [m [m[Server thread][m [mEssentials.publish(36)[m: Selected 1.11+ Item Unbreakable Provider as the provider for ItemUnbreakableProvider
-2025-01-03 01:21:01,731 [32mINFO [m [m[Server thread][m [mEssentials.publish(36)[m: Selected Reflection Sync Commands Provider as the provider for SyncCommandsProvider
-2025-01-03 01:21:01,732 [32mINFO [m [m[Server thread][m [mEssentials.publish(36)[m: Selected 1.14.4+ Persistent Data Container Provider as the provider for PersistentDataProvider
-2025-01-03 01:21:01,732 [32mINFO [m [m[Server thread][m [mEssentials.publish(36)[m: Selected Reflection Known Commands Provider as the provider for KnownCommandsProvider
-2025-01-03 01:21:01,733 [32mINFO [m [m[Server thread][m [mEssentials.publish(36)[m: Selected 1.12+ Spawner Block Provider as the provider for SpawnerBlockProvider
-2025-01-03 01:21:01,734 [32mINFO [m [m[Server thread][m [mEssentials.publish(36)[m: Selected Reflection Formatted Command Alias Provider as the provider for FormattedCommandAliasProvider
-2025-01-03 01:21:01,739 [32mINFO [m [m[Server thread][m [mEssentials.publish(36)[m: Selected Reflection Server State Provider as the provider for ServerStateProvider
-2025-01-03 01:21:01,748 [32mINFO [m [m[Server thread][m [mEssentials.publish(36)[m: Selected 1.14+ Sign Data Provider as the provider for SignDataProvider
-2025-01-03 01:21:01,751 [32mINFO [m [m[Server thread][m [mEssentials.publish(36)[m: Selected Bukkit Material Tag Provider as the provider for MaterialTagProvider
-2025-01-03 01:21:01,948 [32mINFO [m [m[Server thread][m [mEssentials.publish(36)[m: Loaded 43465 items from items.json.
-2025-01-03 01:21:01,954 [32mINFO [m [m[Server thread][m [mEssentials.publish(36)[m: Using locale en
-2025-01-03 01:21:02,053 [32mINFO [m [m[Server thread][m [mEssentials.publish(36)[m: ServerListPingEvent: Spigot iterator API
-2025-01-03 01:21:02,308 [32mINFO [m [m[Server thread][m [mEssentials.publish(36)[m: Starting Metrics. Opt-out using the global bStats config.
-2025-01-03 01:21:02,364 [32mINFO [m [m[Server thread][m [mEssentials.publish(36)[m: Using superperms-based permissions.
-2025-01-03 01:21:02,366 [32mINFO [m [m[Server thread][m [mc.e.e.s.EssentialsSpawn.publish(36)[m: [EssentialsSpawn] Enabling EssentialsSpawn v2.21.0-dev+154-667b0f7
-2025-01-03 01:21:02,373 [32mINFO [m [m[Server thread][m [mEssentialsSpawn.publish(36)[m: Starting Metrics. Opt-out using the global bStats config.
-2025-01-03 01:21:02,375 [32mINFO [m [m[Server thread][m [mc.s.w.b.WorldGuardPlugin.publish(36)[m: [WorldGuard] Enabling WorldGuard v7.0.7+216b061
-2025-01-03 01:21:02,612 [1;31mERROR[m [m[Server thread][m [mc.s.w.WorldEdit.<clinit>(282)[m: No TreeType mapping for TreeGenerator.TreeType.MANGROVE
-2025-01-03 01:21:02,612 [1;31mERROR[m [m[Server thread][m [mc.s.w.WorldEdit.<clinit>(282)[m: No TreeType mapping for TreeGenerator.TreeType.TALL_MANGROVE
-2025-01-03 01:21:02,613 [1;31mERROR[m [m[Server thread][m [mc.s.w.WorldEdit.<clinit>(282)[m: No TreeType mapping for TreeGenerator.TreeType.CHERRY
-2025-01-03 01:21:02,693 [32mINFO [m [m[Server thread][m [mc.s.w.c.WorldConfiguration.publish(36)[m: [WorldGuard] (world) TNT ignition is PERMITTED.
-2025-01-03 01:21:02,694 [32mINFO [m [m[Server thread][m [mc.s.w.c.WorldConfiguration.publish(36)[m: [WorldGuard] (world) Lighters are PERMITTED.
-2025-01-03 01:21:02,694 [32mINFO [m [m[Server thread][m [mc.s.w.c.WorldConfiguration.publish(36)[m: [WorldGuard] (world) Lava fire is PERMITTED.
-2025-01-03 01:21:02,695 [32mINFO [m [m[Server thread][m [mc.s.w.c.WorldConfiguration.publish(36)[m: [WorldGuard] (world) Fire spread is UNRESTRICTED.
-2025-01-03 01:21:02,702 [32mINFO [m [m[Server thread][m [mc.s.w.c.WorldConfiguration.publish(36)[m: [WorldGuard] Loaded configuration for world 'world'
-2025-01-03 01:21:02,703 [32mINFO [m [m[Server thread][m [mc.s.w.c.WorldConfiguration.publish(36)[m: [WorldGuard] (bowels) TNT ignition is PERMITTED.
-2025-01-03 01:21:02,704 [32mINFO [m [m[Server thread][m [mc.s.w.c.WorldConfiguration.publish(36)[m: [WorldGuard] (bowels) Lighters are PERMITTED.
-2025-01-03 01:21:02,704 [32mINFO [m [m[Server thread][m [mc.s.w.c.WorldConfiguration.publish(36)[m: [WorldGuard] (bowels) Lava fire is PERMITTED.
-2025-01-03 01:21:02,705 [32mINFO [m [m[Server thread][m [mc.s.w.c.WorldConfiguration.publish(36)[m: [WorldGuard] (bowels) Fire spread is UNRESTRICTED.
-2025-01-03 01:21:02,710 [32mINFO [m [m[Server thread][m [mc.s.w.c.WorldConfiguration.publish(36)[m: [WorldGuard] Loaded configuration for world 'bowels'
-2025-01-03 01:21:02,723 [32mINFO [m [m[Server thread][m [mc.s.w.WorldGuard.publish(36)[m: [WorldGuard] Loading region data...
-2025-01-03 01:21:03,094 [32mINFO [m [m[Server thread][m [mMinecraft.publish(36)[m: Server permissions file permissions.yml is empty, ignoring it
-2025-01-03 01:21:03,180 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(228)[m: Done (28.085s)! For help, type "help"
-2025-01-03 01:21:03,250 [32mINFO [m [m[Server thread][m [mn.m.s.p.PermissionAPI.initializePermissionAPI(130)[m: Successfully initialized permission handler forge:default_handler
-2025-01-03 01:21:03,369 [32mINFO [m [m[Craft Scheduler Thread - 3][m [mEssentials.publish(36)[m: §6Fetching version information...
-2025-01-03 01:21:03,493 [32mINFO [m [m[Craft Scheduler Thread - 1][m [mColouredConsoleSender.sendMessage(55)[m: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
-2025-01-03 01:21:03,494 [32mINFO [m [m[Craft Scheduler Thread - 1][m [mColouredConsoleSender.sendMessage(55)[m: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
-2025-01-03 01:21:03,496 [32mINFO [m [m[Craft Scheduler Thread - 1][m [mColouredConsoleSender.sendMessage(55)[m: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |   SkinsRestorer  |[0;39m
-2025-01-03 01:21:03,498 [32mINFO [m [m[Craft Scheduler Thread - 1][m [mColouredConsoleSender.sendMessage(55)[m: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |------------------|[0;39m
-2025-01-03 01:21:03,499 [32mINFO [m [m[Craft Scheduler Thread - 1][m [mColouredConsoleSender.sendMessage(55)[m: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |  [34;1m[4m[21mStandalone Mode[0;39m[32;1m |[0;39m
-2025-01-03 01:21:03,502 [32mINFO [m [m[Craft Scheduler Thread - 1][m [mColouredConsoleSender.sendMessage(55)[m: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
-2025-01-03 01:21:03,502 [32mINFO [m [m[Craft Scheduler Thread - 1][m [mColouredConsoleSender.sendMessage(55)[m: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
-2025-01-03 01:21:03,503 [32mINFO [m [m[Craft Scheduler Thread - 1][m [mColouredConsoleSender.sendMessage(55)[m: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Version: [32;1m15.5.1[0;39m
-2025-01-03 01:21:03,505 [32mINFO [m [m[Craft Scheduler Thread - 1][m [mColouredConsoleSender.sendMessage(55)[m: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Commit: [32;1md5d8613[0;39m
-2025-01-03 01:21:03,506 [32mINFO [m [m[Craft Scheduler Thread - 1][m [mColouredConsoleSender.sendMessage(55)[m: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    This is the latest version![0;39m
-2025-01-03 01:21:03,507 [32mINFO [m [m[Craft Scheduler Thread - 1][m [mColouredConsoleSender.sendMessage(55)[m: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
-2025-01-03 01:21:03,508 [32mINFO [m [m[Craft Scheduler Thread - 1][m [mColouredConsoleSender.sendMessage(55)[m: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mDo you have issues? Read our troubleshooting guide: [33;1mhttps://skinsrestorer.net/docs/troubleshooting[0;39m
-2025-01-03 01:21:03,509 [32mINFO [m [m[Craft Scheduler Thread - 1][m [mColouredConsoleSender.sendMessage(55)[m: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mWant to support SkinsRestorer? Consider donating: [33;1mhttps://skinsrestorer.net/donate[0;39m
-2025-01-03 01:21:14,722 [32mINFO [m [m[User Authenticator #1][m [mn.m.s.n.ServerLoginPacketListenerImpl.fireEvents(401)[m: UUID of player AquilesSC is 7b131ae9-057e-3db0-824e-9ceac7a57a32
-2025-01-03 01:21:18,593 [32mINFO [m [m[Server thread][m [mn.m.c.AdvancementLoadFix.loadVisibility(36)[m: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4e4abf79
-2025-01-03 01:21:19,006 [32mINFO [m [m[Server thread][m [mWaila.playerJoin(139)[m: Syncing config to AquilesSC (7b131ae9-057e-3db0-824e-9ceac7a57a32)
-2025-01-03 01:21:19,023 [32mINFO [m [m[Server thread][m [mn.m.s.p.PlayerList.m_11261_(338)[m: AquilesSC[/127.49.152.53:48315] logged in with entity id 657 at (-465.1152429765494, 75.6212968405392, -442.08967486436444)
-2025-01-03 01:21:35,171 [33mWARN [m [m[Server thread][m [mn.m.w.l.e.PersistentEntitySectionManager.m_157557_(66)[m: UUID of added entity already exists: EntityCrow['Crow'/1001, l='ServerLevel[world]', x=-656.18, y=64.96, z=-346.52]
-2025-01-03 01:22:20,472 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: AquilesSC issued server command: /time set day
-2025-01-03 01:33:16,897 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: AquilesSC issued server command: /time set day
-2025-01-03 01:42:54,520 [1;31mERROR[m [m[Server thread][m [mn.m.Util.m_143785_(408)[m: POI data mismatch: already registered at BlockPos{x=49, y=32, z=-43}
-2025-01-03 01:43:31,257 [32mINFO [m [m[Server thread][m [mn.m.w.e.n.Villager.m_6667_(568)[m: Villager Villager['Unemployed'/447, l='ServerLevel[world]', x=-254.83, y=66.00, z=118.37] died, message: 'Unemployed hit the ground too hard'
-2025-01-03 01:44:46,520 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: AquilesSC issued server command: /time set day
-2025-01-03 01:56:10,047 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: AquilesSC issued server command: /time set day
-2025-01-03 02:02:04,911 [32mINFO [m [m[Server thread][m [mn.m.c.AdvancementLoadFix.loadVisibility(36)[m: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5cd108a
-2025-01-03 02:07:32,653 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: AquilesSC issued server command: /time set day
-2025-01-03 02:18:17,850 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: AquilesSC issued server command: /time set day
-2025-01-03 02:28:39,052 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: AquilesSC issued server command: /time set day
-2025-01-03 03:08:11,004 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_7026_(1554)[m: AquilesSC lost connection: Disconnected
-2025-01-03 03:08:11,020 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_6352_(656)[m: AquilesSC left the game
+2025-01-04 01:19:27,790 [32mINFO [m [m[main][m [mc.m.m.Launcher.main(76)[m: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 40.2.21, --fml.mcVersion, 1.18.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220404.173914, nogui]
+2025-01-04 01:19:27,799 [32mINFO [m [m[main][m [mc.m.m.Launcher.<init>(51)[m: ModLauncher 9.1.3+9.1.3+main.9b69c82a starting: java version 17.0.13 by Ubuntu
+2025-01-04 01:19:28,061 [32mINFO [m [m[main][m [mmixin.info(97)[m: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/MSP-2.5/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2316!/ Service=ModLauncher Env=SERVER
+2025-01-04 01:19:28,716 [32mINFO [m [m[main][m [mn.m.f.l.m.JarInJarDependencyLocator.scanMods(55)[m: Found 8 dependencies adding them to mods collection
+2025-01-04 01:19:31,628 [32mINFO [m [m[main][m [mmixin.info(97)[m: Compatibility level set to JAVA_17
+2025-01-04 01:19:31,844 [32mINFO [m [m[main][m [mc.m.m.LaunchServiceHandler.launch(52)[m: Launching target 'forgeserver' with arguments [nogui]
+2025-01-04 01:19:33,428 [32mINFO [m [m[main][m [mMixinExtras|Service.info(97)[m: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+2025-01-04 01:19:40,712 [33mWARN [m [m[main][m [mmixin.warn(132)[m: @ModifyConstant conflict. Skipping repurposed_structures.mixins.json:structures.StructurePoolMixin->@ModifyConstant::repurposedstructures_increaseWeightLimitDev(I)I with priority 1000, already redirected by yungsapi.mixins.json:IncreaseStructureWeightLimitMixin->@ModifyConstant::yungsapi_increaseWeightLimit(I)I with priority 1000
+2025-01-04 01:19:43,034 [32mINFO [m [m[modloading-worker-0][m [mc.j.l.LibraryFerret.<init>(42)[m: Initialize mod Library Ferret
+2025-01-04 01:19:43,096 [32mINFO [m [m[modloading-worker-0][m [mc.j.l.LibraryFerret.<init>(51)[m: Initialized mod Library Ferret
+2025-01-04 01:19:44,586 [32mINFO [m [m[modloading-worker-0][m [md.k.m.Melody.init(20)[m: [MELODY] Disabling Melody since it's loaded server-side.
+2025-01-04 01:19:44,672 [32mINFO [m [m[modloading-worker-0][m [mn.m.c.ForgeMod.<init>(143)[m: Forge mod loading, version 40.2.21, for MC 1.18.2 with MCP 20220404.173914
+2025-01-04 01:19:44,673 [32mINFO [m [m[modloading-worker-0][m [mn.m.c.MinecraftForge.initialize(41)[m: MinecraftForge v40.2.21 Initialized
+2025-01-04 01:19:44,729 [32mINFO [m [m[modloading-worker-0][m [md.k.k.Konkrete.<init>(62)[m: [KONKRETE] Successfully initialized!
+2025-01-04 01:19:44,730 [32mINFO [m [m[modloading-worker-0][m [md.k.k.Konkrete.<init>(63)[m: [KONKRETE] Server-side libs ready to use!
+2025-01-04 01:19:44,819 [32mINFO [m [m[modloading-worker-0][m [mTrustedSourceList.downloadTrustedSources(81)[m: Loading BlackListed sources from remote... (https://api.stopmodreposts.org/minecraft/sites.txt)
+2025-01-04 01:19:45,018 [32mINFO [m [m[modloading-worker-0][m [mc.m.MohistMC.init(17)[m: EventDispatcherRegistry initialized
+2025-01-04 01:19:45,222 [32mINFO [m [m[modloading-worker-0][m [mTrustedSourceList.downloadTrustedSources(113)[m: Loaded 564 BlackListed sources from remote
+2025-01-04 01:19:45,228 [32mINFO [m [m[modloading-worker-0][m [mTrustManager.getZoneIdentity(107)[m: Loading mod 'commonality' TrustWorthiness...
+2025-01-04 01:19:45,229 [1;31mFATAL[m [m[modloading-worker-0][m [mTrustManager.getZoneIdentity(132)[m: Could not determine mod trust worthiness, Assuming Jar was downloaded from trusted source!
+2025-01-04 01:19:45,230 [32mINFO [m [m[modloading-worker-0][m [mTrustManager.getTrustWorthiness(69)[m: Loaded mod 'commonality' TrustWorthiness: UNKNOWN
+2025-01-04 01:19:45,690 [32mINFO [m [m[modloading-worker-0][m [mi.IronFurnaces.<init>(35)[m: Initializing Update Checker...
+2025-01-04 01:19:45,728 [32mINFO [m [m[ Iron Furnaces Update Checker][m [mi.IronFurnaces.run(26)[m: Starting Update Check...
+2025-01-04 01:19:45,790 [32mINFO [m [m[ Iron Furnaces Update Checker][m [mi.IronFurnaces.run(43)[m: Update Check done!
+2025-01-04 01:19:45,790 [32mINFO [m [m[ Iron Furnaces Update Checker][m [mi.IronFurnaces.run(56)[m: Iron Furnaces is up to date!
+2025-01-04 01:19:45,819 [32mINFO [m [m[modloading-worker-0][m [mc.t.r.AbstractRegistrate.registerEventListeners(239)[m: Detected new forge version, registering events reflectively.
+2025-01-04 01:19:46,416 [32mINFO [m [m[modloading-worker-0][m [md.k.f.FancyMenu.init(45)[m: [FANCYMENU] Loading v3.3.2 in server-side mode on FORGE!
+2025-01-04 01:19:46,828 [32mINFO [m [m[modloading-worker-0][m [md.a.n.f.NetworkManagerImpl.registerC2SReceiver(169)[m: Registering C2S receiver with id architectury:sync_ids
+2025-01-04 01:19:46,913 [32mINFO [m [m[modloading-worker-0][m [mTrustManager.getZoneIdentity(107)[m: Loading mod 'apexcore' TrustWorthiness...
+2025-01-04 01:19:46,922 [1;31mFATAL[m [m[modloading-worker-0][m [mTrustManager.getZoneIdentity(132)[m: Could not determine mod trust worthiness, Assuming Jar was downloaded from trusted source!
+2025-01-04 01:19:46,923 [32mINFO [m [m[modloading-worker-0][m [mTrustManager.getTrustWorthiness(69)[m: Loaded mod 'apexcore' TrustWorthiness: UNKNOWN
+2025-01-04 01:19:46,936 [32mINFO [m [m[modloading-worker-0][m [mc.t.r.AbstractRegistrate.registerEventListeners(239)[m: Detected new forge version, registering events reflectively.
+2025-01-04 01:19:46,945 [32mINFO [m [m[modloading-worker-0][m [mTrustManager.getZoneIdentity(107)[m: Loading mod 'fantasyfurniture' TrustWorthiness...
+2025-01-04 01:19:46,954 [1;31mFATAL[m [m[modloading-worker-0][m [mTrustManager.getZoneIdentity(132)[m: Could not determine mod trust worthiness, Assuming Jar was downloaded from trusted source!
+2025-01-04 01:19:46,962 [32mINFO [m [m[modloading-worker-0][m [mTrustManager.getTrustWorthiness(69)[m: Loaded mod 'fantasyfurniture' TrustWorthiness: UNKNOWN
+2025-01-04 01:19:46,984 [32mINFO [m [m[modloading-worker-0][m [mc.t.r.AbstractRegistrate.registerEventListeners(239)[m: Detected new forge version, registering events reflectively.
+2025-01-04 01:19:47,166 [32mINFO [m [m[modloading-worker-0][m [mc.y.i.IllageAndSpillage.loadConfig(29)[m: Loading config: /workspaces/MSP-2.5/servidor_minecraft/config/illageandspillage-client.toml
+2025-01-04 01:19:47,167 [32mINFO [m [m[modloading-worker-0][m [mc.y.i.IllageAndSpillage.loadConfig(31)[m: Built config: /workspaces/MSP-2.5/servidor_minecraft/config/illageandspillage-client.toml
+2025-01-04 01:19:47,169 [32mINFO [m [m[modloading-worker-0][m [mc.y.i.IllageAndSpillage.loadConfig(33)[m: Loaded config: /workspaces/MSP-2.5/servidor_minecraft/config/illageandspillage-client.toml
+2025-01-04 01:19:47,176 [32mINFO [m [m[modloading-worker-0][m [mc.y.i.IllageAndSpillage.loadConfig(29)[m: Loading config: /workspaces/MSP-2.5/servidor_minecraft/config/illageandspillage-common.toml
+2025-01-04 01:19:47,176 [32mINFO [m [m[modloading-worker-0][m [mc.y.i.IllageAndSpillage.loadConfig(31)[m: Built config: /workspaces/MSP-2.5/servidor_minecraft/config/illageandspillage-common.toml
+2025-01-04 01:19:47,199 [32mINFO [m [m[modloading-worker-0][m [mc.y.i.IllageAndSpillage.loadConfig(33)[m: Loaded config: /workspaces/MSP-2.5/servidor_minecraft/config/illageandspillage-common.toml
+2025-01-04 01:19:47,204 [32mINFO [m [m[modloading-worker-0][m [mb.f.e.ExpandAbility.init(12)[m: ExpandAbility here, who dis?
+2025-01-04 01:19:59,880 [32mINFO [m [m[main][m [mn.m.r.GameData.checkPrefix(946)[m: Potentially Dangerous alternative prefix `minecraft` for name `milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
+2025-01-04 01:19:59,881 [32mINFO [m [m[main][m [mn.m.r.GameData.checkPrefix(946)[m: Potentially Dangerous alternative prefix `minecraft` for name `flowing_milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
+2025-01-04 01:20:00,237 [32mINFO [m [m[main][m [mn.m.r.GameData.checkPrefix(946)[m: Potentially Dangerous alternative prefix `betterfortresses` for name `fortress`, expected `yungsapi`. This could be a intended override, but in most cases indicates a broken mod.
+2025-01-04 01:20:00,483 [33mWARN [m [m[main][m [mn.m.n.s.SynchedEntityData.m_135353_(46)[m: defineId called for: class com.github.alexthe666.alexsmobs.entity.EntityLeafcutterAnt from class com.github.alexthe666.alexsmobs.entity.EntityDevilsHolePupfish
+2025-01-04 01:20:00,485 [33mWARN [m [m[main][m [mn.m.n.s.SynchedEntityData.m_135353_(46)[m: defineId called for: class com.github.alexthe666.alexsmobs.entity.EntityMantisShrimp from class com.github.alexthe666.alexsmobs.entity.EntitySkelewag
+2025-01-04 01:20:00,500 [33mWARN [m [m[main][m [mn.m.n.s.SynchedEntityData.m_135353_(46)[m: defineId called for: class nonamecrackers2.witherstormmod.common.entity.SickenedZombie from class nonamecrackers2.witherstormmod.common.entity.SickenedSkeleton
+2025-01-04 01:20:00,501 [33mWARN [m [m[main][m [mn.m.n.s.SynchedEntityData.m_135353_(46)[m: defineId called for: class nonamecrackers2.witherstormmod.common.entity.SickenedZombie from class nonamecrackers2.witherstormmod.common.entity.SickenedSpider
+2025-01-04 01:20:00,501 [33mWARN [m [m[main][m [mn.m.n.s.SynchedEntityData.m_135353_(46)[m: defineId called for: class nonamecrackers2.witherstormmod.common.entity.SickenedZombie from class nonamecrackers2.witherstormmod.common.entity.SickenedCreeper
+2025-01-04 01:20:01,199 [32mINFO [m [m[main][m [mjourneymap.lambda$commonSetupEvent$5(160)[m: Initializing Packet Registries
+2025-01-04 01:20:01,346 [32mINFO [m [m[main][m [mterrablender.register(47)[m: Registered region minecraft:overworld to index 0 for type OVERWORLD
+2025-01-04 01:20:01,349 [32mINFO [m [m[main][m [mterrablender.register(47)[m: Registered region minecraft:nether to index 0 for type NETHER
+2025-01-04 01:20:01,352 [32mINFO [m [m[main][m [mterrablender.register(47)[m: Registered region biomesoplenty:overworld_common to index 1 for type OVERWORLD
+2025-01-04 01:20:01,353 [32mINFO [m [m[main][m [mterrablender.register(47)[m: Registered region biomesoplenty:overworld_rare to index 2 for type OVERWORLD
+2025-01-04 01:20:01,354 [32mINFO [m [m[main][m [mterrablender.register(47)[m: Registered region biomesoplenty:nether_common to index 1 for type NETHER
+2025-01-04 01:20:01,355 [32mINFO [m [m[main][m [mterrablender.register(47)[m: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
+2025-01-04 01:20:01,615 [32mINFO [m [m[modloading-worker-0][m [mWaila.loadComplete(109)[m: Start loading plugin at mcp.mobius.waila.addons.core.CorePlugin
+2025-01-04 01:20:01,623 [32mINFO [m [m[modloading-worker-0][m [mWaila.loadComplete(109)[m: Start loading plugin at net.blay09.mods.waystones.compat.WailaProvider
+2025-01-04 01:20:01,634 [32mINFO [m [m[modloading-worker-0][m [mWaila.loadComplete(109)[m: Start loading plugin at de.maxhenkel.corpse.integration.waila.PluginCorpse
+2025-01-04 01:20:01,635 [32mINFO [m [m[modloading-worker-0][m [mWaila.loadComplete(109)[m: Start loading plugin at snownee.jade.VanillaPlugin
+2025-01-04 01:20:01,654 [32mINFO [m [m[modloading-worker-0][m [mWaila.loadComplete(109)[m: Start loading plugin at net.geforcemods.securitycraft.compat.hudmods.JadeDataProvider
+2025-01-04 01:20:16,444 [32mINFO [m [m[main][m [mc.m.a.y.YggdrasilAuthenticationService.<init>(72)[m: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+2025-01-04 01:20:23,953 [33mWARN [m [m[main][m [mn.m.s.p.VanillaPackResources.m_182299_(58)[m: Assets URL 'union:/workspaces/MSP-2.5/servidor_minecraft/libraries/net/minecraft/server/1.18.2-20220404.173914/server-1.18.2-20220404.173914-srg.jar%23112!/assets/.mcassetsroot' uses unexpected schema
+2025-01-04 01:20:23,954 [33mWARN [m [m[main][m [mn.m.s.p.VanillaPackResources.m_182299_(58)[m: Assets URL 'union:/workspaces/MSP-2.5/servidor_minecraft/libraries/net/minecraft/server/1.18.2-20220404.173914/server-1.18.2-20220404.173914-srg.jar%23112!/data/.mcassetsroot' uses unexpected schema
+2025-01-04 01:20:31,342 [33mWARN [m [m[main][m [mn.m.c.Commands.m_82107_(214)[m: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+2025-01-04 01:20:31,345 [33mWARN [m [m[main][m [mn.m.c.Commands.m_82107_(214)[m: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+2025-01-04 01:20:31,354 [33mWARN [m [m[main][m [mn.m.c.Commands.m_82107_(214)[m: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+2025-01-04 01:20:31,357 [33mWARN [m [m[main][m [mn.m.c.Commands.m_82107_(214)[m: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+2025-01-04 01:20:31,366 [33mWARN [m [m[main][m [mn.m.c.Commands.m_82107_(214)[m: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+2025-01-04 01:20:31,371 [33mWARN [m [m[main][m [mn.m.c.Commands.m_82107_(214)[m: Ambiguity between arguments [cam-server, get, name, insert, location] and [cam-server, get, name, insert, index] with inputs: [0 0 0]
+2025-01-04 01:20:31,375 [33mWARN [m [m[main][m [mn.m.c.Commands.m_82107_(214)[m: Ambiguity between arguments [cam-server, get, name, set, location] and [cam-server, get, name, set, index] with inputs: [0 0 0]
+2025-01-04 01:20:31,377 [33mWARN [m [m[main][m [mn.m.c.Commands.m_82107_(214)[m: Ambiguity between arguments [create, coupling, add, cart1] and [create, coupling, add, carts] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+2025-01-04 01:20:31,379 [33mWARN [m [m[main][m [mn.m.c.Commands.m_82107_(214)[m: Ambiguity between arguments [create, coupling, add, carts] and [create, coupling, add, cart1] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+2025-01-04 01:20:31,386 [33mWARN [m [m[main][m [mn.m.c.Commands.m_82107_(214)[m: Ambiguity between arguments [create, coupling, add, cart1] and [create, coupling, add, carts] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+2025-01-04 01:20:31,388 [33mWARN [m [m[main][m [mn.m.c.Commands.m_82107_(214)[m: Ambiguity between arguments [create, coupling, add, carts] and [create, coupling, add, cart1] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+2025-01-04 01:20:31,390 [33mWARN [m [m[main][m [mn.m.c.Commands.m_82107_(214)[m: Ambiguity between arguments [deathhistory, player] and [deathhistory, player_uuid] with inputs: [dd12be42-52a9-4a91-a8a1-11c01849e498]
+2025-01-04 01:20:31,393 [33mWARN [m [m[main][m [mn.m.c.Commands.m_82107_(214)[m: Ambiguity between arguments [witherstormmod, cluster, create, start] and [witherstormmod, cluster, create, pos] with inputs: [^1 ^ ^-5, 0 0 0, ~ ~ ~, ^ ^ ^, ~0.5 ~1 ~-5]
+2025-01-04 01:20:31,395 [33mWARN [m [m[main][m [mn.m.c.Commands.m_82107_(214)[m: Ambiguity between arguments [witherstormmod, cluster, create, pos] and [witherstormmod, cluster, create, start] with inputs: [^1 ^ ^-5, 0 0 0, ~ ~ ~, ^ ^ ^, ~0.5 ~1 ~-5]
+2025-01-04 01:20:31,398 [33mWARN [m [m[main][m [mn.m.c.Commands.m_82107_(214)[m: Ambiguity between arguments [witherstormmod, bowels, new] and [witherstormmod, bowels, entity] with inputs: [new]
+2025-01-04 01:20:31,400 [33mWARN [m [m[main][m [mn.m.c.Commands.m_82107_(214)[m: Ambiguity between arguments [witherstormmod, ultimateTarget, set, storm, pos] and [witherstormmod, ultimateTarget, set, storm, player] with inputs: [0 0 0]
+2025-01-04 01:20:43,779 [32mINFO [m [m[Worker-Main-4][m [mn.m.w.i.c.RecipeManager.m_5787_(85)[m: Loaded 25 recipes
+2025-01-04 01:20:46,529 [33mWARN [m [m[Worker-Main-4][m [mn.m.w.l.s.l.LootTables.m_79210_(69)[m: Found validation problem in {majruszsdifficulty:undead_army/extra_mob_loot}.pools[0].functions[0]: Parameters [<parameter minecraft:killer_entity>] are not provided in this context
+2025-01-04 01:20:53,491 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(150)[m: Starting minecraft server version 1.18.2
+2025-01-04 01:20:53,492 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(155)[m: Loading properties
+2025-01-04 01:20:53,492 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(172)[m: Default game type: SURVIVAL
+2025-01-04 01:20:53,492 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_129793_(1286)[m: Generating keypair
+2025-01-04 01:20:53,827 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(183)[m: Starting Minecraft server on *:25565
+2025-01-04 01:20:53,944 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerConnectionListener.m_9711_(79)[m: Using epoll channel type
+2025-01-04 01:20:54,215 [33mWARN [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(195)[m: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2025-01-04 01:20:54,217 [33mWARN [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(196)[m: The server will make no attempt to authenticate usernames. Beware.
+2025-01-04 01:20:54,217 [33mWARN [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(197)[m: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2025-01-04 01:20:54,218 [33mWARN [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(198)[m: To change this, set "online-mode" to "true" in the server.properties file.
+2025-01-04 01:20:54,366 [32mINFO [m [m[Server thread][m [mMinecraft.publish(36)[m: This server is running Mohist version 1.18.2-184 (MC: 1.18.2) (Implementing API version 1.18.2-R0.1-SNAPSHOT, Forge version 40.2.21)
+2025-01-04 01:20:58,126 [32mINFO [m [m[Server thread][m [mMinecraft.publish(36)[m: Debug logging is enabled
+2025-01-04 01:20:58,133 [32mINFO [m [m[Server thread][m [m.playerSample(274)[m: Server Ping Player Sample Count: 12
+2025-01-04 01:20:58,154 [32mINFO [m [m[Server thread][m [mMinecraft.publish(36)[m: Using 4 threads for Netty based IO
+2025-01-04 01:21:04,014 [32mINFO [m [m[Server thread][m [mc.m.MohistMC.createLoader(36)[m: [BigDoors] Loading 1 libraries... please wait
+2025-01-04 01:21:04,217 [32mINFO [m [m[Server thread][m [mc.m.MohistMC.createLoader(69)[m: [BigDoors] Loading 6 extra libraries... please wait
+2025-01-04 01:21:04,218 [32mINFO [m [m[Server thread][m [mc.m.MohistMC.createLoader(79)[m: [BigDoors] Found libraries libraries/plugins-lib/net/bytebuddy/byte-buddy/1.14.17/byte-buddy-1.14.17.jar
+2025-01-04 01:21:04,218 [32mINFO [m [m[Server thread][m [mc.m.MohistMC.createLoader(79)[m: [BigDoors] Found libraries libraries/plugins-lib/net/java/dev/jna/jna/5.12.1/jna-5.12.1.jar
+2025-01-04 01:21:04,218 [32mINFO [m [m[Server thread][m [mc.m.MohistMC.createLoader(79)[m: [BigDoors] Found libraries libraries/plugins-lib/net/java/dev/jna/jna-platform/5.12.1/jna-platform-5.12.1.jar
+2025-01-04 01:21:04,219 [32mINFO [m [m[Server thread][m [mc.m.MohistMC.createLoader(79)[m: [BigDoors] Found libraries libraries/plugins-lib/net/java/dev/jna/jna/5.12.1/jna-5.12.1.jar
+2025-01-04 01:21:04,219 [32mINFO [m [m[Server thread][m [mc.m.MohistMC.createLoader(79)[m: [BigDoors] Found libraries libraries/plugins-lib/com/google/code/findbugs/findbugs-annotations/3.0.1/findbugs-annotations-3.0.1.jar
+2025-01-04 01:21:04,219 [32mINFO [m [m[Server thread][m [mc.m.MohistMC.createLoader(79)[m: [BigDoors] Found libraries libraries/plugins-lib/com/google/code/findbugs/jsr305/3.0.1/jsr305-3.0.1.jar
+2025-01-04 01:21:04,220 [32mINFO [m [m[Server thread][m [mc.m.MohistMC.createLoader(79)[m: [BigDoors] Found libraries libraries/plugins-lib/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar
+2025-01-04 01:21:04,220 [32mINFO [m [m[Server thread][m [mc.m.MohistMC.createLoader(103)[m: [BigDoors] Loaded libraries libraries/plugins-lib/net/bytebuddy/byte-buddy/1.14.17/byte-buddy-1.14.17.jar
+2025-01-04 01:21:04,220 [32mINFO [m [m[Server thread][m [mc.m.MohistMC.createLoader(103)[m: [BigDoors] Loaded libraries libraries/plugins-lib/net/java/dev/jna/jna/5.12.1/jna-5.12.1.jar
+2025-01-04 01:21:04,221 [32mINFO [m [m[Server thread][m [mc.m.MohistMC.createLoader(103)[m: [BigDoors] Loaded libraries libraries/plugins-lib/net/java/dev/jna/jna-platform/5.12.1/jna-platform-5.12.1.jar
+2025-01-04 01:21:04,221 [32mINFO [m [m[Server thread][m [mc.m.MohistMC.createLoader(103)[m: [BigDoors] Loaded libraries libraries/plugins-lib/net/java/dev/jna/jna/5.12.1/jna-5.12.1.jar
+2025-01-04 01:21:04,221 [32mINFO [m [m[Server thread][m [mc.m.MohistMC.createLoader(103)[m: [BigDoors] Loaded libraries libraries/plugins-lib/com/google/code/findbugs/findbugs-annotations/3.0.1/findbugs-annotations-3.0.1.jar
+2025-01-04 01:21:04,222 [32mINFO [m [m[Server thread][m [mc.m.MohistMC.createLoader(103)[m: [BigDoors] Loaded libraries libraries/plugins-lib/com/google/code/findbugs/jsr305/3.0.1/jsr305-3.0.1.jar
+2025-01-04 01:21:04,222 [32mINFO [m [m[Server thread][m [mc.m.MohistMC.createLoader(103)[m: [BigDoors] Loaded libraries libraries/plugins-lib/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar
+2025-01-04 01:21:04,672 [33mWARN [m [m[Server thread][m [m.<clinit>(256)[m: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+2025-01-04 01:21:13,849 [32mINFO [m [m[Server thread][m [mc.s.w.b.WorldEditPlugin.publish(36)[m: [WorldEdit] Loading WorldEdit v7.2.20+6667-f0f1e66
+2025-01-04 01:21:16,818 [32mINFO [m [m[Server thread][m [mc.s.w.e.p.PlatformManager.register(100)[m: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@70d7c7f6]
+2025-01-04 01:21:16,953 [32mINFO [m [m[Server thread][m [mn.s.b.SRBukkitBootstrap.publish(36)[m: [SkinsRestorer] Loading SkinsRestorer v15.5.1
+2025-01-04 01:21:16,954 [32mINFO [m [m[Server thread][m [mm.f.h.p.HolographicDisplays.publish(36)[m: [HolographicDisplays] Loading HolographicDisplays v3.0.4
+2025-01-04 01:21:16,955 [32mINFO [m [m[Server thread][m [mc.e.e.Essentials.publish(36)[m: [Essentials] Loading Essentials v2.21.0-dev+154-667b0f7
+2025-01-04 01:21:16,956 [32mINFO [m [m[Server thread][m [mc.e.e.s.EssentialsSpawn.publish(36)[m: [EssentialsSpawn] Loading EssentialsSpawn v2.21.0-dev+154-667b0f7
+2025-01-04 01:21:16,957 [32mINFO [m [m[Server thread][m [mc.s.w.b.WorldGuardPlugin.publish(36)[m: [WorldGuard] Loading WorldGuard v7.0.7+216b061
+2025-01-04 01:21:16,957 [32mINFO [m [m[Server thread][m [mn.p.b.BigDoors.publish(36)[m: [BigDoors] Loading BigDoors vAlpha 0.1.8.57
+2025-01-04 01:21:16,958 [32mINFO [m [m[Server thread][m [mn.r.w.WorldGuardEvents.publish(36)[m: [WorldGuardEvents] Loading WorldGuardEvents v1.18.1
+2025-01-04 01:21:16,958 [32mINFO [m [m[Server thread][m [mc.a.ConditionalEvents.publish(36)[m: [ConditionalEvents] Loading ConditionalEvents v4.59.1
+2025-01-04 01:21:16,961 [32mINFO [m [m[Server thread][m [mc.s.w.b.WorldEditPlugin.publish(36)[m: [WorldEdit] Enabling WorldEdit v7.2.20+6667-f0f1e66
+2025-01-04 01:21:17,303 [32mINFO [m [m[Server thread][m [mc.s.w.e.p.PlatformCommandManager.registerCommandsWith(427)[m: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+2025-01-04 01:21:17,791 [32mINFO [m [m[Server thread][m [mc.s.w.PermissionsResolverManager.findResolver(126)[m: WEPIF: Using the Bukkit Permissions API.
+2025-01-04 01:21:25,780 [32mINFO [m [m[Server thread][m [mc.s.w.b.WorldEditPlugin.loadAdapter(298)[m: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_18_R2.PaperweightAdapter as the Bukkit adapter
+2025-01-04 01:21:28,626 [32mINFO [m [m[Server thread][m [mc.s.w.b.WorldEditPlugin.publish(36)[m: [WorldEdit] ====================================================
+2025-01-04 01:21:28,628 [32mINFO [m [m[Server thread][m [mc.s.w.b.WorldEditPlugin.publish(36)[m: [WorldEdit]  WorldEdit works better if you use Paper 
+2025-01-04 01:21:28,628 [32mINFO [m [m[Server thread][m [mc.s.w.b.WorldEditPlugin.publish(36)[m: [WorldEdit]  as your server software. 
+2025-01-04 01:21:28,629 [32mINFO [m [m[Server thread][m [mc.s.w.b.WorldEditPlugin.publish(36)[m: [WorldEdit]   
+2025-01-04 01:21:28,629 [32mINFO [m [m[Server thread][m [mc.s.w.b.WorldEditPlugin.publish(36)[m: [WorldEdit]  Paper offers significant performance improvements,
+2025-01-04 01:21:28,630 [32mINFO [m [m[Server thread][m [mc.s.w.b.WorldEditPlugin.publish(36)[m: [WorldEdit]  bug fixes, security enhancements and optional
+2025-01-04 01:21:28,631 [32mINFO [m [m[Server thread][m [mc.s.w.b.WorldEditPlugin.publish(36)[m: [WorldEdit]  features for server owners to enhance their server.
+2025-01-04 01:21:28,632 [32mINFO [m [m[Server thread][m [mc.s.w.b.WorldEditPlugin.publish(36)[m: [WorldEdit]   
+2025-01-04 01:21:28,632 [32mINFO [m [m[Server thread][m [mc.s.w.b.WorldEditPlugin.publish(36)[m: [WorldEdit]  Paper includes Timings v2, which is significantly
+2025-01-04 01:21:28,634 [32mINFO [m [m[Server thread][m [mc.s.w.b.WorldEditPlugin.publish(36)[m: [WorldEdit]  better at diagnosing lag problems over v1.
+2025-01-04 01:21:28,635 [32mINFO [m [m[Server thread][m [mc.s.w.b.WorldEditPlugin.publish(36)[m: [WorldEdit]   
+2025-01-04 01:21:28,635 [32mINFO [m [m[Server thread][m [mc.s.w.b.WorldEditPlugin.publish(36)[m: [WorldEdit]  All of your plugins should still work, and the
+2025-01-04 01:21:28,636 [32mINFO [m [m[Server thread][m [mc.s.w.b.WorldEditPlugin.publish(36)[m: [WorldEdit]  Paper community will gladly help you fix any issues.
+2025-01-04 01:21:28,637 [32mINFO [m [m[Server thread][m [mc.s.w.b.WorldEditPlugin.publish(36)[m: [WorldEdit]   
+2025-01-04 01:21:28,637 [32mINFO [m [m[Server thread][m [mc.s.w.b.WorldEditPlugin.publish(36)[m: [WorldEdit]  Join the Paper Community @ https://papermc.io
+2025-01-04 01:21:28,638 [32mINFO [m [m[Server thread][m [mc.s.w.b.WorldEditPlugin.publish(36)[m: [WorldEdit] ====================================================
+2025-01-04 01:21:28,639 [32mINFO [m [m[Server thread][m [mn.s.b.SRBukkitBootstrap.publish(36)[m: [SkinsRestorer] Enabling SkinsRestorer v15.5.1
+2025-01-04 01:21:32,474 [33mWARN [m [m[Server thread][m [mMinecraft.publish(34)[m: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1mYou must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.[0;39m
+2025-01-04 01:21:34,793 [32mINFO [m [m[Server thread][m [mColouredConsoleSender.sendMessage(55)[m: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1mRunning on Minecraft [33;1m1.18.2[32;1m.[0;39m
+2025-01-04 01:21:35,983 [33mWARN [m [m[Server thread][m [mMinecraft.publish(34)[m: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mPlease update your Java runtime to at least Java 21 (your version is 17).[0;39m
+2025-01-04 01:21:35,984 [33mWARN [m [m[Server thread][m [mMinecraft.publish(34)[m: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mAt some point in the future, SkinsRestorer will no longer be compatible with this version of Java.[0;39m
+2025-01-04 01:21:36,008 [32mINFO [m [m[Server thread][m [mjourneymap.load(43)[m: Loading JourneyMap Forge Configs
+2025-01-04 01:21:36,010 [32mINFO [m [m[Thread-0][m [mjourneymap.load(43)[m: Loading JourneyMap Forge Configs
+2025-01-04 01:21:36,011 [32mINFO [m [m[Thread-0][m [mjourneymap.load(43)[m: Loading JourneyMap Forge Configs
+2025-01-04 01:21:40,906 [32mINFO [m [m[Server thread][m [mterrablender.initializeBiomes(115)[m: Initialized TerraBlender biomes for level stem minecraft:overworld
+2025-01-04 01:21:40,908 [32mINFO [m [m[Server thread][m [mterrablender.initializeBiomes(115)[m: Initialized TerraBlender biomes for level stem minecraft:the_nether
+2025-01-04 01:21:40,908 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(224)[m: Preparing level "world"
+2025-01-04 01:21:41,640 [32mINFO [m [m[Server thread][m [m.initFeedingData(94)[m: []
+2025-01-04 01:21:41,643 [32mINFO [m [m[Server thread][m [m.initFeedingData(94)[m: [1 apple, 1 golden_apple, 1 enchanted_golden_apple, 1 banana]
+2025-01-04 01:21:41,940 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_129940_(601)[m: Preparing start region for dimension minecraft:overworld
+2025-01-04 01:21:44,056 [32mINFO [m [m[Worker-Main-6][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2025-01-04 01:21:44,141 [32mINFO [m [m[Worker-Main-6][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2025-01-04 01:21:44,190 [32mINFO [m [m[Worker-Main-5][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2025-01-04 01:21:44,198 [32mINFO [m [m[Worker-Main-6][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2025-01-04 01:21:44,358 [32mINFO [m [m[Worker-Main-5][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2025-01-04 01:21:44,471 [32mINFO [m [m[Worker-Main-6][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2025-01-04 01:21:44,951 [32mINFO [m [m[Worker-Main-5][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2025-01-04 01:21:45,809 [32mINFO [m [m[Worker-Main-6][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2025-01-04 01:21:45,949 [32mINFO [m [m[Worker-Main-5][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2025-01-04 01:21:47,799 [32mINFO [m [m[Worker-Main-6][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2025-01-04 01:21:47,801 [32mINFO [m [m[Worker-Main-5][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2025-01-04 01:21:47,803 [32mINFO [m [m[Worker-Main-6][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2025-01-04 01:21:47,951 [32mINFO [m [m[Worker-Main-6][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2025-01-04 01:21:48,451 [32mINFO [m [m[Worker-Main-5][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2025-01-04 01:21:48,950 [32mINFO [m [m[Worker-Main-5][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 1%
+2025-01-04 01:21:49,455 [32mINFO [m [m[Worker-Main-5][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 4%
+2025-01-04 01:21:49,950 [32mINFO [m [m[Worker-Main-6][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 4%
+2025-01-04 01:21:50,538 [32mINFO [m [m[Worker-Main-6][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 5%
+2025-01-04 01:21:50,949 [32mINFO [m [m[Worker-Main-6][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 10%
+2025-01-04 01:21:51,493 [32mINFO [m [m[Worker-Main-4][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 11%
+2025-01-04 01:21:51,996 [32mINFO [m [m[Worker-Main-5][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 25%
+2025-01-04 01:21:52,459 [32mINFO [m [m[Worker-Main-6][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 28%
+2025-01-04 01:21:53,378 [32mINFO [m [m[Worker-Main-5][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 38%
+2025-01-04 01:21:53,451 [32mINFO [m [m[Worker-Main-4][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 39%
+2025-01-04 01:21:53,951 [32mINFO [m [m[Worker-Main-5][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 64%
+2025-01-04 01:21:54,449 [32mINFO [m [m[Worker-Main-5][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 81%
+2025-01-04 01:21:55,377 [32mINFO [m [m[Server thread][m [mn.m.s.l.p.LoggerChunkProgressListener.m_7646_(55)[m: Time elapsed: 13429 ms
+2025-01-04 01:21:55,476 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_129940_(601)[m: Preparing start region for dimension witherstormmod:bowels
+2025-01-04 01:21:56,612 [32mINFO [m [m[Worker-Main-4][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2025-01-04 01:21:56,615 [32mINFO [m [m[Worker-Main-4][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2025-01-04 01:21:56,663 [32mINFO [m [m[Worker-Main-5][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2025-01-04 01:21:57,008 [32mINFO [m [m[Worker-Main-4][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2025-01-04 01:21:58,209 [32mINFO [m [m[Worker-Main-6][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2025-01-04 01:21:58,211 [32mINFO [m [m[Worker-Main-6][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2025-01-04 01:21:58,477 [32mINFO [m [m[Worker-Main-5][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2025-01-04 01:21:58,977 [32mINFO [m [m[Worker-Main-6][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 4%
+2025-01-04 01:21:59,548 [32mINFO [m [m[Worker-Main-5][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 4%
+2025-01-04 01:21:59,978 [32mINFO [m [m[Worker-Main-6][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 9%
+2025-01-04 01:22:00,532 [32mINFO [m [m[Server thread][m [mn.m.s.l.p.LoggerChunkProgressListener.m_7646_(55)[m: Time elapsed: 5056 ms
+2025-01-04 01:22:00,534 [32mINFO [m [m[Server thread][m [mm.f.h.p.HolographicDisplays.publish(36)[m: [HolographicDisplays] Enabling HolographicDisplays v3.0.4
+2025-01-04 01:22:01,232 [32mINFO [m [m[Server thread][m [mc.e.e.Essentials.publish(36)[m: [Essentials] Enabling Essentials v2.21.0-dev+154-667b0f7
+2025-01-04 01:22:02,766 [1;31mERROR[m [m[Server thread][m [mEssentials.publish(32)[m: You are running a server that does not properly support Bukkit plugins. Bukkit plugins should not be used with Forge/Fabric mods! For Forge: Consider using ForgeEssentials, or SpongeForge + Nucleus.
+2025-01-04 01:22:02,802 [32mINFO [m [m[Server thread][m [mEssentials.publish(36)[m: Status determining class: brand:Mohist
+2025-01-04 01:22:03,159 [32mINFO [m [m[Server thread][m [mEssentials.publish(36)[m: Attempting to convert old kits in config.yml to new kits.yml
+2025-01-04 01:22:03,160 [32mINFO [m [m[Server thread][m [mEssentials.publish(36)[m: No kits found to migrate.
+2025-01-04 01:22:03,345 [32mINFO [m [m[Server thread][m [mEssentials.publish(36)[m: Selected Legacy Damage Event Provider as the provider for DamageEventProvider
+2025-01-04 01:22:03,346 [32mINFO [m [m[Server thread][m [mEssentials.publish(36)[m: Selected Legacy InventoryView Abstract Class ABI Provider as the provider for InventoryViewProvider
+2025-01-04 01:22:03,349 [32mINFO [m [m[Server thread][m [mEssentials.publish(36)[m: No provider found for ContainerProvider, but it is nullable
+2025-01-04 01:22:03,350 [32mINFO [m [m[Server thread][m [mEssentials.publish(36)[m: Selected Reflection Server State Provider as the provider for ServerStateProvider
+2025-01-04 01:22:03,370 [32mINFO [m [m[Server thread][m [mEssentials.publish(36)[m: Selected 1.8.3+ Spawner Item Provider as the provider for SpawnerItemProvider
+2025-01-04 01:22:03,376 [32mINFO [m [m[Server thread][m [mEssentials.publish(36)[m: No provider found for SerializationProvider, but it is nullable
+2025-01-04 01:22:03,377 [32mINFO [m [m[Server thread][m [mEssentials.publish(36)[m: Selected Reflection Sync Commands Provider as the provider for SyncCommandsProvider
+2025-01-04 01:22:03,378 [32mINFO [m [m[Server thread][m [mEssentials.publish(36)[m: Selected 1.14+ Sign Data Provider as the provider for SignDataProvider
+2025-01-04 01:22:03,388 [32mINFO [m [m[Server thread][m [mEssentials.publish(36)[m: Selected Bukkit Material Tag Provider as the provider for MaterialTagProvider
+2025-01-04 01:22:03,390 [32mINFO [m [m[Server thread][m [mEssentials.publish(36)[m: Selected 1.14.4+ Persistent Data Container Provider as the provider for PersistentDataProvider
+2025-01-04 01:22:03,393 [32mINFO [m [m[Server thread][m [mEssentials.publish(36)[m: Selected 1.20.5+ Banner Data Provider as the provider for BannerDataProvider
+2025-01-04 01:22:03,397 [32mINFO [m [m[Server thread][m [mEssentials.publish(36)[m: Selected 1.12+ Spawner Block Provider as the provider for SpawnerBlockProvider
+2025-01-04 01:22:03,399 [32mINFO [m [m[Server thread][m [mEssentials.publish(36)[m: No provider found for BiomeKeyProvider, but it is nullable
+2025-01-04 01:22:03,401 [32mINFO [m [m[Server thread][m [mEssentials.publish(36)[m: Selected 1.12.2+ Player Locale Provider as the provider for PlayerLocaleProvider
+2025-01-04 01:22:03,406 [32mINFO [m [m[Server thread][m [mEssentials.publish(36)[m: Selected 1.11+ Item Unbreakable Provider as the provider for ItemUnbreakableProvider
+2025-01-04 01:22:03,409 [32mINFO [m [m[Server thread][m [mEssentials.publish(36)[m: Selected 1.17.1+ World Info Provider as the provider for WorldInfoProvider
+2025-01-04 01:22:03,412 [32mINFO [m [m[Server thread][m [mEssentials.publish(36)[m: Selected Legacy 1.8 Potion Meta Provider as the provider for PotionMetaProvider
+2025-01-04 01:22:03,413 [32mINFO [m [m[Server thread][m [mEssentials.publish(36)[m: Selected Reflection Online Mode Provider as the provider for OnlineModeProvider
+2025-01-04 01:22:03,423 [32mINFO [m [m[Server thread][m [mEssentials.publish(36)[m: Selected Reflection Known Commands Provider as the provider for KnownCommandsProvider
+2025-01-04 01:22:03,426 [32mINFO [m [m[Server thread][m [mEssentials.publish(36)[m: Selected Reflection Formatted Command Alias Provider as the provider for FormattedCommandAliasProvider
+2025-01-04 01:22:03,437 [32mINFO [m [m[Server thread][m [mEssentials.publish(36)[m: Selected 1.13+ Spawn Egg Provider as the provider for SpawnEggProvider
+2025-01-04 01:22:03,748 [32mINFO [m [m[Server thread][m [mEssentials.publish(36)[m: Loaded 43465 items from items.json.
+2025-01-04 01:22:03,756 [32mINFO [m [m[Server thread][m [mEssentials.publish(36)[m: Using locale en
+2025-01-04 01:22:03,902 [32mINFO [m [m[Server thread][m [mEssentials.publish(36)[m: ServerListPingEvent: Spigot iterator API
+2025-01-04 01:22:04,372 [32mINFO [m [m[Server thread][m [mEssentials.publish(36)[m: Starting Metrics. Opt-out using the global bStats config.
+2025-01-04 01:22:04,473 [32mINFO [m [m[Server thread][m [mEssentials.publish(36)[m: Using superperms-based permissions.
+2025-01-04 01:22:04,476 [32mINFO [m [m[Server thread][m [mc.e.e.s.EssentialsSpawn.publish(36)[m: [EssentialsSpawn] Enabling EssentialsSpawn v2.21.0-dev+154-667b0f7
+2025-01-04 01:22:04,491 [32mINFO [m [m[Server thread][m [mEssentialsSpawn.publish(36)[m: Starting Metrics. Opt-out using the global bStats config.
+2025-01-04 01:22:04,493 [32mINFO [m [m[Server thread][m [mc.s.w.b.WorldGuardPlugin.publish(36)[m: [WorldGuard] Enabling WorldGuard v7.0.7+216b061
+2025-01-04 01:22:04,808 [1;31mERROR[m [m[Server thread][m [mc.s.w.WorldEdit.<clinit>(282)[m: No TreeType mapping for TreeGenerator.TreeType.MANGROVE
+2025-01-04 01:22:04,809 [1;31mERROR[m [m[Server thread][m [mc.s.w.WorldEdit.<clinit>(282)[m: No TreeType mapping for TreeGenerator.TreeType.TALL_MANGROVE
+2025-01-04 01:22:04,809 [1;31mERROR[m [m[Server thread][m [mc.s.w.WorldEdit.<clinit>(282)[m: No TreeType mapping for TreeGenerator.TreeType.CHERRY
+2025-01-04 01:22:04,965 [32mINFO [m [m[Server thread][m [mc.s.w.c.WorldConfiguration.publish(36)[m: [WorldGuard] (world) TNT ignition is PERMITTED.
+2025-01-04 01:22:04,966 [32mINFO [m [m[Server thread][m [mc.s.w.c.WorldConfiguration.publish(36)[m: [WorldGuard] (world) Lighters are PERMITTED.
+2025-01-04 01:22:04,967 [32mINFO [m [m[Server thread][m [mc.s.w.c.WorldConfiguration.publish(36)[m: [WorldGuard] (world) Lava fire is PERMITTED.
+2025-01-04 01:22:04,967 [32mINFO [m [m[Server thread][m [mc.s.w.c.WorldConfiguration.publish(36)[m: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+2025-01-04 01:22:04,980 [32mINFO [m [m[Server thread][m [mc.s.w.c.WorldConfiguration.publish(36)[m: [WorldGuard] Loaded configuration for world 'world'
+2025-01-04 01:22:04,982 [32mINFO [m [m[Server thread][m [mc.s.w.c.WorldConfiguration.publish(36)[m: [WorldGuard] (bowels) TNT ignition is PERMITTED.
+2025-01-04 01:22:04,982 [32mINFO [m [m[Server thread][m [mc.s.w.c.WorldConfiguration.publish(36)[m: [WorldGuard] (bowels) Lighters are PERMITTED.
+2025-01-04 01:22:04,983 [32mINFO [m [m[Server thread][m [mc.s.w.c.WorldConfiguration.publish(36)[m: [WorldGuard] (bowels) Lava fire is PERMITTED.
+2025-01-04 01:22:04,983 [32mINFO [m [m[Server thread][m [mc.s.w.c.WorldConfiguration.publish(36)[m: [WorldGuard] (bowels) Fire spread is UNRESTRICTED.
+2025-01-04 01:22:04,988 [32mINFO [m [m[Server thread][m [mc.s.w.c.WorldConfiguration.publish(36)[m: [WorldGuard] Loaded configuration for world 'bowels'
+2025-01-04 01:22:05,007 [32mINFO [m [m[Server thread][m [mc.s.w.WorldGuard.publish(36)[m: [WorldGuard] Loading region data...
+2025-01-04 01:22:05,464 [32mINFO [m [m[Server thread][m [mn.p.b.BigDoors.publish(36)[m: [BigDoors] Enabling BigDoors vAlpha 0.1.8.57
+2025-01-04 01:22:05,641 [32mINFO [m [m[Server thread][m [mMinecraft.publish(36)[m: [BigDoors] Power Block Types:
+2025-01-04 01:22:05,642 [32mINFO [m [m[Server thread][m [mMinecraft.publish(36)[m: [BigDoors]  - GOLD_BLOCK
+2025-01-04 01:22:05,643 [32mINFO [m [m[Server thread][m [mMinecraft.publish(36)[m: [BigDoors] Blacklisted materials:
+2025-01-04 01:22:05,643 [32mINFO [m [m[Server thread][m [mMinecraft.publish(36)[m: [BigDoors]  - BEDROCK
+2025-01-04 01:22:05,644 [32mINFO [m [m[Server thread][m [mMinecraft.publish(36)[m: [BigDoors]  - END_PORTAL
+2025-01-04 01:22:05,644 [32mINFO [m [m[Server thread][m [mMinecraft.publish(36)[m: [BigDoors]  - END_PORTAL_FRAME
+2025-01-04 01:22:05,644 [32mINFO [m [m[Server thread][m [mMinecraft.publish(36)[m: [BigDoors]  - NETHER_PORTAL
+2025-01-04 01:22:05,645 [32mINFO [m [m[Server thread][m [mMinecraft.publish(36)[m: [BigDoors] No materials Whitelisted!
+2025-01-04 01:22:05,648 [32mINFO [m [m[Server thread][m [mMinecraft.publish(36)[m: [BigDoors] DestroyListed materials:
+2025-01-04 01:22:05,649 [32mINFO [m [m[Server thread][m [mMinecraft.publish(36)[m: [BigDoors]  - LAVA
+2025-01-04 01:22:05,650 [32mINFO [m [m[Server thread][m [mMinecraft.publish(36)[m: [BigDoors]  - WATER
+2025-01-04 01:22:05,650 [32mINFO [m [m[Server thread][m [mMinecraft.publish(36)[m: [BigDoors]  - SNOW
+2025-01-04 01:22:05,650 [32mINFO [m [m[Server thread][m [mMinecraft.publish(36)[m: [BigDoors]  - FERN
+2025-01-04 01:22:05,650 [32mINFO [m [m[Server thread][m [mMinecraft.publish(36)[m: [BigDoors]  - GRASS
+2025-01-04 01:22:05,651 [32mINFO [m [m[Server thread][m [mMinecraft.publish(36)[m: [BigDoors]  - TALL_GRASS
+2025-01-04 01:22:05,651 [32mINFO [m [m[Server thread][m [mMinecraft.publish(36)[m: [BigDoors]  - TALL_GRASS
+2025-01-04 01:22:05,653 [32mINFO [m [m[Server thread][m [mMinecraft.publish(36)[m: [BigDoors]  - SEAGRASS
+2025-01-04 01:22:05,653 [32mINFO [m [m[Server thread][m [mMinecraft.publish(36)[m: [BigDoors]  - TALL_SEAGRASS
+2025-01-04 01:22:05,664 [33mWARN [m [m[Server thread][m [mMinecraft.publish(34)[m: [BigDoors] Running in an invalid environment: 'Mohist'. This can be bypassed in the config if you are feeling adventurous (unsafeMode).
+2025-01-04 01:22:05,670 [32mINFO [m [m[Server thread][m [mn.r.w.WorldGuardEvents.publish(36)[m: [WorldGuardEvents] Enabling WorldGuardEvents v1.18.1
+2025-01-04 01:22:05,679 [32mINFO [m [m[Server thread][m [mc.s.w.WorldGuard.publish(36)[m: [WorldGuard] Registering session handler net.raidstone.wgevents.Entry
+2025-01-04 01:22:05,728 [32mINFO [m [m[Server thread][m [mc.a.ConditionalEvents.publish(36)[m: [ConditionalEvents] Enabling ConditionalEvents v4.59.1
+2025-01-04 01:22:05,907 [32mINFO [m [m[Server thread][m [mColouredConsoleSender.sendMessage(55)[m: §4[§bConditionalEvents§4] §eHas been enabled! §fVersion: 4.59.1
+2025-01-04 01:22:05,907 [32mINFO [m [m[Server thread][m [mColouredConsoleSender.sendMessage(55)[m: §4[§bConditionalEvents§4] §eThanks for using my plugin!   §f~Ajneb97
+2025-01-04 01:22:06,013 [32mINFO [m [m[Server thread][m [mMinecraft.publish(36)[m: Server permissions file permissions.yml is empty, ignoring it
+2025-01-04 01:22:06,181 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(228)[m: Done (30.182s)! For help, type "help"
+2025-01-04 01:22:06,447 [32mINFO [m [m[Server thread][m [mn.m.s.p.PermissionAPI.initializePermissionAPI(130)[m: Successfully initialized permission handler forge:default_handler
+2025-01-04 01:22:06,640 [32mINFO [m [m[Server thread][m [mMinecraft.publish(36)[m: [BigDoors] Checking for updates...
+2025-01-04 01:22:06,679 [32mINFO [m [m[Craft Scheduler Thread - 3][m [mEssentials.publish(36)[m: §6Fetching version information...
+2025-01-04 01:22:06,817 [32mINFO [m [m[Craft Scheduler Thread - 1][m [mColouredConsoleSender.sendMessage(55)[m: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+2025-01-04 01:22:06,818 [32mINFO [m [m[Craft Scheduler Thread - 1][m [mColouredConsoleSender.sendMessage(55)[m: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
+2025-01-04 01:22:06,819 [32mINFO [m [m[Craft Scheduler Thread - 1][m [mColouredConsoleSender.sendMessage(55)[m: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |   SkinsRestorer  |[0;39m
+2025-01-04 01:22:06,819 [32mINFO [m [m[Craft Scheduler Thread - 1][m [mColouredConsoleSender.sendMessage(55)[m: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |------------------|[0;39m
+2025-01-04 01:22:06,820 [32mINFO [m [m[Craft Scheduler Thread - 1][m [mColouredConsoleSender.sendMessage(55)[m: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |  [34;1m[4m[21mStandalone Mode[0;39m[32;1m |[0;39m
+2025-01-04 01:22:06,820 [32mINFO [m [m[Craft Scheduler Thread - 1][m [mColouredConsoleSender.sendMessage(55)[m: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
+2025-01-04 01:22:06,822 [32mINFO [m [m[Craft Scheduler Thread - 1][m [mColouredConsoleSender.sendMessage(55)[m: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+2025-01-04 01:22:06,822 [32mINFO [m [m[Craft Scheduler Thread - 1][m [mColouredConsoleSender.sendMessage(55)[m: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Version: [32;1m15.5.1[0;39m
+2025-01-04 01:22:06,823 [32mINFO [m [m[Craft Scheduler Thread - 1][m [mColouredConsoleSender.sendMessage(55)[m: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Commit: [32;1md5d8613[0;39m
+2025-01-04 01:22:06,823 [32mINFO [m [m[Craft Scheduler Thread - 1][m [mColouredConsoleSender.sendMessage(55)[m: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    This is the latest version![0;39m
+2025-01-04 01:22:06,823 [32mINFO [m [m[Craft Scheduler Thread - 1][m [mColouredConsoleSender.sendMessage(55)[m: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+2025-01-04 01:22:06,824 [32mINFO [m [m[Craft Scheduler Thread - 1][m [mColouredConsoleSender.sendMessage(55)[m: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mDo you have issues? Read our troubleshooting guide: [33;1mhttps://skinsrestorer.net/docs/troubleshooting[0;39m
+2025-01-04 01:22:06,825 [32mINFO [m [m[Craft Scheduler Thread - 1][m [mColouredConsoleSender.sendMessage(55)[m: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mWant to support SkinsRestorer? Consider donating: [33;1mhttps://skinsrestorer.net/donate[0;39m
+2025-01-04 01:22:06,864 [32mINFO [m [m[ForkJoinPool.commonPool-worker-1][m [mMinecraft.publish(36)[m: [BigDoors] No new updates available.
+2025-01-04 01:22:08,818 [32mINFO [m [m[User Authenticator #1][m [mn.m.s.n.ServerLoginPacketListenerImpl.fireEvents(401)[m: UUID of player AquilesSC is 7b131ae9-057e-3db0-824e-9ceac7a57a32
+2025-01-04 01:22:12,437 [32mINFO [m [m[Server thread][m [mn.m.c.AdvancementLoadFix.loadVisibility(36)[m: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2b9d759f
+2025-01-04 01:22:13,029 [32mINFO [m [m[Server thread][m [mWaila.playerJoin(139)[m: Syncing config to AquilesSC (7b131ae9-057e-3db0-824e-9ceac7a57a32)
+2025-01-04 01:22:13,049 [32mINFO [m [m[Server thread][m [mn.m.s.p.PlayerList.m_11261_(338)[m: AquilesSC[/127.49.152.53:43039] logged in with entity id 651 at (-481.5654262795072, 83.02759827710553, -345.62587236586603)
+2025-01-04 01:22:22,561 [33mWARN [m [m[Server thread][m [mn.m.s.MinecraftServer.m_130011_(843)[m: Can't keep up! Is the server overloaded? Running 5003ms or 100 ticks behind
+2025-01-04 01:29:13,980 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_7026_(1554)[m: AquilesSC lost connection: Disconnected
+2025-01-04 01:29:13,998 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_6352_(656)[m: AquilesSC left the game
